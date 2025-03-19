@@ -1,4 +1,3 @@
 # Ignorar todo excepto la carpeta world
-*
-!world/
-!.gitignore
+/*
+!/world/
