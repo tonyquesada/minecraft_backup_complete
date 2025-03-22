@@ -2442,9 +2442,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-03-22 13:21:30 -0600"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2025-03-22 13:25:15 -0600"
+    },
+    "done": true
+  },
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2025-03-22 12:39:42 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-03-22 13:22:19 -0600"
     },
     "done": true
   },
