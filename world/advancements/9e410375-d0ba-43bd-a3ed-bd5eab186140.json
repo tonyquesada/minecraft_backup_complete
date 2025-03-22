@@ -342,28 +342,29 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "willow_forest": "2025-02-09 16:03:55 -0600",
       "silver_birch_forest": "2025-02-23 16:09:50 -0600",
-      "temperate_grove": "2025-02-09 01:25:58 -0600",
-      "barley_fields": "2025-02-09 01:29:30 -0600",
-      "redstone_caves": "2025-02-09 16:10:06 -0600",
       "shrubland": "2025-02-09 01:24:42 -0600",
       "deciduous_forest": "2025-02-09 01:27:32 -0600",
-      "grassy_beach": "2025-02-09 01:30:04 -0600",
-      "scorching_caves": "2025-02-09 15:59:57 -0600",
       "glistering_meadow": "2025-02-23 23:23:25 -0600",
-      "prairie": "2025-02-09 01:29:23 -0600",
-      "grassland": "2025-02-26 02:43:07 -0600",
-      "rocky_meadow": "2025-02-05 00:03:02 -0600",
-      "mycotoxic_undergrowth": "2025-02-14 12:38:55 -0600",
+      "pine_taiga": "2025-03-21 19:55:30 -0600",
       "bayou": "2025-02-24 14:31:52 -0600",
-      "flower_fields": "2025-02-05 00:08:13 -0600",
-      "highland_fields": "2025-02-06 17:04:58 -0600",
-      "redwoods": "2025-03-14 01:38:25 -0600",
       "towering_cliffs": "2025-02-24 14:37:52 -0600",
       "prismachasm": "2025-02-09 12:27:51 -0600",
       "infernal_holt": "2025-02-23 23:23:22 -0600",
       "bamboo_forest": "2025-02-09 01:03:18 -0600",
+      "willow_forest": "2025-02-09 16:03:55 -0600",
+      "temperate_grove": "2025-02-09 01:25:58 -0600",
+      "barley_fields": "2025-02-09 01:29:30 -0600",
+      "redstone_caves": "2025-02-09 16:10:06 -0600",
+      "grassy_beach": "2025-02-09 01:30:04 -0600",
+      "scorching_caves": "2025-02-09 15:59:57 -0600",
+      "prairie": "2025-02-09 01:29:23 -0600",
+      "grassland": "2025-02-26 02:43:07 -0600",
+      "rocky_meadow": "2025-02-05 00:03:02 -0600",
+      "mycotoxic_undergrowth": "2025-02-14 12:38:55 -0600",
+      "flower_fields": "2025-02-05 00:08:13 -0600",
+      "highland_fields": "2025-02-06 17:04:58 -0600",
+      "redwoods": "2025-03-14 01:38:25 -0600",
       "magnolia_highlands": "2025-02-09 01:03:40 -0600",
       "lupine_plains": "2025-02-16 03:08:28 -0600"
     },
@@ -381,6 +382,7 @@
       "prairie": "2025-02-09 01:29:23 -0600",
       "grassland": "2025-02-26 02:43:07 -0600",
       "rocky_meadow": "2025-02-05 00:03:02 -0600",
+      "pine_taiga": "2025-03-21 19:55:30 -0600",
       "bayou": "2025-02-24 14:31:52 -0600",
       "flower_fields": "2025-02-05 00:08:13 -0600",
       "highland_fields": "2025-02-06 17:04:58 -0600",
@@ -1464,6 +1466,18 @@
       "fluffy_seeds": "2025-03-14 00:01:49 -0600"
     },
     "done": false
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 19:41:23 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 19:50:37 -0600"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
