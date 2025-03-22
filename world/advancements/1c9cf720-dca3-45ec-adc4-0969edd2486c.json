@@ -2442,15 +2442,21 @@
     },
     "done": true
   },
-  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+  "dungeons_arise:find_merchant_campsite": {
     "criteria": {
-      "comb_cutter_tool": "2025-03-22 14:58:02 -0600"
+      "location0": "2025-03-22 12:39:42 -0600"
     },
     "done": true
   },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-03-22 13:21:30 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-03-22 13:22:19 -0600"
     },
     "done": true
   },
@@ -2466,15 +2472,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_merchant_campsite": {
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
     "criteria": {
-      "location0": "2025-03-22 12:39:42 -0600"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_greenwood_pub": {
-    "criteria": {
-      "location0": "2025-03-22 13:22:19 -0600"
+      "comb_cutter_tool": "2025-03-22 14:58:02 -0600"
     },
     "done": true
   },
