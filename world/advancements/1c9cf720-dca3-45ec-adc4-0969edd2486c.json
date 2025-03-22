@@ -2406,27 +2406,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_thornborn_towers": {
+  "integrateddynamics:network_foundations/networks_logic": {
     "criteria": {
-      "location0": "2025-03-21 23:43:09 -0600"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_mines": {
-    "criteria": {
-      "location0": "2025-03-21 23:40:28 -0600"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
-    "criteria": {
-      "obtain_honey_bucket": "2025-03-22 00:48:32 -0600"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-03-21 23:40:20 -0600"
+      "criteria_0": "2025-03-21 22:40:20 -0600"
     },
     "done": true
   },
@@ -2436,9 +2418,27 @@
     },
     "done": true
   },
-  "integrateddynamics:network_foundations/networks_logic": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "criteria_0": "2025-03-21 22:40:20 -0600"
+      "location0": "2025-03-21 23:40:20 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-03-21 23:40:28 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-03-21 23:43:09 -0600"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-03-22 00:48:32 -0600"
     },
     "done": true
   },
