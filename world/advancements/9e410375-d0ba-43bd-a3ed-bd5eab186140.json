@@ -444,6 +444,7 @@
       "minecraft:blaze": "2025-02-06 01:41:16 -0600",
       "minecraft:pillager": "2025-02-09 01:28:27 -0600",
       "minecraft:skeleton": "2025-02-05 09:41:37 -0600",
+      "minecraft:zoglin": "2025-03-21 23:34:11 -0600",
       "minecraft:witch": "2025-02-24 14:36:38 -0600",
       "minecraft:wither_skeleton": "2025-02-06 01:30:23 -0600",
       "minecraft:bogged": "2025-02-24 14:35:54 -0600",
@@ -457,11 +458,13 @@
       "minecraft:magma_cube": "2025-03-14 00:11:51 -0600",
       "minecraft:spider": "2025-02-06 15:30:38 -0600",
       "minecraft:piglin_brute": "2025-02-23 23:05:23 -0600",
+      "minecraft:vex": "2025-03-21 23:35:07 -0600",
       "minecraft:zombie": "2025-02-05 08:30:06 -0600",
       "minecraft:creeper": "2025-02-05 09:55:04 -0600",
       "minecraft:drowned": "2025-02-16 22:32:21 -0600",
       "minecraft:wither": "2025-02-24 00:19:30 -0600",
-      "minecraft:zombie_villager": "2025-02-23 15:02:51 -0600"
+      "minecraft:zombie_villager": "2025-02-23 15:02:51 -0600",
+      "minecraft:evoker": "2025-03-21 23:35:07 -0600"
     },
     "done": false
   },
@@ -1481,9 +1484,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-03-21 23:55:08 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-03-21 21:33:29 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-03-21 23:42:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-21 23:37:35 -0600"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-03-22 00:03:17 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-03-21 23:42:13 -0600"
     },
     "done": true
   },

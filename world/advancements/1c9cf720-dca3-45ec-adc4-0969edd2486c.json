@@ -511,6 +511,7 @@
       "minecraft:pillager": "2025-02-09 20:52:02 -0600",
       "minecraft:skeleton": "2025-02-04 11:01:28 -0600",
       "minecraft:elder_guardian": "2025-03-02 22:02:08 -0600",
+      "minecraft:zoglin": "2025-03-21 23:34:52 -0600",
       "minecraft:ravager": "2025-02-11 23:20:59 -0600",
       "minecraft:bogged": "2025-02-05 16:58:51 -0600",
       "minecraft:ghast": "2025-02-14 13:51:51 -0600",
@@ -2402,6 +2403,30 @@
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-21 21:47:57 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-03-21 23:43:09 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-03-21 23:40:28 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-03-21 23:40:20 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 23:16:28 -0600"
     },
     "done": true
   },
