@@ -2442,5 +2442,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-03-22 12:39:42 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
