@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 1296, y: -31, z: -900, time: 1742607683527L, xRot: -4.5548067f, yRot: 166.74255f }
+	last_seen: { dim: "minecraft:overworld", x: 219, y: 45, z: -31, time: 1742626034241L, xRot: 47.136852f, yRot: -177.054f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 209, y: 25, z: -22, time: 1742617992009L, xRot: -3.6254497f, yRot: -78.86135f }
-		{ dim: "allthemodium:mining", x: 230, y: -63, z: 154, time: 1742619102095L, xRot: 25.414564f, yRot: 115.90738f }
-		{ dim: "allthemodium:the_other", x: 20, y: -61, z: -36, time: 1742619298134L }
-		{ dim: "minecraft:overworld", x: 228, y: 45, z: -54, time: 1742619306940L, xRot: 5.924191f, yRot: 163.06505f }
-		{ dim: "allthemodium:the_other", x: 21, y: -60, z: -70, time: 1742619356052L, xRot: 3.111808f, yRot: -19.167511f }
-		{ dim: "allthemodium:the_beyond", x: 4928, y: -1, z: 549, time: 1742619669555L, xRot: 12.221543f, yRot: 60.287422f }
-		{ dim: "minecraft:overworld", x: 224, y: 45, z: -56, time: 1742619671428L }
 		{ dim: "allthemodium:mining", x: -283, y: 83, z: -602, time: 1742621279461L, xRot: 5.716244f, yRot: 90.54059f }
 		{ dim: "minecraft:overworld", x: 209, y: 25, z: -34, time: 1742621541443L, xRot: 17.167227f, yRot: 138.61789f }
 		{ dim: "allthemodium:the_other", x: -1277, y: -54, z: 102, time: 1742622475492L, xRot: 2.5800161f, yRot: 63.101715f }
+		{ dim: "allthemodium:the_other", x: -747, y: 10, z: 1408, time: 1742623627288L, xRot: 11.823908f, yRot: -161.23035f }
+		{ dim: "minecraft:overworld", x: 209, y: 45, z: -44, time: 1742624753681L, xRot: 53.99019f, yRot: 62.19339f }
+		{ dim: "minecraft:overworld", x: 233, y: 47, z: -52, time: 1742624786443L, xRot: 30.409653f, yRot: -176.82182f }
+		{ dim: "minecraft:overworld", x: 213, y: 61, z: -111, time: 1742625005155L, xRot: 24.27758f, yRot: 157.59264f }
+		{ dim: "minecraft:overworld", x: 228, y: 45, z: -60, time: 1742625586385L, xRot: 20.303675f, yRot: 8.803131f }
+		{ dim: "minecraft:overworld", x: 223, y: 57, z: -139, time: 1742625781742L, xRot: 25.606356f, yRot: -38.801178f }
+		{ dim: "minecraft:overworld", x: 222, y: 46, z: -32, time: 1742625970687L, xRot: 45.858868f, yRot: 123.14126f }
 	]
 	homes: {
 		casa: { dim: "minecraft:overworld", x: 224, y: 45, z: -56, time: 1739559405423L, xRot: 25.879416f, yRot: -94.7941f }

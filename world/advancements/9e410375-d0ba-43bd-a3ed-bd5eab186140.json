@@ -1502,6 +1502,12 @@
     },
     "done": true
   },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-03-22 00:22:36 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-03-21 23:37:35 -0600"

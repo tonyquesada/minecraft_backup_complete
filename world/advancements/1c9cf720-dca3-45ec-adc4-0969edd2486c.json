@@ -2418,6 +2418,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-03-22 00:48:32 -0600"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-03-21 23:40:20 -0600"
