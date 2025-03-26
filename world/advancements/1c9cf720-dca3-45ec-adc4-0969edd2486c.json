@@ -2396,7 +2396,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "liveroot": "2025-03-18 17:58:08 -0600"
+      "liveroot": "2025-03-18 17:58:08 -0600",
+      "canopy_log": "2025-03-25 22:54:22 -0600"
     },
     "done": false
   },
