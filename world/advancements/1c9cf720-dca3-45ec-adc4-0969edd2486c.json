@@ -2502,9 +2502,21 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "winter_wolf": "2025-03-25 22:39:10 -0600"
+    },
+    "done": true
+  },
   "cataclysm:kill_remnant": {
     "criteria": {
       "ignis": "2025-03-25 20:38:15 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-03-25 22:19:16 -0600"
     },
     "done": true
   },
