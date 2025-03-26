@@ -1713,6 +1713,7 @@
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_crimson": "2025-03-24 01:08:12 -0600",
+      "in_outpost_icy": "2025-03-25 21:43:38 -0600",
       "in_outpost_nether_brick": "2025-02-16 18:41:01 -0600",
       "in_outpost_badlands": "2025-02-24 18:41:18 -0600",
       "in_outpost_jungle": "2025-03-18 17:55:14 -0600",
