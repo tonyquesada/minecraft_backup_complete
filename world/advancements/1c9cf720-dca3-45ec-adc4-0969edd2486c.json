@@ -2503,9 +2503,9 @@
     },
     "done": true
   },
-  "twilightforest:twilight_hunter": {
+  "cataclysm:find_cursed_pyramid": {
     "criteria": {
-      "winter_wolf": "2025-03-25 22:39:10 -0600"
+      "pyramid": "2025-03-25 20:13:11 -0600"
     },
     "done": true
   },
@@ -2521,9 +2521,9 @@
     },
     "done": true
   },
-  "cataclysm:find_cursed_pyramid": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "pyramid": "2025-03-25 20:13:11 -0600"
+      "winter_wolf": "2025-03-25 22:39:10 -0600"
     },
     "done": true
   },
