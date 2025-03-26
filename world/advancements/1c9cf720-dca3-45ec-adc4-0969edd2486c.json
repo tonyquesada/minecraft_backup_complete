@@ -136,6 +136,7 @@
       "minecraft:forest": "2025-02-05 16:43:26 -0600",
       "minecraft:lush_caves": "2025-02-05 09:45:25 -0600",
       "minecraft:deep_cold_ocean": "2025-02-24 18:06:52 -0600",
+      "minecraft:ice_spikes": "2025-03-25 20:02:38 -0600",
       "minecraft:frozen_ocean": "2025-02-11 22:37:18 -0600",
       "minecraft:desert": "2025-02-18 18:44:19 -0600",
       "minecraft:deep_frozen_ocean": "2025-03-25 19:23:05 -0600",
@@ -659,6 +660,7 @@
       "flower_fields": "2025-02-04 14:47:05 -0600",
       "highland_fields": "2025-02-06 15:47:42 -0600",
       "maple_forest": "2025-02-10 15:59:22 -0600",
+      "frozen_pine_taiga": "2025-03-25 19:58:39 -0600",
       "tropical_river": "2025-02-21 14:39:23 -0600",
       "magnolia_highlands": "2025-02-09 01:04:09 -0600",
       "eucalyptus_forest": "2025-03-01 22:55:30 -0600",
@@ -682,6 +684,8 @@
       "grassland": "2025-03-02 13:53:31 -0600",
       "gravel_beach": "2025-03-02 14:11:10 -0600",
       "redwoods": "2025-02-21 14:25:01 -0600",
+      "icy_heights": "2025-03-25 21:08:17 -0600",
+      "hyacinth_deeps": "2025-03-25 21:05:23 -0600",
       "rainforest": "2025-02-24 18:43:51 -0600",
       "bioshroom_caves": "2025-02-27 00:23:37 -0600",
       "lupine_plains": "2025-02-23 14:23:23 -0600"
@@ -725,6 +729,9 @@
       "highland_fields": "2025-02-06 15:47:42 -0600",
       "redwoods": "2025-02-21 14:25:01 -0600",
       "maple_forest": "2025-02-10 15:59:22 -0600",
+      "frozen_pine_taiga": "2025-03-25 19:58:39 -0600",
+      "icy_heights": "2025-03-25 21:08:17 -0600",
+      "hyacinth_deeps": "2025-03-25 21:05:23 -0600",
       "rainforest": "2025-02-24 18:43:51 -0600",
       "tropical_river": "2025-02-21 14:39:23 -0600",
       "magnolia_highlands": "2025-02-09 01:04:09 -0600",
@@ -1847,7 +1854,8 @@
       "in_pyramid_giant_tree_taiga": "2025-03-18 17:51:31 -0600",
       "in_pyramid_ocean": "2025-02-24 18:30:35 -0600",
       "in_pyramid_nether": "2025-02-16 18:36:40 -0600",
-      "in_pyramid_jungle": "2025-02-24 18:43:52 -0600"
+      "in_pyramid_jungle": "2025-02-24 18:43:52 -0600",
+      "in_pyramid_snowy": "2025-03-25 19:58:18 -0600"
     },
     "done": false
   },
@@ -2490,6 +2498,18 @@
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2025-03-22 23:46:23 -0600"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-03-25 20:38:15 -0600"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-03-25 20:13:11 -0600"
     },
     "done": true
   },
