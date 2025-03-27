@@ -2396,7 +2396,9 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "dark_log": "2025-03-27 00:50:58 -0600",
       "liveroot": "2025-03-18 17:58:08 -0600",
+      "twilight_oak_sapling": "2025-03-27 00:52:46 -0600",
       "canopy_log": "2025-03-25 22:54:22 -0600"
     },
     "done": false
@@ -2527,15 +2529,52 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-03-27 00:56:13 -0600"
+    },
+    "done": false
+  },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-03-27 00:20:33 -0600"
     },
     "done": true
   },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-03-27 00:56:13 -0600"
+    },
+    "done": false
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "was_in_fight": "2025-03-27 00:56:13 -0600",
+      "kill_naga": "2025-03-27 00:52:54 -0600"
+    },
+    "done": true
+  },
   "twilightforest:magic_map_focus": {
     "criteria": {
       "focus": "2025-03-27 00:19:57 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-03-27 00:56:13 -0600"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-03-27 00:52:54 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2025-03-27 00:27:32 -0600"
     },
     "done": true
   },
