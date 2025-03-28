@@ -2401,8 +2401,11 @@
       "liveroot": "2025-03-18 17:58:08 -0600",
       "twilight_oak_sapling": "2025-03-27 00:52:46 -0600",
       "canopy_log": "2025-03-25 22:54:22 -0600",
+      "towerwood": "2025-03-27 21:24:46 -0600",
       "twilight_oak_log": "2025-03-27 19:05:20 -0600",
       "twilight_oak_wood": "2025-03-27 20:47:58 -0600",
+      "darkwood_sapling": "2025-03-27 21:12:46 -0600",
+      "dark_wood": "2025-03-27 21:12:49 -0600",
       "rainbow_oak_sapling": "2025-03-27 20:55:08 -0600",
       "hedge": "2025-03-27 19:08:34 -0600"
     },
@@ -2567,9 +2570,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-03-27 00:56:13 -0600"
+      "kill_lich": "2025-03-27 00:56:13 -0600",
+      "trophy_pedestal": "2025-03-27 21:08:15 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -2609,6 +2613,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-03-27 21:10:10 -0600"
+    },
+    "done": false
+  },
   "twilightforest:mazebreaker": {
     "criteria": {
       "pick": "2025-03-27 20:29:38 -0600"
@@ -2618,6 +2628,19 @@
   "twilightforest:ore_map": {
     "criteria": {
       "ore_map": "2025-03-27 20:17:49 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:quest_ram": {
+    "criteria": {
+      "quest_ram_complete": "2025-03-27 20:59:12 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-03-27 21:10:10 -0600",
+      "previous_progression": "2025-03-27 21:08:15 -0600"
     },
     "done": true
   },
