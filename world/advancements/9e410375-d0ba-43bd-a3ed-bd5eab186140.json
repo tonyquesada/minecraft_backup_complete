@@ -1100,9 +1100,10 @@
   },
   "silentgear:azure_silver": {
     "criteria": {
-      "get_ore": "2025-02-23 16:18:49 -0600"
+      "get_ore": "2025-02-23 16:18:49 -0600",
+      "get_ingot": "2025-03-28 01:14:00 -0600"
     },
-    "done": false
+    "done": true
   },
   "minecraft:end/find_end_city": {
     "criteria": {
@@ -1548,15 +1549,39 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-28 02:27:05 -0600"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "giant_log": "2025-03-27 21:59:49 -0600"
     },
     "done": false
   },
+  "apothic_enchanting:upgrade_hellshelf": {
+    "criteria": {
+      "glowing": "2025-03-28 02:40:32 -0600"
+    },
+    "done": true
+  },
   "constructionstick:template_unbreakable": {
     "criteria": {
       "template_unbreakable": "2025-03-27 23:03:44 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-03-28 02:30:08 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-03-28 02:34:16 -0600"
     },
     "done": true
   },
@@ -1569,6 +1594,12 @@
     },
     "done": true
   },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-03-28 02:21:32 -0600"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-03-27 23:55:27 -0600"
@@ -1578,6 +1609,12 @@
   "constructionstick:iron_stick": {
     "criteria": {
       "iron_stick": "2025-03-27 22:53:52 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-28 02:34:45 -0600"
     },
     "done": true
   },
