@@ -1544,6 +1544,12 @@
     },
     "done": false
   },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-03-27 22:53:52 -0600"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-03-27 21:44:38 -0600"

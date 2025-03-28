@@ -2407,9 +2407,11 @@
       "hedge": "2025-03-27 19:08:34 -0600",
       "giant_log": "2025-03-27 21:59:53 -0600",
       "dark_log": "2025-03-27 00:50:58 -0600",
+      "cracked_towerwood": "2025-03-27 22:42:34 -0600",
       "canopy_log": "2025-03-25 22:54:22 -0600",
       "towerwood": "2025-03-27 21:24:46 -0600",
       "thorn_rose": "2025-03-27 21:57:22 -0600",
+      "huge_stalk": "2025-03-27 22:06:53 -0600",
       "rainbow_oak_sapling": "2025-03-27 20:55:08 -0600"
     },
     "done": false
@@ -2592,17 +2594,31 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-03-27 22:05:53 -0600",
+      "use_beans": "2025-03-27 22:06:44 -0600"
+    },
+    "done": true
+  },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2025-03-27 21:53:58 -0600"
+      "previous_progression": "2025-03-27 21:53:58 -0600",
+      "lamp": "2025-03-27 22:13:17 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-03-27 20:46:32 -0600",
       "snow_queen": "2025-03-27 21:53:58 -0600",
       "ur_ghast": "2025-03-27 21:32:26 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-03-27 22:05:24 -0600"
     },
     "done": true
   },
@@ -2659,9 +2675,10 @@
   },
   "twilightforest:giants": {
     "criteria": {
+      "pickaxe": "2025-03-27 22:05:53 -0600",
       "giant": "2025-03-27 21:59:03 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_knights": {
     "criteria": {
@@ -2678,9 +2695,10 @@
   },
   "twilightforest:progression_end": {
     "criteria": {
+      "previous_progression": "2025-03-27 22:13:17 -0600",
       "plateau": "2025-03-27 19:17:01 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:maze_map": {
     "criteria": {
