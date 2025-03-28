@@ -107,6 +107,7 @@
       "minecraft:cold_ocean": "2025-02-23 21:19:40 -0600",
       "minecraft:forest": "2025-02-09 01:06:06 -0600",
       "minecraft:taiga": "2025-02-23 21:23:22 -0600",
+      "minecraft:deep_ocean": "2025-03-28 00:27:37 -0600",
       "minecraft:lush_caves": "2025-02-05 09:54:39 -0600",
       "minecraft:frozen_ocean": "2025-02-23 12:28:39 -0600",
       "minecraft:desert": "2025-03-06 18:51:47 -0600",
@@ -357,6 +358,7 @@
       "prismachasm": "2025-02-09 12:27:51 -0600",
       "infernal_holt": "2025-02-23 23:23:22 -0600",
       "bamboo_forest": "2025-02-09 01:03:18 -0600",
+      "marsh": "2025-03-28 00:24:34 -0600",
       "willow_forest": "2025-02-09 16:03:55 -0600",
       "temperate_grove": "2025-02-09 01:25:58 -0600",
       "barley_fields": "2025-02-09 01:29:30 -0600",
@@ -397,6 +399,7 @@
       "towering_cliffs": "2025-02-24 14:37:52 -0600",
       "bamboo_forest": "2025-02-09 01:03:18 -0600",
       "magnolia_highlands": "2025-02-09 01:03:40 -0600",
+      "marsh": "2025-03-28 00:24:34 -0600",
       "lupine_plains": "2025-02-16 03:08:28 -0600"
     },
     "done": false
@@ -981,6 +984,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "pine_log": "2025-03-28 00:11:14 -0600",
       "yellow_bioshroom_stem": "2025-02-14 12:39:30 -0600"
     },
     "done": false
@@ -1553,6 +1557,15 @@
   "constructionstick:template_unbreakable": {
     "criteria": {
       "template_unbreakable": "2025-03-27 23:03:44 -0600"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-03-28 00:22:36 -0600",
+      "silicon": "2025-03-28 00:22:36 -0600",
+      "engineering": "2025-03-28 00:22:36 -0600",
+      "logic": "2025-03-28 00:22:36 -0600"
     },
     "done": true
   },
