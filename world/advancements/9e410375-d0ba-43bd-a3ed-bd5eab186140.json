@@ -1532,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-27 23:03:32 -0600"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2025-03-27 21:58:59 -0600"
@@ -1543,6 +1549,12 @@
       "giant_log": "2025-03-27 21:59:49 -0600"
     },
     "done": false
+  },
+  "constructionstick:template_unbreakable": {
+    "criteria": {
+      "template_unbreakable": "2025-03-27 23:03:44 -0600"
+    },
+    "done": true
   },
   "constructionstick:iron_stick": {
     "criteria": {
