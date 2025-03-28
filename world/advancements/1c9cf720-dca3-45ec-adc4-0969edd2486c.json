@@ -2397,10 +2397,13 @@
   "twilightforest:arborist": {
     "criteria": {
       "dark_log": "2025-03-27 00:50:58 -0600",
+      "canopy_sapling": "2025-03-27 20:55:11 -0600",
       "liveroot": "2025-03-18 17:58:08 -0600",
       "twilight_oak_sapling": "2025-03-27 00:52:46 -0600",
       "canopy_log": "2025-03-25 22:54:22 -0600",
       "twilight_oak_log": "2025-03-27 19:05:20 -0600",
+      "twilight_oak_wood": "2025-03-27 20:47:58 -0600",
+      "rainbow_oak_sapling": "2025-03-27 20:55:08 -0600",
       "hedge": "2025-03-27 19:08:34 -0600"
     },
     "done": false
@@ -2570,9 +2573,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-03-27 20:45:14 -0600",
       "kill_lich": "2025-03-27 00:56:13 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -2580,9 +2584,40 @@
     },
     "done": false
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-03-27 20:46:32 -0600"
+    },
+    "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "was_in_fight": "2025-03-27 20:46:32 -0600",
+      "stroganoff": "2025-03-27 20:45:14 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-03-27 20:45:14 -0600"
+    },
+    "done": false
+  },
   "twilightforest:naga_armors": {
     "criteria": {
       "armor": "2025-03-27 18:58:09 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-03-27 20:29:38 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:ore_map": {
+    "criteria": {
+      "ore_map": "2025-03-27 20:17:49 -0600"
     },
     "done": true
   },
