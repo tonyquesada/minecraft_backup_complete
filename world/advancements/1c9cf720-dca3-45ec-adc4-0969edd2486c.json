@@ -2594,31 +2594,34 @@
     },
     "done": true
   },
-  "twilightforest:beanstalk": {
+  "twilightforest:naga_armors": {
     "criteria": {
-      "beans": "2025-03-27 22:05:53 -0600",
-      "use_beans": "2025-03-27 22:06:44 -0600"
+      "armor": "2025-03-27 18:58:09 -0600"
     },
     "done": true
   },
-  "twilightforest:progress_troll": {
+  "twilightforest:progression_end": {
     "criteria": {
-      "previous_progression": "2025-03-27 21:53:58 -0600",
-      "lamp": "2025-03-27 22:13:17 -0600"
+      "previous_progression": "2025-03-27 22:13:17 -0600",
+      "plateau": "2025-03-27 19:17:01 -0600"
     },
     "done": true
   },
-  "twilightforest:progress_merge": {
+  "twilightforest:maze_map": {
     "criteria": {
-      "hydra": "2025-03-27 20:46:32 -0600",
-      "snow_queen": "2025-03-27 21:53:58 -0600",
-      "ur_ghast": "2025-03-27 21:32:26 -0600"
+      "maze_map": "2025-03-27 19:26:20 -0600"
     },
     "done": true
   },
-  "twilightforest:troll": {
+  "twilightforest:ore_map": {
     "criteria": {
-      "troll": "2025-03-27 22:05:24 -0600"
+      "ore_map": "2025-03-27 20:17:49 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-03-27 20:29:38 -0600"
     },
     "done": true
   },
@@ -2635,48 +2638,17 @@
     },
     "done": false
   },
-  "twilightforest:naga_armors": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "armor": "2025-03-27 18:58:09 -0600"
-    },
-    "done": true
-  },
-  "twilightforest:progress_glacier": {
-    "criteria": {
-      "previous_progression": "2025-03-27 21:45:12 -0600",
-      "trophy": "2025-03-27 21:53:58 -0600"
-    },
-    "done": true
-  },
-  "twilightforest:progress_ur_ghast": {
-    "criteria": {
-      "previous_progression": "2025-03-27 21:10:10 -0600",
-      "was_in_fight": "2025-03-27 21:32:26 -0600"
-    },
-    "done": true
-  },
-  "twilightforest:mazebreaker": {
-    "criteria": {
-      "pick": "2025-03-27 20:29:38 -0600"
-    },
-    "done": true
-  },
-  "twilightforest:ore_map": {
-    "criteria": {
-      "ore_map": "2025-03-27 20:17:49 -0600"
+      "hydra": "2025-03-27 20:46:32 -0600",
+      "snow_queen": "2025-03-27 21:53:58 -0600",
+      "ur_ghast": "2025-03-27 21:32:26 -0600"
     },
     "done": true
   },
   "twilightforest:quest_ram": {
     "criteria": {
       "quest_ram_complete": "2025-03-27 20:59:12 -0600"
-    },
-    "done": true
-  },
-  "twilightforest:giants": {
-    "criteria": {
-      "pickaxe": "2025-03-27 22:05:53 -0600",
-      "giant": "2025-03-27 21:59:03 -0600"
     },
     "done": true
   },
@@ -2687,22 +2659,50 @@
     },
     "done": true
   },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-03-27 21:10:10 -0600",
+      "was_in_fight": "2025-03-27 21:32:26 -0600"
+    },
+    "done": true
+  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2025-03-27 21:26:15 -0600"
     },
     "done": true
   },
-  "twilightforest:progression_end": {
+  "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-03-27 22:13:17 -0600",
-      "plateau": "2025-03-27 19:17:01 -0600"
+      "previous_progression": "2025-03-27 21:45:12 -0600",
+      "trophy": "2025-03-27 21:53:58 -0600"
     },
     "done": true
   },
-  "twilightforest:maze_map": {
+  "twilightforest:progress_troll": {
     "criteria": {
-      "maze_map": "2025-03-27 19:26:20 -0600"
+      "previous_progression": "2025-03-27 21:53:58 -0600",
+      "lamp": "2025-03-27 22:13:17 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-03-27 22:05:53 -0600",
+      "giant": "2025-03-27 21:59:03 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-03-27 22:05:24 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-03-27 22:05:53 -0600",
+      "use_beans": "2025-03-27 22:06:44 -0600"
     },
     "done": true
   },
