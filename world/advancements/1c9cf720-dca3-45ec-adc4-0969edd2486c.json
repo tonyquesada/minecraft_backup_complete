@@ -2706,15 +2706,15 @@
     },
     "done": true
   },
-  "apothic_enchanting:seashelf": {
-    "criteria": {
-      "seashelf": "2025-03-29 00:45:02 -0600"
-    },
-    "done": true
-  },
   "ae2:main/growth_accelerator": {
     "criteria": {
       "certus": "2025-03-28 19:30:00 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:seashelf": {
+    "criteria": {
+      "seashelf": "2025-03-29 00:45:02 -0600"
     },
     "done": true
   },
