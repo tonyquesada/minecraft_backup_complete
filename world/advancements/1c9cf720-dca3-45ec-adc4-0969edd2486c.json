@@ -2724,5 +2724,11 @@
     },
     "done": true
   },
+  "apothic_enchanting:hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-03-29 13:29:59 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
