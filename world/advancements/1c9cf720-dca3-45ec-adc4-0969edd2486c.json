@@ -2724,9 +2724,45 @@
     },
     "done": true
   },
+  "apothic_enchanting:deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-03-29 15:48:59 -0600"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-03-29 11:21:13 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:80ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:56:36 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:48:57 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:56:36 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_seashelf": {
+    "criteria": {
+      "heart": "2025-03-29 15:47:28 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:sculkshelf": {
+    "criteria": {
+      "soul_touched": "2025-03-29 15:50:11 -0600"
     },
     "done": true
   },
@@ -2739,6 +2775,30 @@
   "apothic_enchanting:hellshelf": {
     "criteria": {
       "hellshelf": "2025-03-29 13:29:59 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:44:59 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:44:59 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:40:32 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:48:57 -0600"
     },
     "done": true
   },
