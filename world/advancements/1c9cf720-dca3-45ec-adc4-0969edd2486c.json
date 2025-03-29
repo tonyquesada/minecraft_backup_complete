@@ -2718,9 +2718,21 @@
     },
     "done": true
   },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 14:37:33 -0600"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-03-29 11:21:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 14:37:33 -0600"
     },
     "done": true
   },
