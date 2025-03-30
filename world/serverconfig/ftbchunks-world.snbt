@@ -1,3 +1,9 @@
+# Server-specific configuration for FTB Chunks
+# Modpack defaults should be defined in <instance>/config/ftbchunks-world.snbt
+#   (may be overwritten on modpack update)
+# Server admins may locally override this by copying into <instance>/world/serverconfig/ftbchunks-world.snbt
+#   (will NOT be overwritten on modpack update)
+
 {
 	# Forced modes won't let players change their ally settings
 	# Default: "default"
