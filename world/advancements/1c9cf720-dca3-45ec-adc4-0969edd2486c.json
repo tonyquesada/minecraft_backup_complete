@@ -2772,6 +2772,12 @@
     },
     "done": true
   },
+  "apothic_enchanting:100ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 19:31:27 -0600"
+    },
+    "done": true
+  },
   "apothic_enchanting:hellshelf": {
     "criteria": {
       "hellshelf": "2025-03-29 13:29:59 -0600"
@@ -2781,6 +2787,12 @@
   "apothic_enchanting:quanta50": {
     "criteria": {
       "enchanted_item": "2025-03-29 15:44:59 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 20:24:23 -0600"
     },
     "done": true
   },
