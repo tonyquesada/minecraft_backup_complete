@@ -2408,10 +2408,12 @@
       "giant_log": "2025-03-27 21:59:53 -0600",
       "dark_log": "2025-03-27 00:50:58 -0600",
       "cracked_towerwood": "2025-03-27 22:42:34 -0600",
+      "mangrove_sapling": "2025-03-29 23:14:03 -0600",
       "canopy_log": "2025-03-25 22:54:22 -0600",
       "towerwood": "2025-03-27 21:24:46 -0600",
       "thorn_rose": "2025-03-27 21:57:22 -0600",
       "huge_stalk": "2025-03-27 22:06:53 -0600",
+      "dark_leaves": "2025-03-29 23:56:57 -0600",
       "rainbow_oak_sapling": "2025-03-27 20:55:08 -0600"
     },
     "done": false
@@ -2718,63 +2720,9 @@
     },
     "done": true
   },
-  "apothic_enchanting:30ench": {
-    "criteria": {
-      "enchanted_item": "2025-03-29 14:37:33 -0600"
-    },
-    "done": true
-  },
-  "apothic_enchanting:deepshelf": {
-    "criteria": {
-      "deepshelf": "2025-03-29 15:48:59 -0600"
-    },
-    "done": true
-  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-03-29 11:21:13 -0600"
-    },
-    "done": true
-  },
-  "apothic_enchanting:80ench": {
-    "criteria": {
-      "enchanted_item": "2025-03-29 15:56:36 -0600"
-    },
-    "done": true
-  },
-  "apothic_enchanting:arcana50": {
-    "criteria": {
-      "enchanted_item": "2025-03-29 15:48:57 -0600"
-    },
-    "done": true
-  },
-  "apothic_enchanting:quanta100": {
-    "criteria": {
-      "enchanted_item": "2025-03-29 15:56:36 -0600"
-    },
-    "done": true
-  },
-  "apothic_enchanting:upgrade_seashelf": {
-    "criteria": {
-      "heart": "2025-03-29 15:47:28 -0600"
-    },
-    "done": true
-  },
-  "apothic_enchanting:sculkshelf": {
-    "criteria": {
-      "soul_touched": "2025-03-29 15:50:11 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-03-29 14:37:33 -0600"
-    },
-    "done": true
-  },
-  "apothic_enchanting:100ench": {
-    "criteria": {
-      "enchanted_item": "2025-03-29 19:31:27 -0600"
     },
     "done": true
   },
@@ -2784,21 +2732,75 @@
     },
     "done": true
   },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 14:37:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 14:37:33 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:40:32 -0600"
+    },
+    "done": true
+  },
   "apothic_enchanting:quanta50": {
     "criteria": {
       "enchanted_item": "2025-03-29 15:44:59 -0600"
     },
     "done": true
   },
-  "apothic_enchanting:max_stats": {
-    "criteria": {
-      "enchanted_item": "2025-03-29 20:24:23 -0600"
-    },
-    "done": true
-  },
   "apothic_enchanting:enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-03-29 15:44:59 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_seashelf": {
+    "criteria": {
+      "heart": "2025-03-29 15:47:28 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:48:57 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:48:57 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-03-29 15:48:59 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:sculkshelf": {
+    "criteria": {
+      "soul_touched": "2025-03-29 15:50:11 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:80ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:56:36 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 15:56:36 -0600"
     },
     "done": true
   },
@@ -2814,15 +2816,51 @@
     },
     "done": true
   },
-  "apothic_enchanting:60ench": {
+  "apothic_enchanting:100ench": {
     "criteria": {
-      "enchanted_item": "2025-03-29 15:40:32 -0600"
+      "enchanted_item": "2025-03-29 19:31:27 -0600"
     },
     "done": true
   },
-  "apothic_enchanting:arcana100": {
+  "apothic_enchanting:max_stats": {
     "criteria": {
-      "enchanted_item": "2025-03-29 15:48:57 -0600"
+      "enchanted_item": "2025-03-29 20:24:23 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 22:26:48 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 22:27:42 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/free_soul": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 22:28:21 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_2": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 22:36:51 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 22:37:46 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 23:06:38 -0600"
     },
     "done": true
   },
