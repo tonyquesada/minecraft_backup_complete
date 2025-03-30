@@ -2796,6 +2796,12 @@
     },
     "done": true
   },
+  "apothic_enchanting:upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-03-29 18:43:26 -0600"
+    },
+    "done": true
+  },
   "apothic_enchanting:60ench": {
     "criteria": {
       "enchanted_item": "2025-03-29 15:40:32 -0600"
