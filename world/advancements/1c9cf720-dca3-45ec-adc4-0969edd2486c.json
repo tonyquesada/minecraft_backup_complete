@@ -2790,6 +2790,12 @@
     },
     "done": true
   },
+  "apothic_enchanting:endshelf": {
+    "criteria": {
+      "endshelf": "2025-03-29 16:13:06 -0600"
+    },
+    "done": true
+  },
   "apothic_enchanting:60ench": {
     "criteria": {
       "enchanted_item": "2025-03-29 15:40:32 -0600"
