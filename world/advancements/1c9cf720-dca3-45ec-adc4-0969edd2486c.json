@@ -2876,15 +2876,15 @@
     },
     "done": true
   },
-  "undergarden:undergarden/kill_rotling": {
+  "undergarden:undergarden/catalyst": {
     "criteria": {
-      "kill_rotling": "2025-03-30 19:24:59 -0600"
+      "has_catalyst": "2025-03-30 19:15:33 -0600"
     },
     "done": true
   },
-  "undergarden:undergarden/forgotten_ingot": {
+  "undergarden:undergarden/enter_undergarden": {
     "criteria": {
-      "has_forgotten_ingot": "2025-03-30 21:35:31 -0600"
+      "enter_undergarden": "2025-03-30 19:21:21 -0600"
     },
     "done": true
   },
@@ -2902,33 +2902,21 @@
     },
     "done": false
   },
+  "undergarden:undergarden/underbeans": {
+    "criteria": {
+      "has_underbeans": "2025-03-30 19:23:38 -0600"
+    },
+    "done": true
+  },
   "undergarden:undergarden/kill_scintling": {
     "criteria": {
       "kill_scintling": "2025-03-30 19:23:43 -0600"
     },
     "done": true
   },
-  "undergarden:undergarden/cloggrum_battleaxe": {
-    "criteria": {
-      "has_cloggrum_battleaxe": "2025-03-30 21:35:30 -0600"
-    },
-    "done": true
-  },
   "undergarden:undergarden/mine_ore": {
     "criteria": {
       "has_raw_cloggrum": "2025-03-30 19:24:28 -0600"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/kill_forgotten_guardian": {
-    "criteria": {
-      "kill_forgotten_guardian": "2025-03-30 21:29:50 -0600"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/catacombs": {
-    "criteria": {
-      "enter_catacombs": "2025-03-30 21:26:49 -0600"
     },
     "done": true
   },
@@ -2940,21 +2928,27 @@
     },
     "done": true
   },
-  "undergarden:undergarden/catalyst": {
+  "undergarden:undergarden/kill_rotling": {
     "criteria": {
-      "has_catalyst": "2025-03-30 19:15:33 -0600"
+      "kill_rotling": "2025-03-30 19:24:59 -0600"
     },
     "done": true
   },
-  "undergarden:undergarden/underbeans": {
+  "undergarden:undergarden/catch_gwibling": {
     "criteria": {
-      "has_underbeans": "2025-03-30 19:23:38 -0600"
+      "has_gwibling_bucket": "2025-03-30 20:37:31 -0600"
     },
     "done": true
   },
-  "undergarden:undergarden/enter_undergarden": {
+  "undergarden:undergarden/catacombs": {
     "criteria": {
-      "enter_undergarden": "2025-03-30 19:21:21 -0600"
+      "enter_catacombs": "2025-03-30 21:26:49 -0600"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/kill_forgotten_guardian": {
+    "criteria": {
+      "kill_forgotten_guardian": "2025-03-30 21:29:50 -0600"
     },
     "done": true
   },
@@ -2964,9 +2958,15 @@
     },
     "done": true
   },
-  "undergarden:undergarden/catch_gwibling": {
+  "undergarden:undergarden/cloggrum_battleaxe": {
     "criteria": {
-      "has_gwibling_bucket": "2025-03-30 20:37:31 -0600"
+      "has_cloggrum_battleaxe": "2025-03-30 21:35:30 -0600"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/forgotten_ingot": {
+    "criteria": {
+      "has_forgotten_ingot": "2025-03-30 21:35:31 -0600"
     },
     "done": true
   },
