@@ -2882,12 +2882,21 @@
     },
     "done": true
   },
+  "undergarden:undergarden/forgotten_ingot": {
+    "criteria": {
+      "has_forgotten_ingot": "2025-03-30 21:35:31 -0600"
+    },
+    "done": true
+  },
   "undergarden:undergarden/all_undergarden_biomes": {
     "criteria": {
+      "undergarden:smogstem_forest": "2025-03-30 20:45:32 -0600",
       "undergarden:veil_mushroom_bog": "2025-03-30 19:32:10 -0600",
+      "undergarden:indigo_mushroom_bog": "2025-03-30 20:44:39 -0600",
       "undergarden:gronglegrowth": "2025-03-30 19:23:21 -0600",
       "undergarden:ink_mushroom_bog": "2025-03-30 19:23:15 -0600",
       "undergarden:ancient_sea": "2025-03-30 19:30:04 -0600",
+      "undergarden:dense_forest": "2025-03-30 20:43:53 -0600",
       "undergarden:forgotten_field": "2025-03-30 19:23:42 -0600",
       "undergarden:wigglewood_forest": "2025-03-30 19:21:24 -0600"
     },
@@ -2899,9 +2908,27 @@
     },
     "done": true
   },
+  "undergarden:undergarden/cloggrum_battleaxe": {
+    "criteria": {
+      "has_cloggrum_battleaxe": "2025-03-30 21:35:30 -0600"
+    },
+    "done": true
+  },
   "undergarden:undergarden/mine_ore": {
     "criteria": {
       "has_raw_cloggrum": "2025-03-30 19:24:28 -0600"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/kill_forgotten_guardian": {
+    "criteria": {
+      "kill_forgotten_guardian": "2025-03-30 21:29:50 -0600"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/catacombs": {
+    "criteria": {
+      "enter_catacombs": "2025-03-30 21:26:49 -0600"
     },
     "done": true
   },
@@ -2928,6 +2955,18 @@
   "undergarden:undergarden/enter_undergarden": {
     "criteria": {
       "enter_undergarden": "2025-03-30 19:21:21 -0600"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/shard_torch": {
+    "criteria": {
+      "has_shard_torch": "2025-03-30 21:31:43 -0600"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/catch_gwibling": {
+    "criteria": {
+      "has_gwibling_bucket": "2025-03-30 20:37:31 -0600"
     },
     "done": true
   },
