@@ -2970,5 +2970,17 @@
     },
     "done": true
   },
+  "mekanism:sawmill": {
+    "criteria": {
+      "precision_sawmill": "2025-03-31 12:29:02 -0600"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/brew_bee_stinger": {
+    "criteria": {
+      "brew_bee_stinger": "2025-03-31 12:42:44 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
