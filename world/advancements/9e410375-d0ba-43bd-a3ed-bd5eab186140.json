@@ -1636,6 +1636,12 @@
     },
     "done": true
   },
+  "integratedscripting:basics/scripting_drive": {
+    "criteria": {
+      "criteria_0": "2025-03-31 16:39:47 -0600"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-03-31 14:45:13 -0600"
@@ -1645,6 +1651,12 @@
   "apothic_enchanting:arcana50": {
     "criteria": {
       "enchanted_item": "2025-03-31 15:17:02 -0600"
+    },
+    "done": true
+  },
+  "integratedscripting:basics/mendesite": {
+    "criteria": {
+      "criteria_0": "2025-03-31 16:37:43 -0600"
     },
     "done": true
   },
@@ -1660,9 +1672,27 @@
     },
     "done": true
   },
+  "integratedscripting:basics/scripting_disk": {
+    "criteria": {
+      "criteria_0": "2025-03-31 16:39:40 -0600"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-03-31 14:45:14 -0600"
+    },
+    "done": true
+  },
+  "integratedscripting:terminal/open": {
+    "criteria": {
+      "criteria_0": "2025-03-31 16:38:47 -0600"
+    },
+    "done": true
+  },
+  "integratedscripting:terminal/bind": {
+    "criteria": {
+      "criteria_0": "2025-03-31 16:44:19 -0600"
     },
     "done": true
   },
