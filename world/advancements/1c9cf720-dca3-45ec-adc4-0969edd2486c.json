@@ -2976,6 +2976,12 @@
     },
     "done": true
   },
+  "the_bumblezone:effects/brew_bee_soup": {
+    "criteria": {
+      "brew_bee_soup": "2025-03-31 14:47:13 -0600"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/brew_bee_stinger": {
     "criteria": {
       "brew_bee_stinger": "2025-03-31 12:42:44 -0600"
