@@ -1624,6 +1624,12 @@
     },
     "done": true
   },
+  "apothic_enchanting:deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-03-31 15:22:30 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-03-31 14:51:02 -0600"
