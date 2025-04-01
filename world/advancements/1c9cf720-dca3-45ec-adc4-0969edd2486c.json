@@ -2976,9 +2976,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-03-31 19:33:01 -0600"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/brew_bee_soup": {
     "criteria": {
       "brew_bee_soup": "2025-03-31 14:47:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-31 20:43:05 -0600"
     },
     "done": true
   },

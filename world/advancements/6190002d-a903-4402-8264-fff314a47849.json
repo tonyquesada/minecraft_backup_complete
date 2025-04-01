@@ -1,33 +1,13 @@
 {
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2025-03-30 11:48:47 -0600"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-30 11:48:48 -0600"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/magnet_card": {
-    "criteria": {
-      "has_wct": "2025-03-30 11:49:28 -0600"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
-    "criteria": {
-      "has_wpt": "2025-03-30 11:49:28 -0600",
-      "has_wct": "2025-03-30 11:49:28 -0600"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
-    "criteria": {
-      "has_wit": "2025-03-30 11:49:28 -0600",
-      "has_wct": "2025-03-30 11:49:28 -0600"
-    },
-    "done": true
-  },
-  "naturesaura:positive_imbalance": {
-    "criteria": {
-      "triggered_in_code": "2025-03-30 11:54:10 -0600"
     },
     "done": true
   },
@@ -37,24 +17,12 @@
     },
     "done": true
   },
-  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
-    "criteria": {
-      "has_wit": "2025-03-30 11:49:28 -0600"
-    },
-    "done": true
-  },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_goliath_honey_fountain": "2025-03-30 11:48:48 -0600",
       "in_mite_fortress": "2025-03-30 11:48:48 -0600"
     },
     "done": false
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-03-30 11:49:28 -0600"
-    },
-    "done": true
   },
   "occultism:chalks/root": {
     "criteria": {
@@ -80,18 +48,6 @@
     },
     "done": true
   },
-  "repurposed_structures:igloos": {
-    "criteria": {
-      "in_igloo_grassy": "2025-03-30 11:54:35 -0600"
-    },
-    "done": false
-  },
-  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
-    "criteria": {
-      "biomeswevegone:prairie": "2025-03-30 12:09:02 -0600"
-    },
-    "done": false
-  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-03-30 11:48:48 -0600"
@@ -116,22 +72,104 @@
     },
     "done": true
   },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-03-30 11:52:59 -0600",
+      "minecraft:river": "2025-03-30 11:54:31 -0600",
+      "minecraft:plains": "2025-03-30 11:48:48 -0600"
+    },
+    "done": false
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-03-30 11:48:48 -0600"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-03-30 11:49:28 -0600"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-03-30 11:49:28 -0600",
+      "has_wct": "2025-03-30 11:49:28 -0600"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-03-30 11:49:28 -0600",
+      "has_wct": "2025-03-30 11:49:28 -0600"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-03-30 11:49:28 -0600"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-03-30 11:49:28 -0600"
+    },
+    "done": true
+  },
   "ae2wtlib:recipe/wireless_universal_terminal/ae": {
     "criteria": {
       "has_wit": "2025-03-30 11:49:28 -0600",
       "has_wpt": "2025-03-30 11:49:28 -0600"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-03-30 11:51:08 -0600"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-03-30 11:48:48 -0600"
     },
     "done": true
   },
@@ -147,39 +185,9 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-03-30 11:48:48 -0600"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-03-30 11:49:28 -0600"
-    },
-    "done": true
-  },
-  "ars_additions:find_ruined_portal": {
-    "criteria": {
-      "find_ruined_portal": "2025-03-30 11:51:18 -0600"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-03-30 11:48:48 -0600"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "rocky_meadow": "2025-03-30 11:55:02 -0600"
-    },
-    "done": false
-  },
-  "mffs:grant_book_on_first_join": {
-    "criteria": {
-      "guidebook": "2025-03-30 11:48:47 -0600"
     },
     "done": true
   },
@@ -203,49 +211,11 @@
     },
     "done": true
   },
-  "the_bumblezone:root": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "instant_granted": "2025-03-30 11:48:48 -0600"
+      "consumed_item": "2025-03-30 11:51:08 -0600"
     },
     "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-03-30 11:53:01 -0600"
-    },
-    "done": true
-  },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-03-30 11:48:48 -0600"
-    },
-    "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "rocky_meadow": "2025-03-30 11:55:02 -0600"
-    },
-    "done": false
-  },
-  "biomeswevegone:biomeswevegone/adventure/root": {
-    "criteria": {
-      "biomeswevegone:prairie": "2025-03-30 12:09:02 -0600"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-03-30 11:48:48 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-03-30 11:52:59 -0600",
-      "minecraft:river": "2025-03-30 11:54:31 -0600",
-      "minecraft:plains": "2025-03-30 11:48:48 -0600"
-    },
-    "done": false
   },
   "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
@@ -260,21 +230,75 @@
     },
     "done": false
   },
-  "occultism:occultism/root": {
+  "ars_additions:find_ruined_portal": {
     "criteria": {
-      "occultism_present": "2025-03-30 11:48:48 -0600"
+      "find_ruined_portal": "2025-03-30 11:51:18 -0600"
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
-      "auto": "2025-03-30 11:48:48 -0600"
+      "is_near_beehive": "2025-03-30 11:53:01 -0600"
     },
     "done": true
   },
-  "regions_unexplored:parent": {
+  "naturesaura:positive_imbalance": {
     "criteria": {
-      "load_in_world": "2025-03-30 11:48:48 -0600"
+      "triggered_in_code": "2025-03-30 11:54:10 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-03-30 11:54:35 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "rocky_meadow": "2025-03-30 11:55:02 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "rocky_meadow": "2025-03-30 11:55:02 -0600"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:prairie": "2025-03-30 12:09:02 -0600"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:prairie": "2025-03-30 12:09:02 -0600"
+    },
+    "done": true
+  },
+  "constructionstick:root": {
+    "criteria": {
+      "stick": "2025-03-31 20:59:55 -0600"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-03-31 21:00:34 -0600"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "crafting_table": "2025-03-31 21:00:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-31 21:00:34 -0600"
     },
     "done": true
   },
