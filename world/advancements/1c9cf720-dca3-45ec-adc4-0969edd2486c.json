@@ -2976,9 +2976,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
+  "the_bumblezone:effects/brew_bee_stinger": {
     "criteria": {
-      "summoned_golem": "2025-03-31 19:33:01 -0600"
+      "brew_bee_stinger": "2025-03-31 12:42:44 -0600"
     },
     "done": true
   },
@@ -2988,15 +2988,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "used_totem": "2025-03-31 20:43:05 -0600"
+      "summoned_golem": "2025-03-31 19:33:01 -0600"
     },
     "done": true
   },
-  "the_bumblezone:effects/brew_bee_stinger": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "brew_bee_stinger": "2025-03-31 12:42:44 -0600"
+      "used_totem": "2025-03-31 20:43:05 -0600"
     },
     "done": true
   },
