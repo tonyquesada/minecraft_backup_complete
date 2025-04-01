@@ -6,7 +6,6 @@
 	last_seen: { dim: "minecraft:overworld", x: 220, y: 57, z: -122, time: 1743491585332L, xRot: 13.714288f, yRot: 42.05246f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 227, y: 16, z: -2365, time: 1743310755150L, xRot: 27.861942f, yRot: 176.23589f }
 		{ dim: "minecraft:overworld", x: -10141, y: 64, z: -6788, time: 1743311334743L, xRot: 6.268292f, yRot: 137.27176f }
 		{ dim: "twilightforest:twilight_forest", x: 3892, y: -9, z: -1792, time: 1743355260767L, xRot: 12.50254f, yRot: -166.62134f }
 		{ dim: "minecraft:overworld", x: 27, y: 70, z: 18, time: 1743357036238L, xRot: 6.493757f, yRot: -86.7887f }
