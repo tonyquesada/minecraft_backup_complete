@@ -110,10 +110,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-03-31 21:44:46 -0600",
       "minecraft:beach": "2025-03-31 21:26:36 -0600",
       "minecraft:forest": "2025-03-30 11:52:59 -0600",
       "minecraft:sunflower_plains": "2025-03-31 21:29:45 -0600",
       "minecraft:river": "2025-03-30 11:54:31 -0600",
+      "minecraft:birch_forest": "2025-03-31 21:45:56 -0600",
       "minecraft:plains": "2025-03-30 11:48:48 -0600"
     },
     "done": false
@@ -271,7 +273,8 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:orchard": "2025-03-31 21:05:23 -0600",
-      "biomeswevegone:prairie": "2025-03-30 12:09:02 -0600"
+      "biomeswevegone:prairie": "2025-03-30 12:09:02 -0600",
+      "biomeswevegone:allium_shrubland": "2025-03-31 21:39:50 -0600"
     },
     "done": false
   },
