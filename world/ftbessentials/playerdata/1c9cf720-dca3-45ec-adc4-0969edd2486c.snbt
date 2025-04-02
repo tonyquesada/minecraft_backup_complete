@@ -6,7 +6,6 @@
 	last_seen: { dim: "minecraft:overworld", x: 215, y: 57, z: -121, time: 1743573185598L, xRot: 14.125534f, yRot: -58.336544f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "twilightforest:twilight_forest", x: 1837, y: 3, z: -184, time: 1743360393294L, xRot: 8.779722f, yRot: -95.06702f }
 		{ dim: "undergarden:undergarden", x: 4099, y: 85, z: 3149, time: 1743389819257L, xRot: 24.817694f, yRot: -123.66333f }
 		{ dim: "undergarden:undergarden", x: -2502, y: 9, z: 3526, time: 1743392216834L, xRot: 4.792326f, yRot: 90.39392f }
 		{ dim: "minecraft:overworld", x: 225, y: 27, z: -55, time: 1743463176555L, xRot: 11.103629f, yRot: 80.19559f }
