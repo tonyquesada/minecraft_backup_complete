@@ -1715,5 +1715,17 @@
     },
     "done": true
   },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2025-04-01 23:15:29 -0600"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-04-01 23:17:28 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
