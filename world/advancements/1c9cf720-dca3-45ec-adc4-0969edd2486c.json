@@ -3036,6 +3036,12 @@
     },
     "done": true
   },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-04-02 20:56:09 -0600"
+    },
+    "done": true
+  },
   "tombstone:adventure/pass_april_fool": {
     "criteria": {
       "coded_trigger": "2025-04-02 20:43:27 -0600"
