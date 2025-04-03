@@ -3024,15 +3024,21 @@
     },
     "done": true
   },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-04-02 00:55:30 -0600"
+    },
+    "done": true
+  },
   "ars_nouveau:potion_jar": {
     "criteria": {
       "has_potion_jar": "2025-04-02 01:18:47 -0600"
     },
     "done": true
   },
-  "ars_nouveau:source_jar": {
+  "tombstone:adventure/pass_april_fool": {
     "criteria": {
-      "has_source_jar": "2025-04-02 00:55:30 -0600"
+      "coded_trigger": "2025-04-02 20:43:27 -0600"
     },
     "done": true
   },
