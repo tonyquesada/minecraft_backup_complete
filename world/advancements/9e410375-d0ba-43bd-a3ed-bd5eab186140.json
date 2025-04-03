@@ -1727,5 +1727,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/pass_april_fool": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 17:53:57 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
