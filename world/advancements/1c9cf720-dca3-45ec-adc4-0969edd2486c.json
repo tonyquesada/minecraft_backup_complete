@@ -3061,6 +3061,18 @@
     },
     "done": true
   },
+  "ars_nouveau:familiar": {
+    "criteria": {
+      "familiar": "2025-04-04 00:13:21 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:wixie_charm": {
+    "criteria": {
+      "has_wixie_charm": "2025-04-04 01:04:24 -0600"
+    },
+    "done": true
+  },
   "ars_nouveau:archmage_spell_book": {
     "criteria": {
       "has_archmage_spell_book": "2025-04-04 00:02:31 -0600"
@@ -3070,6 +3082,12 @@
   "ars_nouveau:alteration_table": {
     "criteria": {
       "has_alteration_table": "2025-04-03 23:39:31 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:create_portal": {
+    "criteria": {
+      "create_portal": "2025-04-04 01:45:48 -0600"
     },
     "done": true
   },
