@@ -510,15 +510,39 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-03 22:14:02 -0600"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-04-03 22:15:39 -0600"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-04-03 21:20:01 -0600"
     },
     "done": true
   },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2025-04-03 22:08:37 -0600"
+    },
+    "done": true
+  },
   "pneumaticcraft:root": {
     "criteria": {
       "0": "2025-04-03 21:42:49 -0600"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-04-03 22:01:50 -0600"
     },
     "done": true
   },
@@ -588,6 +612,12 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-04-03 22:15:39 -0600"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-04-03 21:39:29 -0600"
@@ -609,6 +639,12 @@
   "tombstone:recipe/dust_of_vanishing": {
     "criteria": {
       "has_ingredient": "2025-04-03 21:20:02 -0600"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-04-03 22:07:51 -0600"
     },
     "done": true
   },
