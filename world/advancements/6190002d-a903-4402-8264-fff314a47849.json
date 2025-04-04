@@ -233,7 +233,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-04 14:52:29 -0600",
       "bread": "2025-04-03 21:33:35 -0600",
+      "glow_berries": "2025-04-04 14:15:58 -0600",
       "baked_potato": "2025-03-30 11:57:06 -0600",
       "carrot": "2025-03-30 11:51:08 -0600"
     },
@@ -669,6 +671,12 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-04-03 22:15:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-04 14:52:57 -0600"
     },
     "done": true
   },
