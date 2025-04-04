@@ -114,6 +114,7 @@
       "minecraft:beach": "2025-03-31 21:26:36 -0600",
       "minecraft:dark_forest": "2025-04-03 17:34:15 -0600",
       "minecraft:forest": "2025-03-30 11:52:59 -0600",
+      "minecraft:taiga": "2025-04-03 19:21:44 -0600",
       "minecraft:ocean": "2025-04-03 18:32:02 -0600",
       "minecraft:sunflower_plains": "2025-03-31 21:29:45 -0600",
       "minecraft:river": "2025-03-30 11:54:31 -0600",
@@ -277,10 +278,12 @@
       "biomeswevegone:orchard": "2025-03-31 21:05:23 -0600",
       "biomeswevegone:prairie": "2025-03-30 12:09:02 -0600",
       "biomeswevegone:weeping_witch_forest": "2025-04-03 17:33:47 -0600",
+      "biomeswevegone:skyrise_vale": "2025-04-03 19:21:05 -0600",
       "biomeswevegone:temperate_grove": "2025-04-03 17:29:12 -0600",
       "biomeswevegone:allium_shrubland": "2025-03-31 21:39:50 -0600",
       "biomeswevegone:forgotten_forest": "2025-04-03 17:27:08 -0600",
-      "biomeswevegone:aspen_boreal": "2025-04-03 17:33:38 -0600"
+      "biomeswevegone:aspen_boreal": "2025-04-03 17:33:38 -0600",
+      "biomeswevegone:dacite_ridges": "2025-04-03 19:15:27 -0600"
     },
     "done": false
   },
@@ -393,19 +396,25 @@
     },
     "done": false
   },
-  "minecraft:husbandry/froglights": {
+  "tombstone:adventure/find_easter_egg": {
     "criteria": {
-      "froglights": "2025-04-03 17:36:55 -0600"
+      "coded_trigger": "2025-04-03 16:50:22 -0600"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "iron_pickaxe": "2025-04-03 18:10:30 -0600"
+      "traded": "2025-04-03 16:53:00 -0600"
     },
     "done": true
   },
   "naturesaura:get_book": {
+    "criteria": {
+      "book": "2025-04-03 17:36:42 -0600"
+    },
+    "done": true
+  },
+  "naturesaura:root": {
     "criteria": {
       "book": "2025-04-03 17:36:42 -0600"
     },
@@ -417,51 +426,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "minecraft:husbandry/froglights": {
     "criteria": {
-      "coded_trigger": "2025-04-03 18:45:47 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie_villager": "2025-04-03 18:24:30 -0600"
-    },
-    "done": false
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-04-03 16:53:00 -0600"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-04-03 18:03:30 -0600"
-    },
-    "done": true
-  },
-  "naturesaura:root": {
-    "criteria": {
-      "book": "2025-04-03 17:36:42 -0600"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-04-03 18:03:30 -0600"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "opened_25": "2025-04-03 18:31:38 -0600"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_easter_egg": {
-    "criteria": {
-      "coded_trigger": "2025-04-03 16:50:22 -0600"
+      "froglights": "2025-04-03 17:36:55 -0600"
     },
     "done": true
   },
@@ -471,9 +438,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "minecraft:zombie_villager": "2025-04-03 18:24:30 -0600"
+      "coded_trigger": "2025-04-03 18:03:30 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 18:03:30 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 18:03:30 -0600"
     },
     "done": true
   },
@@ -483,9 +462,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "coded_trigger": "2025-04-03 18:03:30 -0600"
+      "iron_pickaxe": "2025-04-03 18:10:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-04-03 18:24:30 -0600"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-04-03 18:24:30 -0600"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2025-04-03 18:31:38 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 18:45:47 -0600"
     },
     "done": true
   },
