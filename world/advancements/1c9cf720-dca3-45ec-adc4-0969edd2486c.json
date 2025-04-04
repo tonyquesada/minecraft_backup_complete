@@ -1634,7 +1634,8 @@
       "redwood_log": "2025-03-18 17:32:48 -0600",
       "blue_bioshroom_stem": "2025-02-27 00:23:30 -0600",
       "blackwood_log": "2025-02-27 00:22:41 -0600",
-      "green_bioshroom_stem": "2025-02-27 00:23:30 -0600"
+      "green_bioshroom_stem": "2025-02-27 00:23:30 -0600",
+      "small_oak_log": "2025-04-03 23:53:44 -0600"
     },
     "done": false
   },
@@ -3051,6 +3052,30 @@
   "ars_nouveau:magebloom_crop": {
     "criteria": {
       "has_magebloom_crop": "2025-04-02 21:28:46 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-04-03 23:43:17 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-04-04 00:02:31 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2025-04-03 23:39:31 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-04-04 00:00:57 -0600"
     },
     "done": true
   },
