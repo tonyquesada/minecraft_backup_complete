@@ -3055,9 +3055,27 @@
     },
     "done": true
   },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2025-04-03 23:39:31 -0600"
+    },
+    "done": true
+  },
   "ars_nouveau:ritual_brazier": {
     "criteria": {
       "has_ritual_brazier": "2025-04-03 23:43:17 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-04-04 00:00:57 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-04-04 00:02:31 -0600"
     },
     "done": true
   },
@@ -3073,27 +3091,9 @@
     },
     "done": true
   },
-  "ars_nouveau:archmage_spell_book": {
-    "criteria": {
-      "has_archmage_spell_book": "2025-04-04 00:02:31 -0600"
-    },
-    "done": true
-  },
-  "ars_nouveau:alteration_table": {
-    "criteria": {
-      "has_alteration_table": "2025-04-03 23:39:31 -0600"
-    },
-    "done": true
-  },
   "ars_nouveau:create_portal": {
     "criteria": {
       "create_portal": "2025-04-04 01:45:48 -0600"
-    },
-    "done": true
-  },
-  "ars_nouveau:wilden_tribute": {
-    "criteria": {
-      "has_wilden_tribute": "2025-04-04 00:00:57 -0600"
     },
     "done": true
   },
