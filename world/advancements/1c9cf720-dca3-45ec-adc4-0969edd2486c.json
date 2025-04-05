@@ -3097,6 +3097,12 @@
     },
     "done": true
   },
+  "occultism:chalks/purple": {
+    "criteria": {
+      "chalk_purple": "2025-04-04 20:15:26 -0600"
+    },
+    "done": true
+  },
   "occultism:occultism/summon_foliot_crusher": {
     "criteria": {
       "summon_foliot_crusher": "2025-04-04 19:30:14 -0600"
@@ -3118,6 +3124,12 @@
   "occultism:chalks/yellow": {
     "criteria": {
       "chalk_gold": "2025-04-04 19:13:08 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_infused_lenses": {
+    "criteria": {
+      "craft_infused_lenses": "2025-04-04 20:17:47 -0600"
     },
     "done": true
   },
