@@ -3098,6 +3098,42 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-04-04 18:19:49 -0600"
+    },
+    "done": true
+  },
+  "occultism:chalks/white": {
+    "criteria": {
+      "chalk_white": "2025-04-04 19:12:52 -0600"
+    },
+    "done": true
+  },
+  "occultism:chalks/yellow": {
+    "criteria": {
+      "chalk_gold": "2025-04-04 19:13:08 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2025-04-04 19:30:14 -0600"
+    },
+    "done": true
+  },
+  "occultism:chalks/purple": {
+    "criteria": {
+      "chalk_purple": "2025-04-04 20:15:26 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_infused_lenses": {
+    "criteria": {
+      "craft_infused_lenses": "2025-04-04 20:17:47 -0600"
+    },
+    "done": true
+  },
   "occultism:chalks/lime": {
     "criteria": {
       "chalk_lime": "2025-04-04 21:00:35 -0600"
@@ -3119,42 +3155,6 @@
   "occultism:occultism/craft_soul_gem": {
     "criteria": {
       "craft_soul_gem": "2025-04-04 21:23:48 -0600"
-    },
-    "done": true
-  },
-  "occultism:chalks/purple": {
-    "criteria": {
-      "chalk_purple": "2025-04-04 20:15:26 -0600"
-    },
-    "done": true
-  },
-  "occultism:occultism/summon_foliot_crusher": {
-    "criteria": {
-      "summon_foliot_crusher": "2025-04-04 19:30:14 -0600"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2025-04-04 18:19:49 -0600"
-    },
-    "done": true
-  },
-  "occultism:chalks/white": {
-    "criteria": {
-      "chalk_white": "2025-04-04 19:12:52 -0600"
-    },
-    "done": true
-  },
-  "occultism:chalks/yellow": {
-    "criteria": {
-      "chalk_gold": "2025-04-04 19:13:08 -0600"
-    },
-    "done": true
-  },
-  "occultism:occultism/craft_infused_lenses": {
-    "criteria": {
-      "craft_infused_lenses": "2025-04-04 20:17:47 -0600"
     },
     "done": true
   },
