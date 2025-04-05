@@ -1629,6 +1629,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "mauve_log": "2025-02-14 20:09:54 -0600",
+      "brimwood_log": "2025-04-04 22:28:26 -0600",
       "cobalt_log": "2025-02-16 18:52:16 -0600",
       "magnolia_log": "2025-02-10 14:25:23 -0600",
       "redwood_log": "2025-03-18 17:32:48 -0600",
