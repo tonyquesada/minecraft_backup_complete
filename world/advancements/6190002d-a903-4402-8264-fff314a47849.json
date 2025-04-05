@@ -686,5 +686,11 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-04-05 16:24:57 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
