@@ -3097,5 +3097,11 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-04-04 18:19:49 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
