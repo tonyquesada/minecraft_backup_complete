@@ -3097,6 +3097,30 @@
     },
     "done": true
   },
+  "occultism:chalks/lime": {
+    "criteria": {
+      "chalk_lime": "2025-04-04 21:00:35 -0600"
+    },
+    "done": true
+  },
+  "occultism:chalks/light_gray": {
+    "criteria": {
+      "chalk_light_gray": "2025-04-04 21:01:43 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_infused_pickaxe": {
+    "criteria": {
+      "craft_infused_pickaxe": "2025-04-04 21:15:25 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_soul_gem": {
+    "criteria": {
+      "craft_soul_gem": "2025-04-04 21:23:48 -0600"
+    },
+    "done": true
+  },
   "occultism:chalks/purple": {
     "criteria": {
       "chalk_purple": "2025-04-04 20:15:26 -0600"
