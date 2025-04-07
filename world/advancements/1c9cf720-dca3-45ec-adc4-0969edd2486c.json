@@ -3162,23 +3162,11 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-04-06 20:42:02 -0600"
-    },
-    "done": true
-  },
   "occultism:occultism/craft_dimensional_mineshaft": {
     "criteria": {
       "craft_dimensional_mineshaft": "2025-04-06 18:12:13 -0600"
     },
     "done": true
-  },
-  "apotheosis:progression/pinnacle": {
-    "criteria": {
-      "kill_ender_dragon": "2025-04-06 20:42:02 -0600"
-    },
-    "done": false
   },
   "occultism:occultism/craft_miner_foliot_unspecialized": {
     "criteria": {
@@ -3191,6 +3179,18 @@
       "summoned_dragon": "2025-04-06 20:37:43 -0600"
     },
     "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-06 20:42:02 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "kill_ender_dragon": "2025-04-06 20:42:02 -0600"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
