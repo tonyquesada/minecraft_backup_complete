@@ -705,33 +705,21 @@
     },
     "done": true
   },
-  "apothic_enchanting:enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-04-06 13:08:12 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-04-06 15:19:37 -0600"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-04-06 12:52:15 -0600"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-04-06 12:48:36 -0600"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "diamond_leggings": "2025-04-06 15:49:45 -0600"
+      "obsidian": "2025-04-06 12:48:46 -0600"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-04-06 12:52:15 -0600"
     },
     "done": true
   },
@@ -747,15 +735,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "apothic_enchanting:enchanter": {
     "criteria": {
-      "sweet_berries": "2025-04-06 13:41:47 -0600"
-    },
-    "done": false
-  },
-  "apothic_spawners:capturing": {
-    "criteria": {
-      "egg": "2025-04-06 16:06:00 -0600"
+      "enchanting_table": "2025-04-06 13:08:12 -0600"
     },
     "done": true
   },
@@ -765,27 +747,10 @@
     },
     "done": false
   },
-  "tombstone:adventure/bone_crusher": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "coded_trigger": "2025-04-06 15:16:16 -0600"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-04-06 15:27:47 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-04-06 12:48:46 -0600"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-04-06 15:27:47 -0600"
+      "potato": "2025-04-06 18:07:58 -0600",
+      "sweet_berries": "2025-04-06 13:41:47 -0600"
     },
     "done": false
   },
@@ -795,9 +760,45 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 15:16:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-06 15:19:37 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-06 15:27:47 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-06 15:27:47 -0600"
+    },
+    "done": false
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-06 15:44:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-06 15:49:45 -0600"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-04-06 16:06:00 -0600"
     },
     "done": true
   },
