@@ -533,6 +533,7 @@
       "minecraft:witch": "2025-02-11 23:06:42 -0600",
       "minecraft:wither_skeleton": "2025-02-06 01:29:14 -0600",
       "minecraft:husk": "2025-02-05 16:56:36 -0600",
+      "minecraft:ender_dragon": "2025-04-06 20:42:02 -0600",
       "minecraft:shulker": "2025-02-23 21:45:59 -0600",
       "minecraft:cave_spider": "2025-02-05 17:39:03 -0600",
       "minecraft:piglin": "2025-02-06 01:37:51 -0600",
@@ -545,7 +546,7 @@
       "minecraft:drowned": "2025-02-05 14:37:59 -0600",
       "minecraft:zombie_villager": "2025-02-21 11:55:11 -0600"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -3161,15 +3162,33 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-06 20:42:02 -0600"
+    },
+    "done": true
+  },
   "occultism:occultism/craft_dimensional_mineshaft": {
     "criteria": {
       "craft_dimensional_mineshaft": "2025-04-06 18:12:13 -0600"
     },
     "done": true
   },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "kill_ender_dragon": "2025-04-06 20:42:02 -0600"
+    },
+    "done": false
+  },
   "occultism:occultism/craft_miner_foliot_unspecialized": {
     "criteria": {
       "craft_miner_foliot_unspecialized": "2025-04-06 18:26:27 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-04-06 20:37:43 -0600"
     },
     "done": true
   },
