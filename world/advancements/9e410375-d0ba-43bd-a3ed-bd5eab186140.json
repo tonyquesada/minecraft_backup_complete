@@ -1745,5 +1745,11 @@
     },
     "done": true
   },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2025-04-07 17:23:26 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
