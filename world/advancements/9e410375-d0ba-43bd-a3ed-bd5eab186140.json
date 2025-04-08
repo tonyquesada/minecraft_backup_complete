@@ -1757,5 +1757,11 @@
     },
     "done": true
   },
+  "ae2:main/crafting_cpu": {
+    "criteria": {
+      "cu": "2025-04-08 00:17:23 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
