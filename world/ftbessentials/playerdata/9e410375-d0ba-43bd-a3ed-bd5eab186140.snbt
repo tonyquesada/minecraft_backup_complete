@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 209, y: 25, z: -44, time: 1744158642463L, xRot: 46.555458f, yRot: 91.35344f }
+	last_seen: { dim: "minecraft:overworld", x: 209, y: 25, z: -44, time: 1744167413690L, xRot: 46.555458f, yRot: 91.35344f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 199, y: 63, z: -127, time: 1744007082213L, xRot: 18.934153f, yRot: -113.42844f }
-		{ dim: "minecraft:overworld", x: 244, y: 39, z: -38, time: 1744013372135L, xRot: -20.352757f, yRot: 143.87906f }
-		{ dim: "minecraft:overworld", x: 242, y: 34, z: -39, time: 1744071641187L, xRot: 24.136711f, yRot: -176.76936f }
-		{ dim: "minecraft:overworld", x: 247, y: 33, z: -43, time: 1744091043465L, xRot: 22.791859f, yRot: -74.92734f }
 		{ dim: "minecraft:overworld", x: 251, y: 33, z: -49, time: 1744092321447L, xRot: 13.217751f, yRot: -120.77785f }
 		{ dim: "minecraft:overworld", x: 251, y: 33, z: -43, time: 1744100880406L, xRot: 12.520717f, yRot: -15.624322f }
 		{ dim: "minecraft:overworld", x: 224, y: 57, z: -126, time: 1744100953314L, xRot: 35.44799f, yRot: -166.52086f }
 		{ dim: "minecraft:overworld", x: 246, y: 33, z: -43, time: 1744103065742L, xRot: 15.192434f, yRot: -86.43701f }
 		{ dim: "minecraft:overworld", x: 243, y: 38, z: -32, time: 1744104139273L, xRot: 28.783258f, yRot: -89.486694f }
 		{ dim: "minecraft:overworld", x: 219, y: 63, z: -45, time: 1744154120370L, xRot: 16.121819f, yRot: 122.81818f }
+		{ dim: "minecraft:overworld", x: 209, y: 29, z: -44, time: 1744167693365L, xRot: 46.0909f, yRot: 93.07812f }
+		{ dim: "minecraft:overworld", x: 234, y: 64, z: -45, time: 1744169062481L, xRot: 25.182487f, yRot: 89.65146f }
+		{ dim: "minecraft:overworld", x: 256, y: 33, z: -43, time: 1744169085481L, xRot: 0.09173177f, yRot: -13.713706f }
+		{ dim: "minecraft:overworld", x: 220, y: 75, z: -61, time: 1744171693483L, xRot: 45.510445f, yRot: -8.201172f }
 	]
 	homes: {
 		casa: { dim: "minecraft:overworld", x: 239, y: 43, z: -34, time: 1744103079647L, xRot: 7.7583356f, yRot: 179.71167f }
