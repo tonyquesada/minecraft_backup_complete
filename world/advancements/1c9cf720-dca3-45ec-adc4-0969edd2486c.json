@@ -3205,9 +3205,33 @@
     },
     "done": true
   },
+  "integratedscripting:root": {
+    "criteria": {
+      "criteria_0": "2025-04-09 23:29:27 -0600"
+    },
+    "done": true
+  },
+  "integratedcrafting:root": {
+    "criteria": {
+      "criteria_0": "2025-04-09 23:29:27 -0600"
+    },
+    "done": true
+  },
   "integrateddynamics:meneglin_basics/squeezing": {
     "criteria": {
       "criteria_0": "2025-04-09 20:22:44 -0600"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variables": {
+    "criteria": {
+      "criteria_0": "2025-04-09 23:59:02 -0600"
+    },
+    "done": true
+  },
+  "integratedtunnels:root": {
+    "criteria": {
+      "criteria_0": "2025-04-09 23:29:27 -0600"
     },
     "done": true
   },
