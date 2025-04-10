@@ -3205,6 +3205,24 @@
     },
     "done": true
   },
+  "integratedtunnels:interfaces/interface_item": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:13:18 -0600"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variable_input": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:15:12 -0600"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variable_output": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:14:41 -0600"
+    },
+    "done": true
+  },
   "integratedscripting:root": {
     "criteria": {
       "criteria_0": "2025-04-09 23:29:27 -0600"
@@ -3217,6 +3235,18 @@
     },
     "done": true
   },
+  "integratedtunnels:world_importer_exporter/exporter_block": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:15:56 -0600"
+    },
+    "done": true
+  },
+  "integratedtunnels:world_importer_exporter/exporter_item": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:15:01 -0600"
+    },
+    "done": true
+  },
   "integrateddynamics:meneglin_basics/squeezing": {
     "criteria": {
       "criteria_0": "2025-04-09 20:22:44 -0600"
@@ -3226,6 +3256,36 @@
   "integrateddynamics:network_foundations/variables": {
     "criteria": {
       "criteria_0": "2025-04-09 23:59:02 -0600"
+    },
+    "done": true
+  },
+  "integratedtunnels:importer_exporter/importer_item": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:15:20 -0600"
+    },
+    "done": true
+  },
+  "integratedtunnels:world_importer_exporter/importer_item": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:15:23 -0600"
+    },
+    "done": true
+  },
+  "integratedtunnels:importer_exporter/exporter_item": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:14:49 -0600"
+    },
+    "done": true
+  },
+  "integratedtunnels:click_sword/player_simulator": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:16:10 -0600"
+    },
+    "done": true
+  },
+  "integratedtunnels:world_importer_exporter/importer_block": {
+    "criteria": {
+      "criteria_0": "2025-04-10 00:15:36 -0600"
     },
     "done": true
   },
