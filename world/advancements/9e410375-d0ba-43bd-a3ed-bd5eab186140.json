@@ -1781,5 +1781,11 @@
     },
     "done": true
   },
+  "integrateddynamics:basic_network_components/inventory_reading": {
+    "criteria": {
+      "criteria_0": "2025-04-10 16:35:15 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
