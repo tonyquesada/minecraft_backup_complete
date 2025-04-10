@@ -1769,5 +1769,17 @@
     },
     "done": true
   },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-04-10 01:31:06 -0600"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-04-10 01:32:55 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
