@@ -1801,6 +1801,12 @@
     },
     "done": true
   },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_ocean": "2025-04-12 01:14:57 -0600"
+    },
+    "done": false
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-04-12 00:16:54 -0600"
@@ -1812,6 +1818,14 @@
       "get_ore": "2025-04-12 00:24:59 -0600"
     },
     "done": false
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-12 00:49:42 -0600",
+      "ocean_ruin_cold": "2025-04-12 00:43:06 -0600",
+      "ocean_ruin_warm": "2025-04-12 00:39:34 -0600"
+    },
+    "done": true
   },
   "mekanismgenerators:wind_generator": {
     "criteria": {
