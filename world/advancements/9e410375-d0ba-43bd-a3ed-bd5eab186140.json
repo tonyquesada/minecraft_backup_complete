@@ -325,6 +325,7 @@
       "biomeswevegone:amaranth_grassland": "2025-02-24 03:37:36 -0600",
       "biomeswevegone:fragment_jungle": "2025-03-14 01:42:49 -0600",
       "biomeswevegone:weeping_witch_forest": "2025-02-09 01:21:04 -0600",
+      "biomeswevegone:mojave_desert": "2025-04-12 21:49:09 -0600",
       "biomeswevegone:rugged_badlands": "2025-04-12 02:20:39 -0600",
       "biomeswevegone:sakura_grove": "2025-02-15 01:28:29 -0600",
       "biomeswevegone:prairie": "2025-02-04 23:49:00 -0600",
@@ -385,6 +386,8 @@
       "flower_fields": "2025-02-05 00:08:13 -0600",
       "highland_fields": "2025-02-06 17:04:58 -0600",
       "redwoods": "2025-03-14 01:38:25 -0600",
+      "rainforest": "2025-04-12 21:06:28 -0600",
+      "tropical_river": "2025-04-12 21:06:27 -0600",
       "magnolia_highlands": "2025-02-09 01:03:40 -0600",
       "outback": "2025-04-12 00:18:30 -0600",
       "lupine_plains": "2025-02-16 03:08:28 -0600"
@@ -417,6 +420,8 @@
       "flower_fields": "2025-02-05 00:08:13 -0600",
       "highland_fields": "2025-02-06 17:04:58 -0600",
       "redwoods": "2025-03-14 01:38:25 -0600",
+      "rainforest": "2025-04-12 21:06:28 -0600",
+      "tropical_river": "2025-04-12 21:06:27 -0600",
       "magnolia_highlands": "2025-02-09 01:03:40 -0600",
       "outback": "2025-04-12 00:18:30 -0600",
       "lupine_plains": "2025-02-16 03:08:28 -0600"
@@ -468,8 +473,10 @@
       "minecraft:pillager": "2025-02-09 01:28:27 -0600",
       "minecraft:skeleton": "2025-02-05 09:41:37 -0600",
       "minecraft:zoglin": "2025-03-21 23:34:11 -0600",
+      "minecraft:elder_guardian": "2025-04-12 21:19:26 -0600",
       "minecraft:bogged": "2025-02-24 14:35:54 -0600",
       "minecraft:hoglin": "2025-03-14 00:12:23 -0600",
+      "minecraft:guardian": "2025-04-12 21:24:41 -0600",
       "minecraft:vindicator": "2025-04-01 01:32:50 -0600",
       "minecraft:magma_cube": "2025-03-14 00:11:51 -0600",
       "minecraft:spider": "2025-02-06 15:30:38 -0600",
@@ -1867,6 +1874,18 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-04-12 20:36:43 -0600"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-04-12 20:45:33 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-04-12 20:45:33 -0600"
     },
     "done": true
   },

@@ -6,7 +6,6 @@
 	last_seen: { dim: "minecraft:overworld", x: 9580, y: 62, z: 15952, time: 1744510879200L, xRot: 64.32833f, yRot: -163.00487f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 227, y: 45, z: -44, time: 1744262667308L, xRot: 5.6673994f, yRot: 80.97525f }
 		{ dim: "minecraft:overworld", x: 224, y: 57, z: -90, time: 1744262726294L, xRot: 2.4517045f, yRot: 94.50534f }
 		{ dim: "minecraft:overworld", x: 253, y: -9, z: -43, time: 1744264132888L, xRot: 23.091349f, yRot: 81.73474f }
 		{ dim: "minecraft:overworld", x: 225, y: 63, z: -149, time: 1744264260112L, xRot: 23.76552f, yRot: 94.61185f }
@@ -16,6 +15,7 @@
 		{ dim: "minecraft:overworld", x: 239, y: 117, z: 23, time: 1744334991762L, xRot: 44.23222f, yRot: -134.47353f }
 		{ dim: "minecraft:overworld", x: 229, y: 26, z: -34, time: 1744335978148L, xRot: 51.549927f, yRot: 123.57028f }
 		{ dim: "minecraft:overworld", x: 2270, y: 63, z: 2186, time: 1744438887219L, xRot: 23.55621f, yRot: 133.27425f }
+		{ dim: "minecraft:overworld", x: 10038, y: 65, z: 16776, time: 1744515973091L, xRot: 23.666367f, yRot: -8.980469f }
 	]
 	homes: {
 		casa: { dim: "minecraft:overworld", x: 220, y: 45, z: -44, time: 1744173729559L, xRot: 87.67682f, yRot: -86.66284f }
