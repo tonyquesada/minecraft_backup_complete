@@ -360,9 +360,11 @@
       "silver_birch_forest": "2025-02-23 16:09:50 -0600",
       "shrubland": "2025-02-09 01:24:42 -0600",
       "deciduous_forest": "2025-02-09 01:27:32 -0600",
+      "redstone_abyss": "2025-04-13 02:20:52 -0600",
       "glistering_meadow": "2025-02-23 23:23:25 -0600",
       "pine_taiga": "2025-03-21 19:55:30 -0600",
       "bayou": "2025-02-24 14:31:52 -0600",
+      "blackstone_basin": "2025-04-13 02:16:29 -0600",
       "towering_cliffs": "2025-02-24 14:37:52 -0600",
       "chalk_cliffs": "2025-04-12 02:17:20 -0600",
       "prismachasm": "2025-02-09 12:27:51 -0600",
@@ -724,11 +726,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-13 02:16:22 -0600",
       "minecraft:nether_wastes": "2025-02-06 01:29:29 -0600",
       "minecraft:soul_sand_valley": "2025-02-23 23:22:39 -0600",
-      "minecraft:basalt_deltas": "2025-02-06 01:29:46 -0600"
+      "minecraft:basalt_deltas": "2025-02-06 01:29:46 -0600",
+      "minecraft:warped_forest": "2025-04-13 02:20:42 -0600"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
@@ -996,10 +1000,12 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-02-14 12:38:55 -0600",
+      "blackstone_basin": "2025-04-13 02:16:29 -0600",
       "infernal_holt": "2025-02-23 23:23:22 -0600",
+      "redstone_abyss": "2025-04-13 02:20:52 -0600",
       "glistering_meadow": "2025-02-23 23:23:25 -0600"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:ancient_specimens": {
     "criteria": {
@@ -1859,7 +1865,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_ocean": "2025-04-12 02:12:19 -0600"
+      "in_pyramid_ocean": "2025-04-12 02:12:19 -0600",
+      "in_pyramid_nether": "2025-04-13 02:23:24 -0600"
     },
     "done": false
   },
