@@ -3338,11 +3338,29 @@
     },
     "done": true
   },
+  "apothic_spawners:redstone": {
+    "criteria": {
+      "modifier": "2025-04-13 16:30:46 -0600"
+    },
+    "done": true
+  },
   "twilightforest:fiery_set": {
     "criteria": {
       "fiery_chestplate": "2025-04-13 14:30:39 -0600"
     },
     "done": false
+  },
+  "apothic_spawners:nearbyents": {
+    "criteria": {
+      "modifier": "2025-04-13 16:30:35 -0600"
+    },
+    "done": true
+  },
+  "apothic_spawners:maxdelay": {
+    "criteria": {
+      "modifier": "2025-04-13 16:30:59 -0600"
+    },
+    "done": true
   },
   "ae2:main/p2p": {
     "criteria": {
