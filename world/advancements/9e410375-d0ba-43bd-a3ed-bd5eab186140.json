@@ -479,6 +479,7 @@
       "minecraft:evoker": "2025-03-21 23:35:07 -0600",
       "minecraft:witch": "2025-02-24 14:36:38 -0600",
       "minecraft:wither_skeleton": "2025-02-06 01:30:23 -0600",
+      "minecraft:husk": "2025-04-12 20:36:23 -0600",
       "minecraft:ender_dragon": "2025-02-23 16:17:09 -0600",
       "minecraft:shulker": "2025-02-23 21:51:19 -0600",
       "minecraft:cave_spider": "2025-02-06 17:09:02 -0600",
@@ -1845,17 +1846,35 @@
     },
     "done": false
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_ocean": "2025-04-12 02:12:19 -0600"
+    },
+    "done": false
+  },
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_giant_taiga": "2025-04-12 02:16:58 -0600"
     },
     "done": false
   },
-  "repurposed_structures:pyramids": {
+  "eternal_starlight:obtain_orb_of_prophecy": {
     "criteria": {
-      "in_pyramid_ocean": "2025-04-12 02:12:19 -0600"
+      "has_item": "2025-04-12 20:30:48 -0600"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-12 20:36:43 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:challenge_gatekeeper": {
+    "criteria": {
+      "challenged": "2025-04-12 20:30:47 -0600"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
