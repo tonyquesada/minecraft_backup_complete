@@ -1838,9 +1838,10 @@
   },
   "silentgear:crimson_iron": {
     "criteria": {
-      "get_ore": "2025-04-12 00:24:59 -0600"
+      "get_ore": "2025-04-12 00:24:59 -0600",
+      "get_ingot": "2025-04-13 00:57:39 -0600"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
@@ -1867,6 +1868,13 @@
       "in_village_giant_taiga": "2025-04-12 02:16:58 -0600"
     },
     "done": false
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2025-04-13 00:56:10 -0600",
+      "sapling": "2025-04-13 00:57:38 -0600"
+    },
+    "done": true
   },
   "eternal_starlight:obtain_orb_of_prophecy": {
     "criteria": {
@@ -1898,6 +1906,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-12 23:57:25 -0600"
+    },
+    "done": true
+  },
   "eternal_starlight:challenge_gatekeeper": {
     "criteria": {
       "challenged": "2025-04-12 20:30:47 -0600"
@@ -1907,6 +1921,18 @@
   "pneumaticcraft:programming_puzzle": {
     "criteria": {
       "0": "2025-04-12 23:09:14 -0600"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-04-13 00:56:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-04-13 00:56:09 -0600"
     },
     "done": true
   },
