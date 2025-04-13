@@ -3297,24 +3297,6 @@
     },
     "done": true
   },
-  "modern_industrialization:forge_hammer": {
-    "criteria": {
-      "checkInv": "2025-04-13 01:04:05 -0600"
-    },
-    "done": true
-  },
-  "modern_industrialization:steel_machine_casing": {
-    "criteria": {
-      "checkInv": "2025-04-13 02:24:57 -0600"
-    },
-    "done": true
-  },
-  "modern_industrialization:bronze_compressor": {
-    "criteria": {
-      "checkInv": "2025-04-13 01:16:57 -0600"
-    },
-    "done": true
-  },
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2025-04-12 22:40:25 -0600"
@@ -3324,6 +3306,24 @@
   "minecraft:husbandry/obtain_sniffer_egg": {
     "criteria": {
       "obtain_sniffer_egg": "2025-04-12 23:46:12 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:forge_hammer": {
+    "criteria": {
+      "checkInv": "2025-04-13 01:04:05 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:bronze_compressor": {
+    "criteria": {
+      "checkInv": "2025-04-13 01:16:57 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:steel_machine_casing": {
+    "criteria": {
+      "checkInv": "2025-04-13 02:24:57 -0600"
     },
     "done": true
   },
