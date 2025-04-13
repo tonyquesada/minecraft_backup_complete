@@ -751,12 +751,13 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_chest": "2025-02-04 13:06:55 -0600",
+      "uncommon_legs": "2025-04-13 13:43:49 -0600",
       "kill_apothic_invader": "2025-02-04 11:01:28 -0600",
       "uncommon_hand": "2025-02-05 23:12:26 -0600",
       "uncommon_helm": "2025-02-04 11:47:11 -0600",
       "uncommon_feet": "2025-02-04 11:01:44 -0600"
     },
-    "done": false
+    "done": true
   },
   "evilcraft:root": {
     "criteria": {
@@ -1721,6 +1722,7 @@
       "in_outpost_desert": "2025-04-12 22:51:03 -0600",
       "in_outpost_nether_brick": "2025-02-16 18:41:01 -0600",
       "in_outpost_badlands": "2025-02-24 18:41:18 -0600",
+      "in_outpost_warped": "2025-04-13 14:51:41 -0600",
       "in_outpost_jungle": "2025-03-18 17:55:14 -0600",
       "in_outpost_oak": "2025-02-11 22:38:56 -0600"
     },
@@ -1841,9 +1843,13 @@
   "apotheosis:progression/summit": {
     "criteria": {
       "kill_wither": "2025-02-16 16:59:39 -0600",
-      "rare_hand": "2025-02-16 19:11:29 -0600"
+      "rare_hand": "2025-02-16 19:11:29 -0600",
+      "rare_chest": "2025-04-13 14:21:24 -0600",
+      "rare_legs": "2025-04-13 14:24:39 -0600",
+      "rare_helm": "2025-04-13 13:46:33 -0600",
+      "rare_feet": "2025-04-13 14:08:34 -0600"
     },
-    "done": false
+    "done": true
   },
   "mekanismgenerators:burn_the_gas": {
     "criteria": {
@@ -3191,9 +3197,14 @@
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
-      "kill_ender_dragon": "2025-04-06 20:42:02 -0600"
+      "epic_legs": "2025-04-13 14:32:23 -0600",
+      "epic_feet": "2025-04-13 14:33:06 -0600",
+      "kill_ender_dragon": "2025-04-06 20:42:02 -0600",
+      "epic_hand": "2025-04-13 14:43:21 -0600",
+      "epic_helm": "2025-04-13 14:36:47 -0600",
+      "epic_chest": "2025-04-13 14:30:50 -0600"
     },
-    "done": false
+    "done": true
   },
   "integrateddynamics:meneglin_basics/squeezing": {
     "criteria": {
@@ -3326,6 +3337,12 @@
       "checkInv": "2025-04-13 02:24:57 -0600"
     },
     "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_chestplate": "2025-04-13 14:30:39 -0600"
+    },
+    "done": false
   },
   "ae2:main/p2p": {
     "criteria": {
