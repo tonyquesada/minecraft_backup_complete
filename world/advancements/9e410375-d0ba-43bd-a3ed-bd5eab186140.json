@@ -1869,10 +1869,9 @@
     },
     "done": false
   },
-  "silentgear:nether_plants": {
+  "eternal_starlight:challenge_gatekeeper": {
     "criteria": {
-      "banana": "2025-04-13 00:56:10 -0600",
-      "sapling": "2025-04-13 00:57:38 -0600"
+      "challenged": "2025-04-12 20:30:47 -0600"
     },
     "done": true
   },
@@ -1906,27 +1905,21 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-04-12 23:57:25 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:challenge_gatekeeper": {
-    "criteria": {
-      "challenged": "2025-04-12 20:30:47 -0600"
-    },
-    "done": true
-  },
   "pneumaticcraft:programming_puzzle": {
     "criteria": {
       "0": "2025-04-12 23:09:14 -0600"
     },
     "done": true
   },
-  "silentgear:blaze_gold": {
+  "minecraft:husbandry/obtain_sniffer_egg": {
     "criteria": {
-      "get_item": "2025-04-13 00:56:11 -0600"
+      "obtain_sniffer_egg": "2025-04-12 23:44:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-12 23:57:25 -0600"
     },
     "done": true
   },
@@ -1936,9 +1929,22 @@
     },
     "done": true
   },
-  "minecraft:husbandry/obtain_sniffer_egg": {
+  "silentgear:nether_plants": {
     "criteria": {
-      "obtain_sniffer_egg": "2025-04-12 23:44:42 -0600"
+      "banana": "2025-04-13 00:56:10 -0600",
+      "sapling": "2025-04-13 00:57:38 -0600"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-04-13 00:56:11 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-04-13 02:04:07 -0600"
     },
     "done": true
   },
