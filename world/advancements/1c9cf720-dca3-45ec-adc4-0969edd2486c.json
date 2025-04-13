@@ -987,9 +987,10 @@
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_sherd": "2025-02-05 16:55:14 -0600"
+      "has_sherd": "2025-02-05 16:55:14 -0600",
+      "desert_pyramid": "2025-04-12 23:37:56 -0600"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
@@ -1717,6 +1718,7 @@
     "criteria": {
       "in_outpost_crimson": "2025-03-24 01:08:12 -0600",
       "in_outpost_icy": "2025-03-25 21:43:38 -0600",
+      "in_outpost_desert": "2025-04-12 22:51:03 -0600",
       "in_outpost_nether_brick": "2025-02-16 18:41:01 -0600",
       "in_outpost_badlands": "2025-02-24 18:41:18 -0600",
       "in_outpost_jungle": "2025-03-18 17:55:14 -0600",
@@ -3292,6 +3294,18 @@
   "integratedtunnels:click_sword/player_simulator": {
     "criteria": {
       "criteria_0": "2025-04-10 00:16:10 -0600"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-12 22:40:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-04-12 23:46:12 -0600"
     },
     "done": true
   },
