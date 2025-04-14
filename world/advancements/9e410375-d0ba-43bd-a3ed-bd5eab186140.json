@@ -453,6 +453,7 @@
       "rotten_flesh": "2025-02-14 11:54:41 -0600",
       "rabbit": "2025-04-11 23:59:53 -0600",
       "cooked_beef": "2025-02-06 02:43:37 -0600",
+      "chorus_fruit": "2025-04-14 04:21:09 -0600",
       "beef": "2025-02-09 01:40:36 -0600",
       "baked_potato": "2025-02-16 15:13:24 -0600",
       "carrot": "2025-02-16 02:50:38 -0600"
@@ -488,6 +489,7 @@
       "minecraft:creeper": "2025-02-05 09:55:04 -0600",
       "minecraft:wither": "2025-02-24 00:19:30 -0600",
       "minecraft:evoker": "2025-03-21 23:35:07 -0600",
+      "minecraft:phantom": "2025-04-14 04:36:54 -0600",
       "minecraft:zombified_piglin": "2025-04-13 21:54:54 -0600",
       "minecraft:witch": "2025-02-24 14:36:38 -0600",
       "minecraft:wither_skeleton": "2025-02-06 01:30:23 -0600",
@@ -1077,6 +1079,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2025-04-14 04:36:54 -0600",
       "sculk_leech": "2025-03-21 22:20:38 -0600",
       "warden": "2025-02-16 15:14:31 -0600"
     },
@@ -1990,7 +1993,8 @@
   },
   "repurposed_structures:ancient_cities": {
     "criteria": {
-      "in_ancient_city_nether": "2025-04-13 23:05:01 -0600"
+      "in_ancient_city_nether": "2025-04-13 23:05:01 -0600",
+      "in_ancient_city_end": "2025-04-14 04:36:46 -0600"
     },
     "done": false
   },
@@ -2006,15 +2010,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 03:19:35 -0600"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
     "criteria": {
       "requirement": "2025-04-14 03:26:13 -0600"
     },
     "done": true
   },
-  "tombstone:adventure/village_defender": {
+  "evilcraft:fart": {
     "criteria": {
-      "coded_trigger": "2025-04-14 03:19:35 -0600"
+      "criteria_0": "2025-04-14 03:46:10 -0600"
     },
     "done": true
   },
