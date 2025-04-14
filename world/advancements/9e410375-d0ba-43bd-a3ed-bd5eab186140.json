@@ -1957,11 +1957,30 @@
     },
     "done": true
   },
-  "repurposed_structures:monuments": {
+  "repurposed_structures:ruins": {
     "criteria": {
-      "in_monument_nether": "2025-04-13 23:24:50 -0600"
+      "in_ruins_nether": "2025-04-13 21:48:41 -0600"
     },
     "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-13 21:49:07 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_crimson": "2025-04-13 22:56:58 -0600",
+      "in_outpost_nether_brick": "2025-04-13 22:18:35 -0600"
+    },
+    "done": false
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-13 22:27:27 -0600"
+    },
+    "done": true
   },
   "regions_unexplored:downer": {
     "criteria": {
@@ -1975,11 +1994,11 @@
     },
     "done": false
   },
-  "cataclysm:find_soul_black_smith": {
+  "repurposed_structures:monuments": {
     "criteria": {
-      "blacksmith": "2025-04-13 22:27:27 -0600"
+      "in_monument_nether": "2025-04-13 23:24:50 -0600"
     },
-    "done": true
+    "done": false
   },
   "farmersdelight:main/get_ham": {
     "criteria": {
@@ -1987,24 +2006,17 @@
     },
     "done": true
   },
-  "repurposed_structures:outposts": {
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
     "criteria": {
-      "in_outpost_crimson": "2025-04-13 22:56:58 -0600",
-      "in_outpost_nether_brick": "2025-04-13 22:18:35 -0600"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-04-13 21:49:07 -0600"
+      "requirement": "2025-04-14 03:26:13 -0600"
     },
     "done": true
   },
-  "repurposed_structures:ruins": {
+  "tombstone:adventure/village_defender": {
     "criteria": {
-      "in_ruins_nether": "2025-04-13 21:48:41 -0600"
+      "coded_trigger": "2025-04-14 03:19:35 -0600"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3955
 }
