@@ -488,6 +488,7 @@
       "minecraft:creeper": "2025-02-05 09:55:04 -0600",
       "minecraft:wither": "2025-02-24 00:19:30 -0600",
       "minecraft:evoker": "2025-03-21 23:35:07 -0600",
+      "minecraft:zombified_piglin": "2025-04-13 21:54:54 -0600",
       "minecraft:witch": "2025-02-24 14:36:38 -0600",
       "minecraft:wither_skeleton": "2025-02-06 01:30:23 -0600",
       "minecraft:husk": "2025-04-12 20:36:23 -0600",
@@ -1487,6 +1488,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_nether": "2025-04-13 22:32:58 -0600",
       "in_mineshaft_icy": "2025-03-02 15:42:58 -0600"
     },
     "done": false
@@ -1954,6 +1956,55 @@
       "diamond_knife": "2025-04-13 02:04:07 -0600"
     },
     "done": true
+  },
+  "repurposed_structures:monuments": {
+    "criteria": {
+      "in_monument_nether": "2025-04-13 23:24:50 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-04-13 23:01:45 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_nether": "2025-04-13 23:05:01 -0600"
+    },
+    "done": false
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-13 22:27:27 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-13 23:33:21 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_crimson": "2025-04-13 22:56:58 -0600",
+      "in_outpost_nether_brick": "2025-04-13 22:18:35 -0600"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-13 21:49:07 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-04-13 21:48:41 -0600"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

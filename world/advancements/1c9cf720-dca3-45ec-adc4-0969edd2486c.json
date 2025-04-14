@@ -3356,6 +3356,12 @@
     },
     "done": true
   },
+  "ae2:main/spatial_ioport": {
+    "criteria": {
+      "certus": "2025-04-13 23:14:21 -0600"
+    },
+    "done": true
+  },
   "apothic_spawners:maxdelay": {
     "criteria": {
       "modifier": "2025-04-13 16:30:59 -0600"
