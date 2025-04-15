@@ -3375,5 +3375,17 @@
     },
     "done": true
   },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-04-15 17:02:08 -0600"
+    },
+    "done": true
+  },
+  "trashcans:ultimate_trash_can": {
+    "criteria": {
+      "has_ultimate_trash_can": "2025-04-15 17:02:17 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
