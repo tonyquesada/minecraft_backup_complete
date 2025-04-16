@@ -3406,6 +3406,12 @@
     },
     "done": true
   },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-04-16 01:49:28 -0600"
+    },
+    "done": true
+  },
   "trashcans:ultimate_trash_can": {
     "criteria": {
       "has_ultimate_trash_can": "2025-04-15 17:02:17 -0600"
