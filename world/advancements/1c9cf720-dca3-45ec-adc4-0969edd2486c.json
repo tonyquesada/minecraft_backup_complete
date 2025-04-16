@@ -1762,6 +1762,7 @@
   "the_bumblezone:music_discs/obtain_all_music_discs": {
     "criteria": {
       "obtain_music_disc_a_last_first_last": "2025-02-14 16:00:06 -0600",
+      "obtain_music_disc_bee_ware_of_the_temple": "2025-04-16 00:03:12 -0600",
       "obtain_music_disc_honey_bee_rat_faced_boy": "2025-04-15 03:14:50 -0600",
       "obtain_music_disc_life_renren": "2025-04-06 16:43:39 -0600",
       "obtain_music_disc_drowning_in_despair": "2025-04-06 11:40:40 -0600",
@@ -3375,11 +3376,23 @@
     },
     "done": true
   },
+  "apothic_spawners:conditions": {
+    "criteria": {
+      "modifier": "2025-04-16 00:22:28 -0600"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2025-04-15 23:02:14 -0600"
     },
     "done": false
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-15 23:04:23 -0600"
+    },
+    "done": true
   },
   "trashcans:trash_can": {
     "criteria": {
@@ -3387,9 +3400,21 @@
     },
     "done": true
   },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-04-15 23:02:57 -0600"
+    },
+    "done": true
+  },
   "trashcans:ultimate_trash_can": {
     "criteria": {
       "has_ultimate_trash_can": "2025-04-15 17:02:17 -0600"
+    },
+    "done": true
+  },
+  "apothic_spawners:ultimate_spawner": {
+    "criteria": {
+      "modifier": "2025-04-16 00:22:28 -0600"
     },
     "done": true
   },
