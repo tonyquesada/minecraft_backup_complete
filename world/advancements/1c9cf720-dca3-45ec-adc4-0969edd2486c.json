@@ -3375,6 +3375,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-04-15 23:02:14 -0600"
+    },
+    "done": false
+  },
   "trashcans:trash_can": {
     "criteria": {
       "has_item_trash_can": "2025-04-15 17:02:08 -0600"
