@@ -3380,51 +3380,9 @@
     },
     "done": true
   },
-  "apothic_spawners:conditions": {
-    "criteria": {
-      "modifier": "2025-04-16 00:22:28 -0600"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-04-15 23:02:14 -0600"
-    },
-    "done": false
-  },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2025-04-15 23:04:23 -0600"
-    },
-    "done": true
-  },
-  "dimstorage:dimensional_chest": {
-    "criteria": {
-      "inv_changed": "2025-04-16 03:13:06 -0600"
-    },
-    "done": true
-  },
-  "dimstorage:root": {
-    "criteria": {
-      "inv_changed": "2025-04-16 03:12:55 -0600"
-    },
-    "done": true
-  },
   "trashcans:trash_can": {
     "criteria": {
       "has_item_trash_can": "2025-04-15 17:02:08 -0600"
-    },
-    "done": true
-  },
-  "mekanismtools:paxel": {
-    "criteria": {
-      "any_paxel": "2025-04-15 23:02:57 -0600"
-    },
-    "done": true
-  },
-  "constructionstick:iron_stick": {
-    "criteria": {
-      "iron_stick": "2025-04-16 01:49:28 -0600"
     },
     "done": true
   },
@@ -3434,9 +3392,51 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-04-15 23:02:14 -0600"
+    },
+    "done": false
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-04-15 23:02:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-15 23:04:23 -0600"
+    },
+    "done": true
+  },
+  "apothic_spawners:conditions": {
+    "criteria": {
+      "modifier": "2025-04-16 00:22:28 -0600"
+    },
+    "done": true
+  },
   "apothic_spawners:ultimate_spawner": {
     "criteria": {
       "modifier": "2025-04-16 00:22:28 -0600"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-04-16 01:49:28 -0600"
+    },
+    "done": true
+  },
+  "dimstorage:root": {
+    "criteria": {
+      "inv_changed": "2025-04-16 03:12:55 -0600"
+    },
+    "done": true
+  },
+  "dimstorage:dimensional_chest": {
+    "criteria": {
+      "inv_changed": "2025-04-16 03:13:06 -0600"
     },
     "done": true
   },
