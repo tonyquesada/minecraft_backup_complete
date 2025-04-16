@@ -3348,9 +3348,13 @@
   },
   "twilightforest:fiery_set": {
     "criteria": {
-      "fiery_chestplate": "2025-04-13 14:30:39 -0600"
+      "fiery_boots": "2025-04-16 02:48:22 -0600",
+      "fiery_helmet": "2025-04-16 02:44:10 -0600",
+      "fiery_chestplate": "2025-04-13 14:30:39 -0600",
+      "fiery_leggings": "2025-04-16 02:52:08 -0600",
+      "fiery_pick": "2025-04-16 02:58:46 -0600"
     },
-    "done": false
+    "done": true
   },
   "apothic_spawners:nearbyents": {
     "criteria": {
@@ -3391,6 +3395,18 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-04-15 23:04:23 -0600"
+    },
+    "done": true
+  },
+  "dimstorage:dimensional_chest": {
+    "criteria": {
+      "inv_changed": "2025-04-16 03:13:06 -0600"
+    },
+    "done": true
+  },
+  "dimstorage:root": {
+    "criteria": {
+      "inv_changed": "2025-04-16 03:12:55 -0600"
     },
     "done": true
   },
