@@ -1025,7 +1025,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "pine_log": "2025-03-28 00:11:14 -0600",
-      "yellow_bioshroom_stem": "2025-02-14 12:39:30 -0600"
+      "yellow_bioshroom_stem": "2025-02-14 12:39:30 -0600",
+      "kapok_log": "2025-04-17 02:08:09 -0600"
     },
     "done": false
   },
@@ -2025,6 +2026,12 @@
   "evilcraft:fart": {
     "criteria": {
       "criteria_0": "2025-04-14 03:46:10 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 01:52:49 -0600"
     },
     "done": true
   },
