@@ -1136,7 +1136,8 @@
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
-      "kill_ender_dragon": "2025-02-23 16:17:09 -0600"
+      "kill_ender_dragon": "2025-02-23 16:17:09 -0600",
+      "epic_hand": "2025-04-17 02:46:10 -0600"
     },
     "done": false
   },
@@ -2032,6 +2033,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-04-17 01:52:49 -0600"
+    },
+    "done": true
+  },
+  "integratedtunnels:import_items_list/import_items_list": {
+    "criteria": {
+      "criteria_0": "2025-04-17 02:53:00 -0600"
     },
     "done": true
   },
