@@ -3440,5 +3440,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-04-16 23:18:26 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
