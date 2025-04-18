@@ -3449,11 +3449,61 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_tooth_of_hunger": {
+    "criteria": {
+      "has_item": "2025-04-18 11:35:29 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:all_starlight_biomes": {
+    "criteria": {
+      "in_starlight_dense_forest": "2025-04-18 11:43:22 -0600",
+      "in_scarlet_forest": "2025-04-18 11:51:46 -0600",
+      "in_crystallized_desert": "2025-04-18 11:27:10 -0600",
+      "in_starlight_forest": "2025-04-18 11:34:44 -0600",
+      "in_starlight_permafrost_forest": "2025-04-18 11:52:15 -0600",
+      "in_shimmer_river": "2025-04-18 11:27:04 -0600",
+      "in_ether_river": "2025-04-18 11:50:18 -0600",
+      "in_torreya_forest": "2025-04-18 11:49:12 -0600",
+      "in_dark_swamp": "2025-04-18 11:48:54 -0600"
+    },
+    "done": false
+  },
+  "eternal_starlight:root": {
+    "criteria": {
+      "in_dim": "2025-04-18 11:27:04 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_crystallized_desert": {
+    "criteria": {
+      "in_biome": "2025-04-18 11:27:10 -0600"
+    },
+    "done": true
+  },
   "mekanism:teleporter": {
     "criteria": {
       "teleporter": "2025-04-18 10:17:18 -0600"
     },
     "done": false
+  },
+  "eternal_starlight:obtain_thermal_springstone": {
+    "criteria": {
+      "has_item": "2025-04-18 11:39:37 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:in_ether_fluid": {
+    "criteria": {
+      "in_fluid": "2025-04-18 11:50:22 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_starlight": {
+    "criteria": {
+      "in_dim": "2025-04-18 11:27:04 -0600"
+    },
+    "done": true
   },
   "mekanism:teleportation_core": {
     "criteria": {
