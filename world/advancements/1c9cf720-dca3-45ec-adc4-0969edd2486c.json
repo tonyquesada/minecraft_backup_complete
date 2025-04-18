@@ -3449,5 +3449,17 @@
     },
     "done": true
   },
+  "mekanism:teleporter": {
+    "criteria": {
+      "teleporter": "2025-04-18 10:17:18 -0600"
+    },
+    "done": false
+  },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2025-04-18 10:17:11 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
