@@ -3463,9 +3463,11 @@
       "in_starlight_forest": "2025-04-18 11:34:44 -0600",
       "in_starlight_permafrost_forest": "2025-04-18 11:52:15 -0600",
       "in_shimmer_river": "2025-04-18 11:27:04 -0600",
+      "in_lush_shallow_sea": "2025-04-18 11:57:32 -0600",
       "in_ether_river": "2025-04-18 11:50:18 -0600",
       "in_torreya_forest": "2025-04-18 11:49:12 -0600",
-      "in_dark_swamp": "2025-04-18 11:48:54 -0600"
+      "in_dark_swamp": "2025-04-18 11:48:54 -0600",
+      "in_warm_shore": "2025-04-18 11:57:27 -0600"
     },
     "done": false
   },
@@ -3502,6 +3504,12 @@
   "eternal_starlight:enter_starlight": {
     "criteria": {
       "in_dim": "2025-04-18 11:27:04 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_dusted_shard": {
+    "criteria": {
+      "has_item": "2025-04-18 11:57:42 -0600"
     },
     "done": true
   },
