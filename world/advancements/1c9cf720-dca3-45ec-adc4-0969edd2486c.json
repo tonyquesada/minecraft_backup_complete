@@ -3522,43 +3522,25 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_raw_amaramber": {
+    "criteria": {
+      "has_item": "2025-04-18 23:14:19 -0600"
+    },
+    "done": true
+  },
   "eternal_starlight:obtain_swamp_silver_ingot": {
     "criteria": {
       "has_item": "2025-04-18 23:14:25 -0600"
     },
     "done": true
   },
-  "eternal_starlight:under_permafrost_forest": {
-    "criteria": {
-      "in_biome": "2025-04-18 23:55:19 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:deactivate_energy_block": {
-    "criteria": {
-      "deactivate": "2025-04-18 23:35:11 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:obtain_thioquartz_shard": {
-    "criteria": {
-      "has_item": "2025-04-19 00:17:18 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:kill_lunar_monstrosity": {
-    "criteria": {
-      "kill": "2025-04-19 00:03:21 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:kill_golem": {
-    "criteria": {
-      "kill": "2025-04-18 23:35:23 -0600"
-    },
-    "done": true
-  },
   "eternal_starlight:obtain_glacite_shard": {
+    "criteria": {
+      "has_item": "2025-04-18 23:14:25 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_aethersent_ingot": {
     "criteria": {
       "has_item": "2025-04-18 23:14:25 -0600"
     },
@@ -3570,27 +3552,21 @@
     },
     "done": true
   },
-  "eternal_starlight:obtain_aethersent_ingot": {
+  "eternal_starlight:deactivate_energy_block": {
     "criteria": {
-      "has_item": "2025-04-18 23:14:25 -0600"
+      "deactivate": "2025-04-18 23:35:11 -0600"
     },
     "done": true
   },
-  "eternal_starlight:obtain_stellagmite": {
+  "eternal_starlight:kill_golem": {
     "criteria": {
-      "has_item": "2025-04-18 23:56:58 -0600"
+      "kill": "2025-04-18 23:35:23 -0600"
     },
     "done": true
   },
-  "eternal_starlight:obtain_raw_amaramber": {
+  "eternal_starlight:enter_abyss": {
     "criteria": {
-      "has_item": "2025-04-18 23:14:19 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:chain_tangled_skull_explosion": {
-    "criteria": {
-      "explode": "2025-04-19 00:01:35 -0600"
+      "in_biome": "2025-04-18 23:39:36 -0600"
     },
     "done": true
   },
@@ -3600,9 +3576,33 @@
     },
     "done": true
   },
-  "eternal_starlight:enter_abyss": {
+  "eternal_starlight:under_permafrost_forest": {
     "criteria": {
-      "in_biome": "2025-04-18 23:39:36 -0600"
+      "in_biome": "2025-04-18 23:55:19 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_stellagmite": {
+    "criteria": {
+      "has_item": "2025-04-18 23:56:58 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:chain_tangled_skull_explosion": {
+    "criteria": {
+      "explode": "2025-04-19 00:01:35 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_lunar_monstrosity": {
+    "criteria": {
+      "kill": "2025-04-19 00:03:21 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_thioquartz_shard": {
+    "criteria": {
+      "has_item": "2025-04-19 00:17:18 -0600"
     },
     "done": true
   },
