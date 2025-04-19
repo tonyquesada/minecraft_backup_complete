@@ -3606,5 +3606,11 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_dagger_of_hunger": {
+    "criteria": {
+      "has_item": "2025-04-19 12:56:04 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
