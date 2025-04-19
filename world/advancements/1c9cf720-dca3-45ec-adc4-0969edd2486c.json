@@ -3449,29 +3449,44 @@
     },
     "done": true
   },
-  "eternal_starlight:obtain_tooth_of_hunger": {
+  "mekanism:teleportation_core": {
     "criteria": {
-      "has_item": "2025-04-18 11:35:29 -0600"
+      "teleportation_core": "2025-04-18 10:17:11 -0600"
     },
     "done": true
+  },
+  "mekanism:teleporter": {
+    "criteria": {
+      "teleporter": "2025-04-18 10:17:18 -0600"
+    },
+    "done": false
   },
   "eternal_starlight:all_starlight_biomes": {
     "criteria": {
       "in_starlight_dense_forest": "2025-04-18 11:43:22 -0600",
-      "in_scarlet_forest": "2025-04-18 11:51:46 -0600",
       "in_crystallized_desert": "2025-04-18 11:27:10 -0600",
-      "in_starlight_forest": "2025-04-18 11:34:44 -0600",
       "in_starlight_permafrost_forest": "2025-04-18 11:52:15 -0600",
       "in_shimmer_river": "2025-04-18 11:27:04 -0600",
       "in_lush_shallow_sea": "2025-04-18 11:57:32 -0600",
+      "in_the_abyss": "2025-04-18 23:39:36 -0600",
       "in_ether_river": "2025-04-18 11:50:18 -0600",
-      "in_torreya_forest": "2025-04-18 11:49:12 -0600",
       "in_dark_swamp": "2025-04-18 11:48:54 -0600",
-      "in_warm_shore": "2025-04-18 11:57:27 -0600"
+      "in_spiral_kelp_forest": "2025-04-18 23:39:18 -0600",
+      "in_scarlet_forest": "2025-04-18 11:51:46 -0600",
+      "in_starlight_forest": "2025-04-18 11:34:44 -0600",
+      "in_torreya_forest": "2025-04-18 11:49:12 -0600",
+      "in_warm_shore": "2025-04-18 11:57:27 -0600",
+      "in_starlit_sea": "2025-04-18 23:50:55 -0600"
     },
-    "done": false
+    "done": true
   },
   "eternal_starlight:root": {
+    "criteria": {
+      "in_dim": "2025-04-18 11:27:04 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_starlight": {
     "criteria": {
       "in_dim": "2025-04-18 11:27:04 -0600"
     },
@@ -3483,11 +3498,11 @@
     },
     "done": true
   },
-  "mekanism:teleporter": {
+  "eternal_starlight:obtain_tooth_of_hunger": {
     "criteria": {
-      "teleporter": "2025-04-18 10:17:18 -0600"
+      "has_item": "2025-04-18 11:35:29 -0600"
     },
-    "done": false
+    "done": true
   },
   "eternal_starlight:obtain_thermal_springstone": {
     "criteria": {
@@ -3501,21 +3516,93 @@
     },
     "done": true
   },
-  "eternal_starlight:enter_starlight": {
-    "criteria": {
-      "in_dim": "2025-04-18 11:27:04 -0600"
-    },
-    "done": true
-  },
   "eternal_starlight:obtain_dusted_shard": {
     "criteria": {
       "has_item": "2025-04-18 11:57:42 -0600"
     },
     "done": true
   },
-  "mekanism:teleportation_core": {
+  "eternal_starlight:obtain_swamp_silver_ingot": {
     "criteria": {
-      "teleportation_core": "2025-04-18 10:17:11 -0600"
+      "has_item": "2025-04-18 23:14:25 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:under_permafrost_forest": {
+    "criteria": {
+      "in_biome": "2025-04-18 23:55:19 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:deactivate_energy_block": {
+    "criteria": {
+      "deactivate": "2025-04-18 23:35:11 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_thioquartz_shard": {
+    "criteria": {
+      "has_item": "2025-04-19 00:17:18 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_lunar_monstrosity": {
+    "criteria": {
+      "kill": "2025-04-19 00:03:21 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_golem": {
+    "criteria": {
+      "kill": "2025-04-18 23:35:23 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_glacite_shard": {
+    "criteria": {
+      "has_item": "2025-04-18 23:14:25 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_creteor": {
+    "criteria": {
+      "kill": "2025-04-18 23:22:56 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_aethersent_ingot": {
+    "criteria": {
+      "has_item": "2025-04-18 23:14:25 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_stellagmite": {
+    "criteria": {
+      "has_item": "2025-04-18 23:56:58 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_raw_amaramber": {
+    "criteria": {
+      "has_item": "2025-04-18 23:14:19 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:chain_tangled_skull_explosion": {
+    "criteria": {
+      "explode": "2025-04-19 00:01:35 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_red_velvetumoss_flower": {
+    "criteria": {
+      "has_item": "2025-04-18 23:47:17 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_abyss": {
+    "criteria": {
+      "in_biome": "2025-04-18 23:39:36 -0600"
     },
     "done": true
   },
