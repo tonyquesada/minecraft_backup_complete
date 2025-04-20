@@ -3627,5 +3627,11 @@
     },
     "done": true
   },
+  "modern_industrialization:coke_oven": {
+    "criteria": {
+      "checkInv": "2025-04-20 16:27:40 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
