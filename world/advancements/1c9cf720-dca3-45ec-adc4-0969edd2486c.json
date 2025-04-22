@@ -3646,6 +3646,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_crystallizer": "2025-04-22 17:09:10 -0600"
+    },
+    "done": false
+  },
   "mekanism:heat_transport": {
     "criteria": {
       "basic_thermodynamic_conductor": "2025-04-22 15:08:00 -0600"
