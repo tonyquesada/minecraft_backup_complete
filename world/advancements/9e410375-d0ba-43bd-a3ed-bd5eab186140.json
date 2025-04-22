@@ -2061,5 +2061,29 @@
     },
     "done": true
   },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-04-22 07:59:21 -0600"
+    },
+    "done": true
+  },
+  "apothic_spawners:modifier": {
+    "criteria": {
+      "modifier": "2025-04-22 08:19:37 -0600"
+    },
+    "done": true
+  },
+  "apothic_spawners:mindelay": {
+    "criteria": {
+      "modifier": "2025-04-22 08:19:48 -0600"
+    },
+    "done": true
+  },
+  "apothic_spawners:maxdelay": {
+    "criteria": {
+      "modifier": "2025-04-22 08:20:37 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
