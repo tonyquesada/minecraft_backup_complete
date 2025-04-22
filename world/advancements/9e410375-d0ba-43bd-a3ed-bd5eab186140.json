@@ -105,6 +105,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-02-23 21:19:40 -0600",
+      "minecraft:old_growth_pine_taiga": "2025-04-22 11:42:17 -0600",
       "minecraft:forest": "2025-02-09 01:06:06 -0600",
       "minecraft:taiga": "2025-02-23 21:23:22 -0600",
       "minecraft:deep_ocean": "2025-03-28 00:27:37 -0600",
@@ -118,6 +119,7 @@
       "minecraft:sunflower_plains": "2025-02-05 00:08:45 -0600",
       "minecraft:birch_forest": "2025-02-23 21:23:34 -0600",
       "minecraft:windswept_hills": "2025-02-24 01:40:15 -0600",
+      "minecraft:old_growth_spruce_taiga": "2025-04-22 11:42:25 -0600",
       "minecraft:snowy_beach": "2025-02-23 21:25:28 -0600",
       "minecraft:bamboo_jungle": "2025-02-09 01:21:25 -0600",
       "minecraft:wooded_badlands": "2025-04-12 00:17:27 -0600",
@@ -334,6 +336,7 @@
       "biomeswevegone:rose_fields": "2025-02-16 14:00:24 -0600",
       "biomeswevegone:basalt_barrera": "2025-04-11 23:56:31 -0600",
       "biomeswevegone:temperate_grove": "2025-02-09 01:20:25 -0600",
+      "biomeswevegone:zelkova_forest": "2025-04-22 11:41:46 -0600",
       "biomeswevegone:forgotten_forest": "2025-02-09 01:20:16 -0600",
       "biomeswevegone:aspen_boreal": "2025-02-09 01:23:24 -0600",
       "biomeswevegone:dacite_ridges": "2025-02-23 21:22:00 -0600",
@@ -349,7 +352,8 @@
       "biomeswevegone:cypress_swamplands": "2025-03-06 18:50:10 -0600",
       "biomeswevegone:baobab_savanna": "2025-02-06 10:27:28 -0600",
       "biomeswevegone:crimson_tundra": "2025-04-22 00:42:25 -0600",
-      "biomeswevegone:rainbow_beach": "2025-03-21 20:01:40 -0600"
+      "biomeswevegone:rainbow_beach": "2025-03-21 20:01:40 -0600",
+      "biomeswevegone:bayou": "2025-04-22 11:10:17 -0600"
     },
     "done": false
   },
@@ -371,6 +375,7 @@
       "pine_taiga": "2025-03-21 19:55:30 -0600",
       "bayou": "2025-02-24 14:31:52 -0600",
       "blackstone_basin": "2025-04-13 02:16:29 -0600",
+      "autumnal_maple_forest": "2025-04-22 11:38:21 -0600",
       "towering_cliffs": "2025-02-24 14:37:52 -0600",
       "chalk_cliffs": "2025-04-12 02:17:20 -0600",
       "prismachasm": "2025-02-09 12:27:51 -0600",
@@ -380,6 +385,7 @@
       "marsh": "2025-03-28 00:24:34 -0600",
       "willow_forest": "2025-02-09 16:03:55 -0600",
       "temperate_grove": "2025-02-09 01:25:58 -0600",
+      "cold_river": "2025-04-22 11:38:03 -0600",
       "barley_fields": "2025-02-09 01:29:30 -0600",
       "rocky_reef": "2025-04-12 00:18:45 -0600",
       "redstone_caves": "2025-02-09 16:10:06 -0600",
@@ -394,6 +400,7 @@
       "flower_fields": "2025-02-05 00:08:13 -0600",
       "highland_fields": "2025-02-06 17:04:58 -0600",
       "redwoods": "2025-03-14 01:38:25 -0600",
+      "maple_forest": "2025-04-22 11:36:22 -0600",
       "tropics": "2025-04-12 23:21:35 -0600",
       "rainforest": "2025-04-12 21:06:28 -0600",
       "tropical_river": "2025-04-12 21:06:27 -0600",
@@ -412,6 +419,7 @@
       "fen": "2025-04-17 03:31:38 -0600",
       "pine_taiga": "2025-03-21 19:55:30 -0600",
       "bayou": "2025-02-24 14:31:52 -0600",
+      "autumnal_maple_forest": "2025-04-22 11:38:21 -0600",
       "towering_cliffs": "2025-02-24 14:37:52 -0600",
       "chalk_cliffs": "2025-04-12 02:17:20 -0600",
       "bamboo_forest": "2025-02-09 01:03:18 -0600",
@@ -419,6 +427,7 @@
       "marsh": "2025-03-28 00:24:34 -0600",
       "willow_forest": "2025-02-09 16:03:55 -0600",
       "temperate_grove": "2025-02-09 01:25:58 -0600",
+      "cold_river": "2025-04-22 11:38:03 -0600",
       "barley_fields": "2025-02-09 01:29:30 -0600",
       "rocky_reef": "2025-04-12 00:18:45 -0600",
       "poppy_fields": "2025-04-12 00:21:48 -0600",
@@ -430,6 +439,7 @@
       "flower_fields": "2025-02-05 00:08:13 -0600",
       "highland_fields": "2025-02-06 17:04:58 -0600",
       "redwoods": "2025-03-14 01:38:25 -0600",
+      "maple_forest": "2025-04-22 11:36:22 -0600",
       "tropics": "2025-04-12 23:21:35 -0600",
       "rainforest": "2025-04-12 21:06:28 -0600",
       "tropical_river": "2025-04-12 21:06:27 -0600",
@@ -508,6 +518,7 @@
       "minecraft:piglin": "2025-02-23 23:11:51 -0600",
       "minecraft:enderman": "2025-02-05 08:32:28 -0600",
       "minecraft:silverfish": "2025-02-15 01:30:53 -0600",
+      "minecraft:stray": "2025-04-22 11:31:42 -0600",
       "minecraft:vex": "2025-03-21 23:35:07 -0600",
       "minecraft:zombie": "2025-02-05 08:30:06 -0600",
       "minecraft:drowned": "2025-02-16 22:32:21 -0600",
@@ -1985,7 +1996,8 @@
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_crimson": "2025-04-13 22:56:58 -0600",
-      "in_outpost_nether_brick": "2025-04-13 22:18:35 -0600"
+      "in_outpost_nether_brick": "2025-04-13 22:18:35 -0600",
+      "in_outpost_savanna": "2025-04-22 11:15:03 -0600"
     },
     "done": false
   },
