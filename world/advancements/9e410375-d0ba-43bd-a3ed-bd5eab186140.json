@@ -142,6 +142,7 @@
       "minecraft:grove": "2025-02-23 12:29:26 -0600",
       "minecraft:swamp": "2025-04-17 03:31:41 -0600",
       "minecraft:meadow": "2025-03-21 21:26:38 -0600",
+      "minecraft:windswept_gravelly_hills": "2025-04-22 00:41:53 -0600",
       "minecraft:savanna": "2025-02-06 10:22:41 -0600",
       "minecraft:plains": "2025-02-04 23:40:43 -0600"
     },
@@ -346,6 +347,7 @@
       "biomeswevegone:tropical_rainforest": "2025-03-14 01:41:46 -0600",
       "biomeswevegone:cypress_swamplands": "2025-03-06 18:50:10 -0600",
       "biomeswevegone:baobab_savanna": "2025-02-06 10:27:28 -0600",
+      "biomeswevegone:crimson_tundra": "2025-04-22 00:42:25 -0600",
       "biomeswevegone:rainbow_beach": "2025-03-21 20:01:40 -0600"
     },
     "done": false
@@ -493,6 +495,7 @@
       "minecraft:creeper": "2025-02-05 09:55:04 -0600",
       "minecraft:wither": "2025-02-24 00:19:30 -0600",
       "minecraft:evoker": "2025-03-21 23:35:07 -0600",
+      "minecraft:slime": "2025-04-22 00:43:36 -0600",
       "minecraft:phantom": "2025-04-14 04:36:54 -0600",
       "minecraft:zombified_piglin": "2025-04-13 21:54:54 -0600",
       "minecraft:witch": "2025-02-24 14:36:38 -0600",
@@ -2043,6 +2046,18 @@
   "integratedtunnels:import_items_list/import_items_list": {
     "criteria": {
       "criteria_0": "2025-04-17 02:53:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-04-22 00:39:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-22 00:37:30 -0600"
     },
     "done": true
   },
