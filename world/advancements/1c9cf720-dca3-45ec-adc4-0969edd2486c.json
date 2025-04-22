@@ -3646,5 +3646,11 @@
     },
     "done": true
   },
+  "mekanism:heat_transport": {
+    "criteria": {
+      "basic_thermodynamic_conductor": "2025-04-22 15:08:00 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
