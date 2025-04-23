@@ -3646,17 +3646,17 @@
     },
     "done": true
   },
+  "mekanism:heat_transport": {
+    "criteria": {
+      "basic_thermodynamic_conductor": "2025-04-22 15:08:00 -0600"
+    },
+    "done": true
+  },
   "mekanism:chemical_crystallizer": {
     "criteria": {
       "chemical_crystallizer": "2025-04-22 17:09:10 -0600"
     },
     "done": false
-  },
-  "constructionstick:template_unbreakable": {
-    "criteria": {
-      "template_unbreakable": "2025-04-22 22:21:54 -0600"
-    },
-    "done": true
   },
   "integrateddynamics:network_foundations/menril_wrenching": {
     "criteria": {
@@ -3664,9 +3664,9 @@
     },
     "done": true
   },
-  "mekanism:heat_transport": {
+  "constructionstick:template_unbreakable": {
     "criteria": {
-      "basic_thermodynamic_conductor": "2025-04-22 15:08:00 -0600"
+      "template_unbreakable": "2025-04-22 22:21:54 -0600"
     },
     "done": true
   },
