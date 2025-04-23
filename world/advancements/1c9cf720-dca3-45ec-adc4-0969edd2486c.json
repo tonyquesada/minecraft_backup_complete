@@ -3652,6 +3652,12 @@
     },
     "done": false
   },
+  "constructionstick:template_unbreakable": {
+    "criteria": {
+      "template_unbreakable": "2025-04-22 22:21:54 -0600"
+    },
+    "done": true
+  },
   "integrateddynamics:network_foundations/menril_wrenching": {
     "criteria": {
       "criteria_0": "2025-04-22 17:48:44 -0600"
