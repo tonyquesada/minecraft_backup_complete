@@ -2111,15 +2111,39 @@
     },
     "done": true
   },
+  "apothic_enchanting:80ench": {
+    "criteria": {
+      "enchanted_item": "2025-04-22 22:08:24 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-04-22 22:08:24 -0600"
+    },
+    "done": true
+  },
   "apothic_spawners:spawncount": {
     "criteria": {
       "modifier": "2025-04-22 10:54:14 -0600"
     },
     "done": true
   },
+  "apothic_enchanting:100ench": {
+    "criteria": {
+      "enchanted_item": "2025-04-22 22:08:24 -0600"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/pale_in_comparison": {
     "criteria": {
       "pale_bog": "2025-04-22 11:07:47 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2025-04-22 22:08:24 -0600"
     },
     "done": true
   },
@@ -2132,6 +2156,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
     "criteria": {
       "requirement": "2025-04-22 11:51:12 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-04-22 22:08:24 -0600"
     },
     "done": true
   },
