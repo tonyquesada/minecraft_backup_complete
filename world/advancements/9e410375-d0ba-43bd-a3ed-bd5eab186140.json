@@ -2223,15 +2223,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/under_lock_and_key": {
+  "naturesaura:end_flower": {
     "criteria": {
-      "under_lock_and_key": "2025-04-24 16:49:18 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/revaulting": {
-    "criteria": {
-      "revaulting": "2025-04-24 17:18:47 -0600"
+      "materials": "2025-04-24 16:35:06 -0600"
     },
     "done": true
   },
@@ -2241,21 +2235,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-04-24 16:49:18 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/lighten_up": {
     "criteria": {
       "lighten_up": "2025-04-24 16:52:02 -0600"
     },
     "done": true
   },
-  "naturesaura:end_flower": {
-    "criteria": {
-      "materials": "2025-04-24 16:35:06 -0600"
-    },
-    "done": true
-  },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-04-24 17:15:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-04-24 17:18:47 -0600"
     },
     "done": true
   },
