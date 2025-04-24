@@ -514,6 +514,7 @@
       "minecraft:hoglin": "2025-03-14 00:12:23 -0600",
       "minecraft:guardian": "2025-04-12 21:24:41 -0600",
       "minecraft:vindicator": "2025-04-01 01:32:50 -0600",
+      "minecraft:breeze": "2025-04-24 16:47:10 -0600",
       "minecraft:magma_cube": "2025-03-14 00:11:51 -0600",
       "minecraft:spider": "2025-02-06 15:30:38 -0600",
       "minecraft:piglin_brute": "2025-02-23 23:05:23 -0600",
@@ -2218,6 +2219,24 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2025-04-24 14:27:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-04-24 16:49:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-04-24 16:46:57 -0600"
+    },
+    "done": true
+  },
+  "naturesaura:end_flower": {
+    "criteria": {
+      "materials": "2025-04-24 16:35:06 -0600"
     },
     "done": true
   },
