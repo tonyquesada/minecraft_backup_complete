@@ -669,6 +669,7 @@
       "eucalyptus_forest": "2025-03-01 22:55:30 -0600",
       "outback": "2025-02-21 14:25:13 -0600",
       "sparse_redwoods": "2025-02-24 19:04:43 -0600",
+      "mountains": "2025-04-23 22:06:39 -0600",
       "deciduous_forest": "2025-02-24 19:03:39 -0600",
       "boreal_forest": "2025-02-11 22:14:31 -0600",
       "glistering_meadow": "2025-02-06 01:37:20 -0600",
@@ -699,6 +700,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "sparse_redwoods": "2025-02-24 19:04:43 -0600",
+      "mountains": "2025-04-23 22:06:39 -0600",
       "silver_birch_forest": "2025-02-21 12:03:20 -0600",
       "shrubland": "2025-02-11 22:53:00 -0600",
       "deciduous_forest": "2025-02-24 19:03:39 -0600",
@@ -3670,9 +3672,21 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-04-23 22:17:37 -0600"
+    },
+    "done": true
+  },
   "pneumaticcraft:aerial_interface": {
     "criteria": {
       "0": "2025-04-23 21:10:18 -0600"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-23 22:09:11 -0600"
     },
     "done": true
   },
