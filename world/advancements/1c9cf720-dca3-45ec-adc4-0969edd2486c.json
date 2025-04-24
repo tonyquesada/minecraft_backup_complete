@@ -3672,12 +3672,6 @@
     },
     "done": true
   },
-  "cataclysm:kill_harbinger": {
-    "criteria": {
-      "theharbinger": "2025-04-23 22:17:37 -0600"
-    },
-    "done": true
-  },
   "pneumaticcraft:aerial_interface": {
     "criteria": {
       "0": "2025-04-23 21:10:18 -0600"
@@ -3687,6 +3681,12 @@
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-04-23 22:09:11 -0600"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-04-23 22:17:37 -0600"
     },
     "done": true
   },
