@@ -6,16 +6,16 @@
 	last_seen: { dim: "minecraft:overworld", x: 236, y: 43, z: -33, time: 1745598630856L, xRot: 50.50522f, yRot: -104.94276f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 237, y: 36, z: -29, time: 1745559638277L, xRot: 36.565815f, yRot: -62.702576f }
-		{ dim: "minecraft:overworld", x: 230, y: -52, z: -51, time: 1745559697063L, xRot: 27.854149f, yRot: -138.10394f }
-		{ dim: "minecraft:overworld", x: 238, y: 36, z: -26, time: 1745603821831L, xRot: 12.172185f, yRot: 170.79364f }
-		{ dim: "minecraft:overworld", x: 226, y: 57, z: -129, time: 1745603919823L, xRot: 38.913837f, yRot: 177.25479f }
-		{ dim: "minecraft:overworld", x: 239, y: -52, z: -41, time: 1745606312571L, xRot: 11.707661f, yRot: 113.144684f }
 		{ dim: "minecraft:overworld", x: 161, y: 72, z: -136, time: 1745607601700L, xRot: 19.374176f, yRot: -60.509033f }
 		{ dim: "minecraft:overworld", x: 240, y: 37, z: -29, time: 1745607847089L, xRot: 26.111486f, yRot: 125.4828f }
 		{ dim: "minecraft:overworld", x: 219, y: 23, z: -108, time: 1745608063293L, xRot: 13.255807f, yRot: 155.9107f }
 		{ dim: "minecraft:overworld", x: 235, y: 40, z: -37, time: 1745615389902L, xRot: 37.37919f, yRot: -108.77957f }
 		{ dim: "minecraft:overworld", x: 256, y: 34, z: -38, time: 1745615601680L, xRot: 41.560974f, yRot: 89.8212f }
+		{ dim: "minecraft:overworld", x: 241, y: 36, z: -15, time: 1745615913929L, xRot: 24.601526f, yRot: 81.42118f }
+		{ dim: "minecraft:overworld", x: 256, y: 36, z: -35, time: 1745615975824L, xRot: 17.748106f, yRot: 79.911606f }
+		{ dim: "minecraft:overworld", x: 219, y: 71, z: -44, time: 1745616120237L, xRot: 26.460146f, yRot: 79.813545f }
+		{ dim: "minecraft:overworld", x: 184, y: 62, z: -164, time: 1745616198441L, xRot: 15.923249f, yRot: -5.83197f }
+		{ dim: "minecraft:overworld", x: 254, y: 34, z: -37, time: 1745616591848L, xRot: 21.465235f, yRot: 4.6575713f }
 	]
 	homes: {
 		casa: { dim: "minecraft:overworld", x: 220, y: 45, z: -44, time: 1744173729559L, xRot: 87.67682f, yRot: -86.66284f }
