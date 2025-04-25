@@ -3690,5 +3690,35 @@
     },
     "done": true
   },
+  "occultism:occultism/familiar_dragon": {
+    "criteria": {
+      "familiar_dragon": "2025-04-25 01:24:20 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/mans_best_friend": {
+    "criteria": {
+      "dragon_pet": "2025-04-25 01:26:14 -0600"
+    },
+    "done": false
+  },
+  "occultism:occultism/craft_gray_paste": {
+    "criteria": {
+      "craft_gray_paste": "2025-04-25 01:38:00 -0600"
+    },
+    "done": true
+  },
+  "occultism:chalks/gray": {
+    "criteria": {
+      "chalk_gray": "2025-04-25 01:38:29 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/possess_bee": {
+    "criteria": {
+      "possess_bee": "2025-04-25 01:42:20 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
