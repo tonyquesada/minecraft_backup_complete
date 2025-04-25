@@ -3702,18 +3702,6 @@
     },
     "done": false
   },
-  "occultism:chalks/orange": {
-    "criteria": {
-      "chalk_orange": "2025-04-25 01:56:41 -0600"
-    },
-    "done": true
-  },
-  "occultism:occultism/summon_unbound_afrit": {
-    "criteria": {
-      "summon_unbound_afrit": "2025-04-25 02:04:16 -0600"
-    },
-    "done": true
-  },
   "occultism:occultism/craft_gray_paste": {
     "criteria": {
       "craft_gray_paste": "2025-04-25 01:38:00 -0600"
@@ -3729,6 +3717,18 @@
   "occultism:occultism/possess_bee": {
     "criteria": {
       "possess_bee": "2025-04-25 01:42:20 -0600"
+    },
+    "done": true
+  },
+  "occultism:chalks/orange": {
+    "criteria": {
+      "chalk_orange": "2025-04-25 01:56:41 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_unbound_afrit": {
+    "criteria": {
+      "summon_unbound_afrit": "2025-04-25 02:04:16 -0600"
     },
     "done": true
   },
