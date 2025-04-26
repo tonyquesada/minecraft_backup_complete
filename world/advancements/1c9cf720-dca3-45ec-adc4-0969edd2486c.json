@@ -624,6 +624,7 @@
       "biomeswevegone:cypress_swamplands": "2025-02-18 18:51:00 -0600",
       "biomeswevegone:baobab_savanna": "2025-02-06 15:14:32 -0600",
       "biomeswevegone:crimson_tundra": "2025-02-21 13:25:03 -0600",
+      "biomeswevegone:overgrowth_woodlands": "2025-04-26 02:45:40 -0600",
       "biomeswevegone:coniferous_forest": "2025-02-17 09:57:15 -0600",
       "biomeswevegone:bayou": "2025-02-21 13:23:33 -0600",
       "biomeswevegone:rainbow_beach": "2025-02-23 14:35:05 -0600"
@@ -1773,6 +1774,7 @@
       "obtain_music_disc_bee_ware_of_the_temple": "2025-04-16 00:03:12 -0600",
       "obtain_music_disc_la_bee_da_loca": "2025-04-17 22:40:26 -0600",
       "obtain_music_disc_bee_laxing_with_the_hom_bees": "2025-04-26 00:25:33 -0600",
+      "obtain_music_disc_knowing_renren": "2025-04-26 02:06:12 -0600",
       "obtain_music_disc_honey_bee_rat_faced_boy": "2025-04-15 03:14:50 -0600",
       "obtain_music_disc_life_renren": "2025-04-06 16:43:39 -0600",
       "obtain_music_disc_drowning_in_despair": "2025-04-06 11:40:40 -0600",
@@ -3742,6 +3744,24 @@
   "occultism:chalks/red": {
     "criteria": {
       "chalk_red": "2025-04-25 15:00:31 -0600"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-04-26 01:36:44 -0600"
+    },
+    "done": true
+  },
+  "dimstorage:dimensional_tank": {
+    "criteria": {
+      "inv_changed": "2025-04-26 01:15:58 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_stable_wormhole": {
+    "criteria": {
+      "craft_stable_wormhole": "2025-04-26 01:58:59 -0600"
     },
     "done": true
   },
