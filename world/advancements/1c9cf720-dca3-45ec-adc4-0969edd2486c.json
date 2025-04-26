@@ -3747,15 +3747,15 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2025-04-26 01:36:44 -0600"
-    },
-    "done": true
-  },
   "dimstorage:dimensional_tank": {
     "criteria": {
       "inv_changed": "2025-04-26 01:15:58 -0600"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-04-26 01:36:44 -0600"
     },
     "done": true
   },
