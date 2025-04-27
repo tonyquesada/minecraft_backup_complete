@@ -1634,9 +1634,13 @@
     "criteria": {
       "mangrove_wood": "2025-04-27 00:54:23 -0600",
       "twilight_oak_sapling": "2025-04-27 00:52:20 -0600",
+      "canopy_log": "2025-04-27 01:10:58 -0600",
+      "mangrove_chest": "2025-04-27 01:33:42 -0600",
       "twilight_oak_log": "2025-04-27 00:52:18 -0600",
+      "twilight_oak_fence": "2025-04-27 02:01:59 -0600",
       "twilight_oak_wood": "2025-04-27 00:53:49 -0600",
       "mangrove_log": "2025-04-27 00:54:23 -0600",
+      "sorting_stairs": "2025-04-27 02:01:59 -0600",
       "giant_log": "2025-03-27 21:59:49 -0600"
     },
     "done": false
@@ -2264,15 +2268,83 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-04-27 01:17:43 -0600"
+    },
+    "done": false
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-04-27 02:04:41 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2025-04-27 02:08:38 -0600",
+      "kill_lich": "2025-04-27 01:17:43 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-04-27 02:08:38 -0600"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-04-27 02:08:38 -0600"
+    },
+    "done": false
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-04-27 01:37:18 -0600"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
+      "was_in_fight": "2025-04-27 01:17:43 -0600",
       "kill_naga": "2025-04-27 01:03:23 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:ore_map": {
+    "criteria": {
+      "ore_map": "2025-04-27 01:34:32 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-04-27 02:04:36 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-04-27 01:17:43 -0600"
     },
     "done": false
   },
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2025-04-27 01:03:23 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2025-04-27 01:26:42 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-04-27 01:11:33 -0600"
     },
     "done": true
   },
