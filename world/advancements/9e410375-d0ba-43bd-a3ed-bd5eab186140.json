@@ -1647,7 +1647,9 @@
       "canopy_log": "2025-04-27 01:10:58 -0600",
       "towerwood": "2025-04-27 02:22:56 -0600",
       "mossy_towerwood": "2025-04-27 02:27:51 -0600",
-      "mangrove_chest": "2025-04-27 01:33:42 -0600"
+      "mangrove_chest": "2025-04-27 01:33:42 -0600",
+      "thorn_rose": "2025-04-27 13:58:06 -0600",
+      "huge_stalk": "2025-04-27 13:51:11 -0600"
     },
     "done": false
   },
@@ -2379,11 +2381,19 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-04-27 13:48:22 -0600",
+      "use_beans": "2025-04-27 13:51:01 -0600"
+    },
+    "done": true
+  },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2025-04-27 13:34:50 -0600"
+      "previous_progression": "2025-04-27 13:34:50 -0600",
+      "lamp": "2025-04-27 13:56:29 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:troll": {
     "criteria": {
@@ -2395,6 +2405,20 @@
     "criteria": {
       "previous_progression": "2025-04-27 13:17:18 -0600",
       "was_in_fight": "2025-04-27 13:34:50 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-04-27 13:48:22 -0600",
+      "giant": "2025-04-27 13:52:51 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-04-27 13:56:29 -0600",
+      "plateau": "2025-04-27 14:01:53 -0600"
     },
     "done": true
   },
