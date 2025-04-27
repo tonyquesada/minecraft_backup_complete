@@ -1632,6 +1632,11 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "mangrove_wood": "2025-04-27 00:54:23 -0600",
+      "twilight_oak_sapling": "2025-04-27 00:52:20 -0600",
+      "twilight_oak_log": "2025-04-27 00:52:18 -0600",
+      "twilight_oak_wood": "2025-04-27 00:53:49 -0600",
+      "mangrove_log": "2025-04-27 00:54:23 -0600",
       "giant_log": "2025-03-27 21:59:49 -0600"
     },
     "done": false
@@ -2256,6 +2261,18 @@
   "minecraft:adventure/revaulting": {
     "criteria": {
       "revaulting": "2025-04-24 17:18:47 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-04-27 01:03:23 -0600"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-04-27 01:03:23 -0600"
     },
     "done": true
   },
