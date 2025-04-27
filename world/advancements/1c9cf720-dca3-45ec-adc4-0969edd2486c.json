@@ -611,6 +611,7 @@
       "biomeswevegone:frosted_coniferous_forest": "2025-02-11 22:17:21 -0600",
       "biomeswevegone:shattered_glacier": "2025-03-02 14:44:38 -0600",
       "biomeswevegone:firecracker_chaparral": "2025-02-23 14:51:54 -0600",
+      "biomeswevegone:howling_peaks": "2025-04-27 17:06:37 -0600",
       "biomeswevegone:skyrise_vale": "2025-02-10 15:16:01 -0600",
       "biomeswevegone:dead_sea": "2025-02-18 18:47:46 -0600",
       "biomeswevegone:allium_shrubland": "2025-02-05 16:18:39 -0600",
@@ -642,6 +643,7 @@
       "silver_birch_forest": "2025-02-21 12:03:20 -0600",
       "shrubland": "2025-02-11 22:53:00 -0600",
       "dry_bushland": "2025-03-01 22:35:43 -0600",
+      "cold_deciduous_forest": "2025-04-27 17:03:18 -0600",
       "redstone_abyss": "2025-02-08 19:50:06 -0600",
       "fen": "2025-02-21 13:23:25 -0600",
       "pine_taiga": "2025-02-11 23:09:10 -0600",
@@ -706,6 +708,7 @@
       "shrubland": "2025-02-11 22:53:00 -0600",
       "deciduous_forest": "2025-02-24 19:03:39 -0600",
       "dry_bushland": "2025-03-01 22:35:43 -0600",
+      "cold_deciduous_forest": "2025-04-27 17:03:18 -0600",
       "boreal_forest": "2025-02-11 22:14:31 -0600",
       "fen": "2025-02-21 13:23:25 -0600",
       "pine_taiga": "2025-02-11 23:09:10 -0600",
@@ -1648,6 +1651,7 @@
       "blue_bioshroom_stem": "2025-02-27 00:23:30 -0600",
       "blackwood_log": "2025-02-27 00:22:41 -0600",
       "green_bioshroom_stem": "2025-02-27 00:23:30 -0600",
+      "maple_log": "2025-04-27 17:03:23 -0600",
       "small_oak_log": "2025-04-03 23:53:44 -0600"
     },
     "done": false
@@ -3762,6 +3766,12 @@
   "occultism:occultism/craft_stable_wormhole": {
     "criteria": {
       "craft_stable_wormhole": "2025-04-26 01:58:59 -0600"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-27 17:08:09 -0600"
     },
     "done": true
   },
