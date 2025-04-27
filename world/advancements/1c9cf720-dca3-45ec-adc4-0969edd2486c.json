@@ -3775,5 +3775,11 @@
     },
     "done": true
   },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-04-27 17:20:14 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
