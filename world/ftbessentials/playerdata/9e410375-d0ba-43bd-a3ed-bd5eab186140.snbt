@@ -15,6 +15,7 @@
 		{ dim: "minecraft:overworld", x: 285, y: 63, z: -89, time: 1745736451650L, xRot: 4.9702816f, yRot: 105.0206f }
 		{ dim: "minecraft:overworld", x: 252, y: -52, z: -45, time: 1745736653036L, xRot: 39.121746f, yRot: 69.26102f }
 		{ dim: "twilightforest:twilight_forest", x: 2056, y: 7, z: -1772, time: 1745738118231L, xRot: 10.894546f, yRot: -89.50928f }
+		{ dim: "twilightforest:twilight_forest", x: 156, y: 3, z: -5044, time: 1745784889177L, xRot: -66.74484f, yRot: -110.97461f }
 	]
 	homes: {
 		casa: { dim: "minecraft:overworld", x: 220, y: 45, z: -44, time: 1744173729559L, xRot: 87.67682f, yRot: -86.66284f }
