@@ -1632,16 +1632,22 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "encased_towerwood": "2025-04-27 02:29:37 -0600",
       "mangrove_wood": "2025-04-27 00:54:23 -0600",
       "twilight_oak_sapling": "2025-04-27 00:52:20 -0600",
-      "canopy_log": "2025-04-27 01:10:58 -0600",
-      "mangrove_chest": "2025-04-27 01:33:42 -0600",
       "twilight_oak_log": "2025-04-27 00:52:18 -0600",
       "twilight_oak_fence": "2025-04-27 02:01:59 -0600",
       "twilight_oak_wood": "2025-04-27 00:53:49 -0600",
+      "darkwood_sapling": "2025-04-27 02:16:55 -0600",
+      "dark_wood": "2025-04-27 02:17:00 -0600",
       "mangrove_log": "2025-04-27 00:54:23 -0600",
       "sorting_stairs": "2025-04-27 02:01:59 -0600",
-      "giant_log": "2025-03-27 21:59:49 -0600"
+      "giant_log": "2025-03-27 21:59:49 -0600",
+      "dark_log": "2025-04-27 02:29:38 -0600",
+      "canopy_log": "2025-04-27 01:10:58 -0600",
+      "towerwood": "2025-04-27 02:22:56 -0600",
+      "mossy_towerwood": "2025-04-27 02:27:51 -0600",
+      "mangrove_chest": "2025-04-27 01:33:42 -0600"
     },
     "done": false
   },
@@ -2270,15 +2276,23 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-04-27 01:17:43 -0600"
+      "kill_lich": "2025-04-27 01:17:43 -0600",
+      "trophy_pedestal": "2025-04-27 02:18:20 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-04-27 02:04:41 -0600"
     },
     "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-04-27 02:14:10 -0600",
+      "ur_ghast": "2025-04-27 02:31:38 -0600"
+    },
+    "done": false
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -2289,15 +2303,23 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "was_in_fight": "2025-04-27 02:14:10 -0600",
       "stroganoff": "2025-04-27 02:08:38 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-04-27 02:08:38 -0600"
     },
     "done": false
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-04-27 02:19:07 -0600",
+      "was_in_fight": "2025-04-27 02:31:38 -0600"
+    },
+    "done": true
   },
   "twilightforest:mazebreaker": {
     "criteria": {
@@ -2315,6 +2337,13 @@
   "twilightforest:ore_map": {
     "criteria": {
       "ore_map": "2025-04-27 01:34:32 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-04-27 02:18:20 -0600",
+      "trophy": "2025-04-27 02:19:07 -0600"
     },
     "done": true
   },
