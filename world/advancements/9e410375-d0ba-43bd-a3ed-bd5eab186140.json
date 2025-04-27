@@ -2309,9 +2309,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-04-27 01:17:43 -0600"
+      "previous_progression": "2025-04-27 01:17:43 -0600",
+      "was_in_fight": "2025-04-27 13:17:18 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:maze_map": {
     "criteria": {
@@ -2359,9 +2360,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-04-27 02:14:10 -0600",
+      "snow_queen": "2025-04-27 13:34:50 -0600",
       "ur_ghast": "2025-04-27 02:31:38 -0600"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_knights": {
     "criteria": {
@@ -2374,6 +2376,25 @@
     "criteria": {
       "previous_progression": "2025-04-27 02:19:07 -0600",
       "was_in_fight": "2025-04-27 02:31:38 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-04-27 13:34:50 -0600"
+    },
+    "done": false
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-04-27 13:42:14 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-04-27 13:17:18 -0600",
+      "was_in_fight": "2025-04-27 13:34:50 -0600"
     },
     "done": true
   },
