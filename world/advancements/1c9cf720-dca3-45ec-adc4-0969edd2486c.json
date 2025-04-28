@@ -3801,5 +3801,17 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2025-04-28 02:00:28 -0600"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2025-04-28 02:00:28 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
