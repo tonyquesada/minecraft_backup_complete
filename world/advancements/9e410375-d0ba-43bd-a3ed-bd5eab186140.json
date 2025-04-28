@@ -2418,10 +2418,22 @@
     },
     "done": true
   },
+  "apothic_spawners:players": {
+    "criteria": {
+      "modifier": "2025-04-27 20:14:34 -0600"
+    },
+    "done": true
+  },
   "twilightforest:giants": {
     "criteria": {
       "pickaxe": "2025-04-27 13:48:22 -0600",
       "giant": "2025-04-27 13:52:51 -0600"
+    },
+    "done": true
+  },
+  "dimstorage:dimensional_tank": {
+    "criteria": {
+      "inv_changed": "2025-04-27 21:53:15 -0600"
     },
     "done": true
   },
