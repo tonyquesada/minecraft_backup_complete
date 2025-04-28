@@ -2391,10 +2391,10 @@
     },
     "done": true
   },
-  "twilightforest:beanstalk": {
+  "twilightforest:progress_glacier": {
     "criteria": {
-      "beans": "2025-04-27 13:48:22 -0600",
-      "use_beans": "2025-04-27 13:51:01 -0600"
+      "previous_progression": "2025-04-27 13:17:18 -0600",
+      "was_in_fight": "2025-04-27 13:34:50 -0600"
     },
     "done": true
   },
@@ -2411,16 +2411,10 @@
     },
     "done": true
   },
-  "twilightforest:progress_glacier": {
+  "twilightforest:beanstalk": {
     "criteria": {
-      "previous_progression": "2025-04-27 13:17:18 -0600",
-      "was_in_fight": "2025-04-27 13:34:50 -0600"
-    },
-    "done": true
-  },
-  "apothic_spawners:players": {
-    "criteria": {
-      "modifier": "2025-04-27 20:14:34 -0600"
+      "beans": "2025-04-27 13:48:22 -0600",
+      "use_beans": "2025-04-27 13:51:01 -0600"
     },
     "done": true
   },
@@ -2431,9 +2425,10 @@
     },
     "done": true
   },
-  "dimstorage:dimensional_tank": {
+  "twilightforest:progression_end": {
     "criteria": {
-      "inv_changed": "2025-04-27 21:53:15 -0600"
+      "previous_progression": "2025-04-27 13:56:29 -0600",
+      "plateau": "2025-04-27 14:01:53 -0600"
     },
     "done": true
   },
@@ -2443,10 +2438,15 @@
     },
     "done": true
   },
-  "twilightforest:progression_end": {
+  "apothic_spawners:players": {
     "criteria": {
-      "previous_progression": "2025-04-27 13:56:29 -0600",
-      "plateau": "2025-04-27 14:01:53 -0600"
+      "modifier": "2025-04-27 20:14:34 -0600"
+    },
+    "done": true
+  },
+  "dimstorage:dimensional_tank": {
+    "criteria": {
+      "inv_changed": "2025-04-27 21:53:15 -0600"
     },
     "done": true
   },
