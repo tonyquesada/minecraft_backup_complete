@@ -3664,9 +3664,10 @@
   "mekanism:chemical_crystallizer": {
     "criteria": {
       "chemical_dissolution_chamber": "2025-04-27 21:11:54 -0600",
-      "chemical_crystallizer": "2025-04-22 17:09:10 -0600"
+      "chemical_crystallizer": "2025-04-22 17:09:10 -0600",
+      "chemical_washer": "2025-04-28 01:42:36 -0600"
     },
-    "done": false
+    "done": true
   },
   "integrateddynamics:network_foundations/menril_wrenching": {
     "criteria": {
@@ -3773,6 +3774,12 @@
   "mekanism:purification_chamber": {
     "criteria": {
       "purification_chamber": "2025-04-27 18:47:08 -0600"
+    },
+    "done": true
+  },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2025-04-28 01:42:01 -0600"
     },
     "done": true
   },
