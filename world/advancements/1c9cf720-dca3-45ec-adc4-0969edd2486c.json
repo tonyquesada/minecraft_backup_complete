@@ -3825,6 +3825,12 @@
     },
     "done": true
   },
+  "mekanism:laser": {
+    "criteria": {
+      "laser": "2025-04-29 01:35:32 -0600"
+    },
+    "done": true
+  },
   "mekanism:waste_removal": {
     "criteria": {
       "radioactive_waste_barrel": "2025-04-29 00:39:50 -0600"
