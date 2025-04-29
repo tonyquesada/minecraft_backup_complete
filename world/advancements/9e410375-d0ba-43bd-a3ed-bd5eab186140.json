@@ -2459,6 +2459,12 @@
     },
     "done": true
   },
+  "mekanism:radiation_poisoning": {
+    "criteria": {
+      "poisoned": "2025-04-29 00:40:44 -0600"
+    },
+    "done": true
+  },
   "ae2:main/ioport": {
     "criteria": {
       "certus": "2025-04-28 22:50:04 -0600"

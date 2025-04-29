@@ -3813,6 +3813,12 @@
     },
     "done": true
   },
+  "mekanism:radiation_poisoning": {
+    "criteria": {
+      "poisoned": "2025-04-29 00:41:08 -0600"
+    },
+    "done": true
+  },
   "mekanism:polonium": {
     "criteria": {
       "pellet_polonium": "2025-04-29 00:04:29 -0600"
