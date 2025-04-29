@@ -1255,6 +1255,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2025-04-28 23:35:11 -0600",
       "minecraft:bee": "2025-02-24 02:25:28 -0600"
     },
     "done": false
@@ -2453,6 +2454,30 @@
   "ae2:main/qnb": {
     "criteria": {
       "certus": "2025-04-28 01:24:49 -0600"
+    },
+    "done": true
+  },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2025-04-28 22:50:04 -0600"
+    },
+    "done": true
+  },
+  "ae2:main/portable_cell": {
+    "criteria": {
+      "pc_1k": "2025-04-28 23:05:27 -0600"
+    },
+    "done": true
+  },
+  "ae2:main/spatial_ioport": {
+    "criteria": {
+      "certus": "2025-04-28 23:05:57 -0600"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2025-04-28 23:10:26 -0600"
     },
     "done": true
   },
