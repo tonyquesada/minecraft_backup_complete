@@ -3813,5 +3813,11 @@
     },
     "done": true
   },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2025-04-29 00:04:29 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
