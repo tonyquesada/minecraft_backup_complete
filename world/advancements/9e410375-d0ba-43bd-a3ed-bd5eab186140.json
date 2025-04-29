@@ -2471,6 +2471,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-29 01:44:02 -0600"
+    },
+    "done": true
+  },
   "apothic_enchanting:sculkshelf": {
     "criteria": {
       "echoing": "2025-04-29 01:35:18 -0600"
@@ -2483,9 +2489,21 @@
     },
     "done": true
   },
+  "apothic_enchanting:endshelf": {
+    "criteria": {
+      "endshelf": "2025-04-29 01:46:36 -0600"
+    },
+    "done": true
+  },
   "ae2:main/spatial_ioport": {
     "criteria": {
       "certus": "2025-04-28 23:05:57 -0600"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-04-29 01:47:01 -0600"
     },
     "done": true
   },
