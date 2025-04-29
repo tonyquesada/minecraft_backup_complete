@@ -3819,5 +3819,11 @@
     },
     "done": true
   },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2025-04-29 00:39:50 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

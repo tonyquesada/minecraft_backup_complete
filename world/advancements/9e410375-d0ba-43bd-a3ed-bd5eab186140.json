@@ -1563,6 +1563,8 @@
   },
   "silentgear:overworld_plants": {
     "criteria": {
+      "flax_seeds": "2025-04-29 00:08:54 -0600",
+      "flax_fibers": "2025-04-29 00:11:27 -0600",
       "fluffy_seeds": "2025-03-14 00:01:49 -0600"
     },
     "done": false
