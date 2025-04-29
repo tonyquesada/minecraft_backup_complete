@@ -2526,13 +2526,22 @@
     },
     "done": true
   },
+  "eternal_starlight:kill_lunar_monstrosity": {
+    "criteria": {
+      "kill": "2025-04-29 14:18:46 -0600"
+    },
+    "done": true
+  },
   "eternal_starlight:all_starlight_biomes": {
     "criteria": {
       "in_starlight_dense_forest": "2025-04-29 13:54:28 -0600",
       "in_scarlet_forest": "2025-04-29 13:53:31 -0600",
       "in_crystallized_desert": "2025-04-29 13:50:12 -0600",
+      "in_starlight_forest": "2025-04-29 14:12:12 -0600",
+      "in_shimmer_river": "2025-04-29 14:15:46 -0600",
       "in_ether_river": "2025-04-29 13:58:00 -0600",
-      "in_torreya_forest": "2025-04-29 13:53:48 -0600"
+      "in_torreya_forest": "2025-04-29 13:53:48 -0600",
+      "in_dark_swamp": "2025-04-29 14:19:22 -0600"
     },
     "done": false
   },
@@ -2548,15 +2557,39 @@
     },
     "done": true
   },
+  "eternal_starlight:obtain_aethersent_ingot": {
+    "criteria": {
+      "has_item": "2025-04-29 14:10:24 -0600"
+    },
+    "done": true
+  },
   "eternal_starlight:enter_crystallized_desert": {
     "criteria": {
       "in_biome": "2025-04-29 13:50:12 -0600"
     },
     "done": true
   },
+  "eternal_starlight:obtain_raw_amaramber": {
+    "criteria": {
+      "has_item": "2025-04-29 14:10:24 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_thermal_springstone": {
+    "criteria": {
+      "has_item": "2025-04-29 14:08:53 -0600"
+    },
+    "done": true
+  },
   "eternal_starlight:in_ether_fluid": {
     "criteria": {
       "in_fluid": "2025-04-29 13:58:01 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:ignite_lunar_monstrosity": {
+    "criteria": {
+      "ignite": "2025-04-29 14:18:19 -0600"
     },
     "done": true
   },
