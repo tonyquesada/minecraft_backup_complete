@@ -323,6 +323,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:atacama_outback": "2025-03-06 18:46:50 -0600",
+      "biomeswevegone:redwood_thicket": "2025-04-29 13:49:39 -0600",
       "biomeswevegone:orchard": "2025-02-15 01:26:52 -0600",
       "biomeswevegone:ironwood_gour": "2025-03-21 20:15:23 -0600",
       "biomeswevegone:windswept_desert": "2025-04-12 00:19:37 -0600",
@@ -2510,6 +2511,64 @@
   "apothic_enchanting:upgrade_endshelf": {
     "criteria": {
       "draconic": "2025-04-29 01:47:01 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-04-29 14:01:06 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_tooth_of_hunger": {
+    "criteria": {
+      "has_item": "2025-04-29 13:51:36 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:all_starlight_biomes": {
+    "criteria": {
+      "in_starlight_dense_forest": "2025-04-29 13:54:28 -0600",
+      "in_scarlet_forest": "2025-04-29 13:53:31 -0600",
+      "in_crystallized_desert": "2025-04-29 13:50:12 -0600",
+      "in_ether_river": "2025-04-29 13:58:00 -0600",
+      "in_torreya_forest": "2025-04-29 13:53:48 -0600"
+    },
+    "done": false
+  },
+  "eternal_starlight:obtain_glacite_shard": {
+    "criteria": {
+      "has_item": "2025-04-29 14:01:32 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:root": {
+    "criteria": {
+      "in_dim": "2025-04-29 13:50:12 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_crystallized_desert": {
+    "criteria": {
+      "in_biome": "2025-04-29 13:50:12 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:in_ether_fluid": {
+    "criteria": {
+      "in_fluid": "2025-04-29 13:58:01 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_seeking_eye": {
+    "criteria": {
+      "has_item": "2025-04-29 13:57:18 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_starlight": {
+    "criteria": {
+      "in_dim": "2025-04-29 13:50:12 -0600"
     },
     "done": true
   },
