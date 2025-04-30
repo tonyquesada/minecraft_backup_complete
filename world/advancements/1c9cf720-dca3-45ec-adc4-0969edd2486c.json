@@ -3887,5 +3887,11 @@
     },
     "done": true
   },
+  "mekanism:antimatter": {
+    "criteria": {
+      "pellet_antimatter": "2025-04-30 13:25:11 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
