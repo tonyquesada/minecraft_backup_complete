@@ -3837,10 +3837,52 @@
     },
     "done": true
   },
+  "occultism:chalks/pink": {
+    "criteria": {
+      "chalk_pink": "2025-04-29 18:30:45 -0600"
+    },
+    "done": true
+  },
+  "occultism:chalks/green": {
+    "criteria": {
+      "chalk_green": "2025-04-29 18:35:21 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/wild_drowned": {
+    "criteria": {
+      "wild_drowned": "2025-04-29 18:53:01 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_djinni_crusher": {
+    "criteria": {
+      "summon_djinni_crusher": "2025-04-29 18:42:53 -0600"
+    },
+    "done": true
+  },
+  "occultism:chalks/light_blue": {
+    "criteria": {
+      "chalk_light_blue": "2025-04-29 18:47:35 -0600"
+    },
+    "done": true
+  },
   "mekanism:sps": {
     "criteria": {
       "sps_casing": "2025-04-29 16:08:06 -0600",
       "sps_port": "2025-04-29 16:08:06 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/possess_zombie_piglin": {
+    "criteria": {
+      "possess_zombie_piglin": "2025-04-29 18:29:52 -0600"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_nature_paste": {
+    "criteria": {
+      "craft_nature_paste": "2025-04-29 18:34:52 -0600"
     },
     "done": true
   },
