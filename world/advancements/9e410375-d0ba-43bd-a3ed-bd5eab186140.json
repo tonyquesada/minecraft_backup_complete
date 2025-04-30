@@ -324,6 +324,7 @@
     "criteria": {
       "biomeswevegone:atacama_outback": "2025-03-06 18:46:50 -0600",
       "biomeswevegone:redwood_thicket": "2025-04-29 13:49:39 -0600",
+      "biomeswevegone:araucaria_savanna": "2025-04-30 01:18:18 -0600",
       "biomeswevegone:orchard": "2025-02-15 01:26:52 -0600",
       "biomeswevegone:ironwood_gour": "2025-03-21 20:15:23 -0600",
       "biomeswevegone:windswept_desert": "2025-04-12 00:19:37 -0600",
@@ -2514,24 +2515,6 @@
     },
     "done": true
   },
-  "eternal_starlight:obtain_swamp_silver_ingot": {
-    "criteria": {
-      "has_item": "2025-04-29 14:01:06 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:obtain_tooth_of_hunger": {
-    "criteria": {
-      "has_item": "2025-04-29 13:51:36 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:kill_lunar_monstrosity": {
-    "criteria": {
-      "kill": "2025-04-29 14:18:46 -0600"
-    },
-    "done": true
-  },
   "eternal_starlight:all_starlight_biomes": {
     "criteria": {
       "in_starlight_dense_forest": "2025-04-29 13:54:28 -0600",
@@ -2545,21 +2528,9 @@
     },
     "done": false
   },
-  "eternal_starlight:obtain_glacite_shard": {
-    "criteria": {
-      "has_item": "2025-04-29 14:01:32 -0600"
-    },
-    "done": true
-  },
   "eternal_starlight:root": {
     "criteria": {
       "in_dim": "2025-04-29 13:50:12 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:obtain_aethersent_ingot": {
-    "criteria": {
-      "has_item": "2025-04-29 14:10:24 -0600"
     },
     "done": true
   },
@@ -2569,27 +2540,15 @@
     },
     "done": true
   },
-  "eternal_starlight:obtain_raw_amaramber": {
+  "eternal_starlight:enter_starlight": {
     "criteria": {
-      "has_item": "2025-04-29 14:10:24 -0600"
+      "in_dim": "2025-04-29 13:50:12 -0600"
     },
     "done": true
   },
-  "eternal_starlight:obtain_thermal_springstone": {
+  "eternal_starlight:obtain_tooth_of_hunger": {
     "criteria": {
-      "has_item": "2025-04-29 14:08:53 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:in_ether_fluid": {
-    "criteria": {
-      "in_fluid": "2025-04-29 13:58:01 -0600"
-    },
-    "done": true
-  },
-  "eternal_starlight:ignite_lunar_monstrosity": {
-    "criteria": {
-      "ignite": "2025-04-29 14:18:19 -0600"
+      "has_item": "2025-04-29 13:51:36 -0600"
     },
     "done": true
   },
@@ -2599,9 +2558,51 @@
     },
     "done": true
   },
-  "eternal_starlight:enter_starlight": {
+  "eternal_starlight:in_ether_fluid": {
     "criteria": {
-      "in_dim": "2025-04-29 13:50:12 -0600"
+      "in_fluid": "2025-04-29 13:58:01 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-04-29 14:01:06 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_glacite_shard": {
+    "criteria": {
+      "has_item": "2025-04-29 14:01:32 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_thermal_springstone": {
+    "criteria": {
+      "has_item": "2025-04-29 14:08:53 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_aethersent_ingot": {
+    "criteria": {
+      "has_item": "2025-04-29 14:10:24 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_raw_amaramber": {
+    "criteria": {
+      "has_item": "2025-04-29 14:10:24 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:ignite_lunar_monstrosity": {
+    "criteria": {
+      "ignite": "2025-04-29 14:18:19 -0600"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_lunar_monstrosity": {
+    "criteria": {
+      "kill": "2025-04-29 14:18:46 -0600"
     },
     "done": true
   },
