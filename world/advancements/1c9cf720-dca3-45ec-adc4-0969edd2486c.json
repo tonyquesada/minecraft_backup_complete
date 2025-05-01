@@ -3905,5 +3905,11 @@
     },
     "done": true
   },
+  "modern_industrialization:steel_wiremill": {
+    "criteria": {
+      "checkInv": "2025-05-01 14:32:59 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
