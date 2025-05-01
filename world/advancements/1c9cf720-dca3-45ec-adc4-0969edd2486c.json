@@ -3850,6 +3850,12 @@
     },
     "done": true
   },
+  "modern_industrialization:bronze_macerator": {
+    "criteria": {
+      "checkInv": "2025-04-30 23:46:24 -0600"
+    },
+    "done": true
+  },
   "occultism:occultism/wild_drowned": {
     "criteria": {
       "wild_drowned": "2025-04-29 18:53:01 -0600"
