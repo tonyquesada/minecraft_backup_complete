@@ -4001,6 +4001,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/mb_refinery": {
+    "criteria": {
+      "form_multiblock": "2025-05-02 14:38:52 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/mb_fermenter": {
     "criteria": {
       "form_multiblock": "2025-05-02 14:12:31 -0600"
