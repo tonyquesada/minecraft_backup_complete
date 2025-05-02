@@ -3929,6 +3929,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "has_item": "2025-05-01 22:52:16 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/craft_sheetmetal": {
     "criteria": {
       "has_item": "2025-05-01 20:17:46 -0600"
