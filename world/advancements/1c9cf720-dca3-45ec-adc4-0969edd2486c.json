@@ -3917,5 +3917,11 @@
     },
     "done": true
   },
+  "immersiveengineering:main/mb_blastfurnace": {
+    "criteria": {
+      "form_multiblock": "2025-05-01 18:49:12 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
