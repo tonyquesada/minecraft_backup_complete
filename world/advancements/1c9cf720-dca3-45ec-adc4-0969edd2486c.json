@@ -4001,6 +4001,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-05-02 15:21:30 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/mb_refinery": {
     "criteria": {
       "form_multiblock": "2025-05-02 14:38:52 -0600"
@@ -4010,6 +4016,12 @@
   "immersiveengineering:multiblocks/mb_fermenter": {
     "criteria": {
       "form_multiblock": "2025-05-02 14:12:31 -0600"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2025-05-02 15:15:43 -0600"
     },
     "done": true
   },
