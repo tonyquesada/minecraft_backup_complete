@@ -3923,6 +3923,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/mb_squeezer": {
+    "criteria": {
+      "form_multiblock": "2025-05-01 22:26:35 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/craft_sheetmetal": {
     "criteria": {
       "has_item": "2025-05-01 20:17:46 -0600"
@@ -3932,6 +3938,18 @@
   "modern_industrialization:steel_wiremill": {
     "criteria": {
       "checkInv": "2025-05-01 14:32:59 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:analog_circuit": {
+    "criteria": {
+      "checkInv": "2025-05-01 22:08:53 -0600"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-05-01 22:06:10 -0600"
     },
     "done": true
   },
@@ -3956,6 +3974,12 @@
   "immersiveengineering:main/place_conveyor": {
     "criteria": {
       "conveyor_basic": "2025-05-01 20:30:39 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:electronic_circuit": {
+    "criteria": {
+      "checkInv": "2025-05-01 22:09:12 -0600"
     },
     "done": true
   },
