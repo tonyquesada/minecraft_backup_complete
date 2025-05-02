@@ -3911,5 +3911,11 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-05-01 18:34:00 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
