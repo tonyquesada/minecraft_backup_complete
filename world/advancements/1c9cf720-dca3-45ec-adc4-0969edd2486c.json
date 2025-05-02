@@ -3905,6 +3905,18 @@
     },
     "done": true
   },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2025-05-01 19:46:58 -0600"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2025-05-01 19:38:05 -0600"
+    },
+    "done": true
+  },
   "modern_industrialization:steel_wiremill": {
     "criteria": {
       "checkInv": "2025-05-01 14:32:59 -0600"
