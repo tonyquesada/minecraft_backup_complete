@@ -3947,9 +3947,21 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "conveyor_basic": "2025-05-01 20:30:39 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:main/mb_blastfurnace": {
     "criteria": {
       "form_multiblock": "2025-05-01 18:49:12 -0600"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_metalpress": {
+    "criteria": {
+      "form_multiblock": "2025-05-01 20:30:49 -0600"
     },
     "done": true
   },
