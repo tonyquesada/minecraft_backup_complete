@@ -4007,15 +4007,33 @@
     },
     "done": true
   },
+  "modern_industrialization:electric_blast_furnace": {
+    "criteria": {
+      "checkInv": "2025-05-02 18:19:24 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/mb_refinery": {
     "criteria": {
       "form_multiblock": "2025-05-02 14:38:52 -0600"
     },
     "done": true
   },
+  "modern_industrialization:polarizer": {
+    "criteria": {
+      "checkInv": "2025-05-02 18:03:57 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/mb_fermenter": {
     "criteria": {
       "form_multiblock": "2025-05-02 14:12:31 -0600"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_arcfurnace": {
+    "criteria": {
+      "form_multiblock": "2025-05-02 15:39:03 -0600"
     },
     "done": true
   },
