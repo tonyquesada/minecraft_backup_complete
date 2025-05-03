@@ -3471,9 +3471,10 @@
   },
   "mekanism:teleporter": {
     "criteria": {
-      "teleporter": "2025-04-18 10:17:18 -0600"
+      "teleporter": "2025-04-18 10:17:18 -0600",
+      "teleport": "2025-05-02 19:05:44 -0600"
     },
-    "done": false
+    "done": true
   },
   "eternal_starlight:all_starlight_biomes": {
     "criteria": {
