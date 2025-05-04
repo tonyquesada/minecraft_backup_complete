@@ -4002,15 +4002,9 @@
     },
     "done": true
   },
-  "create:andesite_alloy": {
+  "immersiveengineering:multiblocks/mb_fermenter": {
     "criteria": {
-      "0": "2025-05-02 15:21:30 -0600"
-    },
-    "done": true
-  },
-  "modern_industrialization:electric_blast_furnace": {
-    "criteria": {
-      "checkInv": "2025-05-02 18:19:24 -0600"
+      "form_multiblock": "2025-05-02 14:12:31 -0600"
     },
     "done": true
   },
@@ -4020,15 +4014,15 @@
     },
     "done": true
   },
-  "modern_industrialization:polarizer": {
+  "immersiveengineering:multiblocks/craft_duroplast": {
     "criteria": {
-      "checkInv": "2025-05-02 18:03:57 -0600"
+      "has_item": "2025-05-02 15:15:43 -0600"
     },
     "done": true
   },
-  "immersiveengineering:multiblocks/mb_fermenter": {
+  "create:andesite_alloy": {
     "criteria": {
-      "form_multiblock": "2025-05-02 14:12:31 -0600"
+      "0": "2025-05-02 15:21:30 -0600"
     },
     "done": true
   },
@@ -4038,9 +4032,15 @@
     },
     "done": true
   },
-  "immersiveengineering:multiblocks/craft_duroplast": {
+  "modern_industrialization:polarizer": {
     "criteria": {
-      "has_item": "2025-05-02 15:15:43 -0600"
+      "checkInv": "2025-05-02 18:03:57 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:electric_blast_furnace": {
+    "criteria": {
+      "checkInv": "2025-05-02 18:19:24 -0600"
     },
     "done": true
   },
