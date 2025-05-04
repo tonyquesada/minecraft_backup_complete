@@ -4050,9 +4050,21 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-05-03 23:30:55 -0600"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-05-03 23:07:42 -0600"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-05-03 23:57:42 -0600"
     },
     "done": true
   },
@@ -4071,6 +4083,12 @@
   "modern_industrialization:vacuum_freezer": {
     "criteria": {
       "checkInv": "2025-05-03 21:28:59 -0600"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-05-03 23:38:32 -0600"
     },
     "done": true
   },
