@@ -4044,6 +4044,12 @@
     },
     "done": true
   },
+  "modern_industrialization:electrolyzer": {
+    "criteria": {
+      "checkInv": "2025-05-03 22:22:51 -0600"
+    },
+    "done": true
+  },
   "modern_industrialization:vacuum_freezer": {
     "criteria": {
       "checkInv": "2025-05-03 21:28:59 -0600"
