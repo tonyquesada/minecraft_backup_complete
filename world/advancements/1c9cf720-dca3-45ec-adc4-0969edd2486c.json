@@ -4044,6 +4044,18 @@
     },
     "done": true
   },
+  "modern_industrialization:vacuum_freezer": {
+    "criteria": {
+      "checkInv": "2025-05-03 21:28:59 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:chemical_reactor": {
+    "criteria": {
+      "checkInv": "2025-05-03 21:41:09 -0600"
+    },
+    "done": true
+  },
   "modern_industrialization:centrifuge": {
     "criteria": {
       "checkInv": "2025-05-03 20:59:09 -0600"
