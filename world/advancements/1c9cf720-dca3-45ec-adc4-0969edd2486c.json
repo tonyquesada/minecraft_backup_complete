@@ -4050,6 +4050,24 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-05-03 23:07:42 -0600"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-05-03 23:23:17 -0600"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-05-03 23:08:54 -0600"
+    },
+    "done": true
+  },
   "modern_industrialization:vacuum_freezer": {
     "criteria": {
       "checkInv": "2025-05-03 21:28:59 -0600"
@@ -4065,6 +4083,12 @@
   "modern_industrialization:centrifuge": {
     "criteria": {
       "checkInv": "2025-05-03 20:59:09 -0600"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-05-03 23:05:28 -0600"
     },
     "done": true
   },
