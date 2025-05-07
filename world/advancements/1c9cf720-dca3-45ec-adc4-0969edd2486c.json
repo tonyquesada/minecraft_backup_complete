@@ -4122,6 +4122,30 @@
     },
     "done": true
   },
+  "modern_industrialization:steel_packer": {
+    "criteria": {
+      "checkInv": "2025-05-06 19:24:40 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:titanium_ingot": {
+    "criteria": {
+      "checkInv": "2025-05-06 19:24:32 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:blastproof_alloy_plate": {
+    "criteria": {
+      "checkInv": "2025-05-06 19:49:12 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:kanthal_coil": {
+    "criteria": {
+      "checkInv": "2025-05-06 19:11:10 -0600"
+    },
+    "done": true
+  },
   "modern_industrialization:stainless_steel_ingot": {
     "criteria": {
       "checkInv": "2025-05-06 18:46:36 -0600"
