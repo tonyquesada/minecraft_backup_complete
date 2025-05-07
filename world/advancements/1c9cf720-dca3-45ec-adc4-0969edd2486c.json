@@ -4134,9 +4134,21 @@
     },
     "done": true
   },
+  "modern_industrialization:assembler": {
+    "criteria": {
+      "checkInv": "2025-05-06 20:43:36 -0600"
+    },
+    "done": true
+  },
   "modern_industrialization:blastproof_alloy_plate": {
     "criteria": {
       "checkInv": "2025-05-06 19:49:12 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:oil_drilling_rig": {
+    "criteria": {
+      "checkInv": "2025-05-06 21:36:01 -0600"
     },
     "done": true
   },
