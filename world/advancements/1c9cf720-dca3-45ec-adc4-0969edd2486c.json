@@ -4122,5 +4122,11 @@
     },
     "done": true
   },
+  "modern_industrialization:stainless_steel_ingot": {
+    "criteria": {
+      "checkInv": "2025-05-06 18:46:36 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
