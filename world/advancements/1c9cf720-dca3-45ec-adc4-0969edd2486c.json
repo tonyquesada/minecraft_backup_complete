@@ -4122,33 +4122,9 @@
     },
     "done": true
   },
-  "modern_industrialization:steel_packer": {
+  "modern_industrialization:stainless_steel_ingot": {
     "criteria": {
-      "checkInv": "2025-05-06 19:24:40 -0600"
-    },
-    "done": true
-  },
-  "modern_industrialization:titanium_ingot": {
-    "criteria": {
-      "checkInv": "2025-05-06 19:24:32 -0600"
-    },
-    "done": true
-  },
-  "modern_industrialization:assembler": {
-    "criteria": {
-      "checkInv": "2025-05-06 20:43:36 -0600"
-    },
-    "done": true
-  },
-  "modern_industrialization:blastproof_alloy_plate": {
-    "criteria": {
-      "checkInv": "2025-05-06 19:49:12 -0600"
-    },
-    "done": true
-  },
-  "modern_industrialization:oil_drilling_rig": {
-    "criteria": {
-      "checkInv": "2025-05-06 21:36:01 -0600"
+      "checkInv": "2025-05-06 18:46:36 -0600"
     },
     "done": true
   },
@@ -4158,9 +4134,33 @@
     },
     "done": true
   },
-  "modern_industrialization:stainless_steel_ingot": {
+  "modern_industrialization:titanium_ingot": {
     "criteria": {
-      "checkInv": "2025-05-06 18:46:36 -0600"
+      "checkInv": "2025-05-06 19:24:32 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:steel_packer": {
+    "criteria": {
+      "checkInv": "2025-05-06 19:24:40 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:blastproof_alloy_plate": {
+    "criteria": {
+      "checkInv": "2025-05-06 19:49:12 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:assembler": {
+    "criteria": {
+      "checkInv": "2025-05-06 20:43:36 -0600"
+    },
+    "done": true
+  },
+  "modern_industrialization:oil_drilling_rig": {
+    "criteria": {
+      "checkInv": "2025-05-06 21:36:01 -0600"
     },
     "done": true
   },
