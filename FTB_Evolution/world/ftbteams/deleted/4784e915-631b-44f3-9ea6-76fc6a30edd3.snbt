@@ -1,0 +1,34 @@
+{
+	id: "4784e915-631b-44f3-9ea6-76fc6a30edd3"
+	type: "party"
+	owner: "1c9cf720-dca3-45ec-adc4-0969edd2486c"
+	ranks: {
+		1c9cf720-dca3-45ec-adc4-0969edd2486c: "owner"
+		9e410375-d0ba-43bd-a3ed-bd5eab186140: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "ICE KOLBI"
+		"ftbteams:description": ""
+		"ftbteams:color": "#91FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1761168673126L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Tony_Quesada\"],\"color\":\"yellow\"}" }
+		{ from: "1c9cf720-dca3-45ec-adc4-0969edd2486c", date: 1761168673169L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"ThanCR04\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1761168677857L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"ThanCR04\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}

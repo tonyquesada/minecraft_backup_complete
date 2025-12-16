@@ -1,0 +1,166 @@
+{
+	max_claim_chunks: 2000
+	max_force_load_chunks: 1000
+	last_login_time: 1764803264410L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 63, z: 49, time: 1764641931234L, force_loaded: 1764641985445L }
+			{ x: 63, z: 58, time: 1764641926379L, force_loaded: 1764641976954L }
+			{ x: 62, z: 55, time: 1764641926379L, force_loaded: 1764641982294L }
+			{ x: 65, z: 49, time: 1761273578370L, force_loaded: 1764641985444L }
+			{ x: 67, z: 58, time: 1764641926379L, force_loaded: 1764641976952L }
+			{ x: 63, z: 56, time: 1764641926379L, force_loaded: 1764641982290L }
+			{ x: 62, z: 56, time: 1764641926379L, force_loaded: 1764641982294L }
+			{ x: 61, z: 58, time: 1764641926379L, force_loaded: 1764641976954L }
+			{ x: 64, z: 50, time: 1764641931234L, force_loaded: 1764641985445L }
+			{ x: 66, z: 50, time: 1761273578370L, force_loaded: 1764641985444L }
+			{ x: 64, z: 49, time: 1764641931234L, force_loaded: 1764641985445L }
+			{ x: 61, z: 56, time: 1764641926379L, force_loaded: 1764641982291L }
+			{ x: 65, z: 57, time: 1764641926379L, force_loaded: 1764641976953L }
+			{ x: 66, z: 51, time: 1764641915292L, force_loaded: 1764641982291L }
+			{ x: 62, z: 54, time: 1764641926379L, force_loaded: 1764641982294L }
+			{ x: 66, z: 57, time: 1764641926379L, force_loaded: 1764641976952L }
+			{ x: 63, z: 57, time: 1764641926379L, force_loaded: 1764641976954L }
+			{ x: 62, z: 57, time: 1764641926379L, force_loaded: 1764641976954L }
+			{ x: 61, z: 55, time: 1764641926379L, force_loaded: 1764641982290L }
+			{ x: 63, z: 50, time: 1764641926378L, force_loaded: 1764641985445L }
+			{ x: 65, z: 51, time: 1764641915292L, force_loaded: 1764641982286L }
+			{ x: 63, z: 54, time: 1764641926379L, force_loaded: 1764641982289L }
+			{ x: 68, z: 48, time: 1761273583661L, force_loaded: 1761273584883L }
+			{ x: 62, z: 50, time: 1764641926379L, force_loaded: 1764641985446L }
+			{ x: 65, z: 58, time: 1764641926379L, force_loaded: 1764641977290L }
+			{ x: 64, z: 57, time: 1764641926379L, force_loaded: 1764641976953L }
+			{ x: 65, z: 54, time: 1764641920145L, force_loaded: 1764641982288L }
+			{ x: 62, z: 51, time: 1764641926379L, force_loaded: 1764641982293L }
+			{ x: 63, z: 51, time: 1764641926378L, force_loaded: 1764641982287L }
+			{ x: 69, z: 56, time: 1764641926378L, force_loaded: 1764641974730L }
+			{ x: 64, z: 55, time: 1764641926379L, force_loaded: 1764641982293L }
+			{ x: 66, z: 58, time: 1764641926379L, force_loaded: 1764641976953L }
+			{ x: 64, z: 54, time: 1764641926379L, force_loaded: 1764641982293L }
+			{ x: 61, z: 50, time: 1764641930378L, force_loaded: 1764641986234L }
+			{ x: 61, z: 51, time: 1764641930378L, force_loaded: 1764641982288L }
+			{ x: 65, z: 43, time: 1761112761236L, force_loaded: 1764642007998L }
+			{ x: 66, z: 56, time: 1764641926379L, force_loaded: 1764641982293L }
+			{ x: 69, z: 48, time: 1761273578369L }
+			{ x: 66, z: 55, time: 1764641920145L, force_loaded: 1764641982292L }
+			{ x: 63, z: 55, time: 1764641926379L, force_loaded: 1764641982290L }
+			{ x: 61, z: 57, time: 1764641926379L, force_loaded: 1764641976954L }
+			{ x: 62, z: 49, time: 1764641931234L, force_loaded: 1764641985446L }
+			{ x: 64, z: 58, time: 1764641926379L, force_loaded: 1764641976953L }
+			{ x: 65, z: 56, time: 1764641926379L, force_loaded: 1764641982289L }
+			{ x: 69, z: 45, time: 1761112729593L }
+			{ x: 65, z: 53, time: 1764641913489L, force_loaded: 1764641982287L }
+			{ x: 69, z: 46, time: 1761112729593L }
+			{ x: 65, z: 55, time: 1764641920145L, force_loaded: 1764641982288L }
+			{ x: 66, z: 44, time: 1761112729593L, force_loaded: 1761112736605L }
+			{ x: 66, z: 53, time: 1764641913489L, force_loaded: 1764641982291L }
+			{ x: 64, z: 52, time: 1764641926379L, force_loaded: 1764641982292L }
+			{ x: 66, z: 54, time: 1764641920145L, force_loaded: 1764641982292L }
+			{ x: 61, z: 52, time: 1764641926379L, force_loaded: 1764641982290L }
+			{ x: 68, z: 43, time: 1761112761236L, force_loaded: 1761112763116L }
+			{ x: 64, z: 53, time: 1764641926379L, force_loaded: 1764641982292L }
+			{ x: 61, z: 49, time: 1764641930377L, force_loaded: 1764641986233L }
+			{ x: 69, z: 43, time: 1761112761236L, force_loaded: 1761112762685L }
+			{ x: 64, z: 56, time: 1764641926379L, force_loaded: 1764641982294L }
+			{ x: 67, z: 44, time: 1761112729593L, force_loaded: 1761112754442L }
+			{ x: 63, z: 53, time: 1764641926378L, force_loaded: 1764641982288L }
+			{ x: 67, z: 43, time: 1761112761236L, force_loaded: 1764642007997L }
+			{ x: 68, z: 44, time: 1761112729593L, force_loaded: 1761112755360L }
+			{ x: 61, z: 53, time: 1764641926379L, force_loaded: 1764641982290L }
+			{ x: 62, z: 52, time: 1764641926379L, force_loaded: 1764641982293L }
+			{ x: 68, z: 47, time: 1761112729593L, force_loaded: 1764641989082L }
+			{ x: 62, z: 58, time: 1764641926379L, force_loaded: 1764641976954L }
+			{ x: 65, z: 52, time: 1764641915615L, force_loaded: 1764641982287L }
+			{ x: 68, z: 45, time: 1761112729593L, force_loaded: 1761112740359L }
+			{ x: 66, z: 52, time: 1764641913489L, force_loaded: 1764641982291L }
+			{ x: 62, z: 43, time: 1764642014878L, force_loaded: 1764642016793L }
+			{ x: 68, z: 53, time: 1764641920145L, force_loaded: 1764641972285L }
+			{ x: 63, z: 52, time: 1764641926378L, force_loaded: 1764641982288L }
+			{ x: 67, z: 45, time: 1761112729593L, force_loaded: 1761112740655L }
+			{ x: 62, z: 44, time: 1764642014878L, force_loaded: 1764642016794L }
+			{ x: 61, z: 47, time: 1764641934447L, force_loaded: 1764641990284L }
+			{ x: 64, z: 46, time: 1764642014878L, force_loaded: 1764642016793L }
+			{ x: 69, z: 51, time: 1764641913489L, force_loaded: 1764641974731L }
+			{ x: 67, z: 52, time: 1764641913488L, force_loaded: 1764641982285L }
+			{ x: 61, z: 46, time: 1764642014879L, force_loaded: 1764642016795L }
+			{ x: 67, z: 46, time: 1761112729593L, force_loaded: 1761112740890L }
+			{ x: 63, z: 47, time: 1764641934447L, force_loaded: 1764641990281L }
+			{ x: 68, z: 46, time: 1761273569737L, force_loaded: 1761273570323L }
+			{ x: 62, z: 53, time: 1764641926379L, force_loaded: 1764641982294L }
+			{ x: 63, z: 44, time: 1764642014878L, force_loaded: 1764642016793L }
+			{ x: 67, z: 47, time: 1761112729593L, force_loaded: 1761112739119L }
+			{ x: 69, z: 53, time: 1764641920145L, force_loaded: 1764641974729L }
+			{ x: 65, z: 45, time: 1761112729593L, force_loaded: 1764642007998L }
+			{ x: 69, z: 47, time: 1761112729593L, force_loaded: 1764641989081L }
+			{ x: 61, z: 43, time: 1764642014878L, force_loaded: 1764642016794L }
+			{ x: 63, z: 45, time: 1764642014878L, force_loaded: 1764642016794L }
+			{ x: 64, z: 47, time: 1764641934447L, force_loaded: 1764641990285L }
+			{ x: 66, z: 45, time: 1761112729593L, force_loaded: 1761112737152L }
+			{ x: 62, z: 45, time: 1764642014878L, force_loaded: 1764642016794L }
+			{ x: 66, z: 47, time: 1761112729593L, force_loaded: 1761112738409L }
+			{ x: 64, z: 45, time: 1764642014878L, force_loaded: 1764642016793L }
+			{ x: 62, z: 48, time: 1764641934447L, force_loaded: 1764641985445L }
+			{ x: 69, z: 44, time: 1761112729593L, force_loaded: 1761112755961L }
+			{ x: 61, z: 44, time: 1764642014878L, force_loaded: 1764642016794L }
+			{ x: 64, z: 43, time: 1764642014878L, force_loaded: 1764642016791L }
+			{ x: 63, z: 46, time: 1764642014878L, force_loaded: 1764642016794L }
+			{ x: 66, z: 46, time: 1761112729593L, force_loaded: 1761112741161L }
+			{ x: 65, z: 46, time: 1761112729593L, force_loaded: 1764642007998L }
+			{ x: 66, z: 43, time: 1761112761236L, force_loaded: 1764642007997L }
+			{ x: 69, z: 52, time: 1764641920145L, force_loaded: 1764641974731L }
+			{ x: 61, z: 45, time: 1764642014878L, force_loaded: 1764642016795L }
+			{ x: 63, z: 43, time: 1764642014878L, force_loaded: 1764642016793L }
+			{ x: 65, z: 44, time: 1761112729593L, force_loaded: 1764642007998L }
+			{ x: 65, z: 47, time: 1761112729593L, force_loaded: 1764641990991L }
+			{ x: 69, z: 57, time: 1764641926378L, force_loaded: 1764641974730L }
+			{ x: 68, z: 54, time: 1764641920145L, force_loaded: 1764641972286L }
+			{ x: 63, z: 48, time: 1764641934447L, force_loaded: 1764641985445L }
+			{ x: 67, z: 51, time: 1764641915292L, force_loaded: 1764641982285L }
+			{ x: 68, z: 51, time: 1764641913489L, force_loaded: 1764641974731L }
+			{ x: 61, z: 48, time: 1764641934447L, force_loaded: 1764641985445L }
+			{ x: 67, z: 48, time: 1761273583977L, force_loaded: 1761273585480L }
+			{ x: 69, z: 54, time: 1764641920145L, force_loaded: 1764641974730L }
+			{ x: 68, z: 55, time: 1764641920145L, force_loaded: 1764641972287L }
+			{ x: 69, z: 55, time: 1764641920145L, force_loaded: 1764641975140L }
+			{ x: 67, z: 49, time: 1761273583977L, force_loaded: 1761273585481L }
+			{ x: 64, z: 44, time: 1764642014878L, force_loaded: 1764642016792L }
+			{ x: 67, z: 50, time: 1761273578369L, force_loaded: 1761273585919L }
+			{ x: 68, z: 49, time: 1761273583662L, force_loaded: 1761273584884L }
+			{ x: 68, z: 58, time: 1764641926379L, force_loaded: 1764641976951L }
+			{ x: 68, z: 52, time: 1764641913488L, force_loaded: 1764641974729L }
+			{ x: 67, z: 56, time: 1764641926378L, force_loaded: 1764641982287L }
+			{ x: 67, z: 55, time: 1764641920145L, force_loaded: 1764641982287L }
+			{ x: 68, z: 56, time: 1764641926379L, force_loaded: 1764641972287L }
+			{ x: 67, z: 53, time: 1764641920145L, force_loaded: 1764641982286L }
+			{ x: 66, z: 48, time: 1761273578369L, force_loaded: 1764641985439L }
+			{ x: 65, z: 50, time: 1761273578370L, force_loaded: 1764641985445L }
+			{ x: 62, z: 46, time: 1764642014879L, force_loaded: 1764642016794L }
+			{ x: 62, z: 47, time: 1764641934447L, force_loaded: 1764641990283L }
+			{ x: 69, z: 49, time: 1761273578369L }
+			{ x: 69, z: 58, time: 1764641926378L, force_loaded: 1764641974731L }
+			{ x: 64, z: 48, time: 1764641934447L, force_loaded: 1764641985445L }
+			{ x: 66, z: 49, time: 1761273578370L, force_loaded: 1764641985442L }
+			{ x: 67, z: 54, time: 1764641920145L, force_loaded: 1764641982286L }
+			{ x: 67, z: 57, time: 1764641926378L, force_loaded: 1764641976951L }
+			{ x: 61, z: 54, time: 1764641926379L, force_loaded: 1764641982290L }
+			{ x: 68, z: 57, time: 1764641926379L, force_loaded: 1764641976950L }
+			{ x: 69, z: 50, time: 1761273578369L }
+			{ x: 68, z: 50, time: 1761273578369L, force_loaded: 1761273586142L }
+			{ x: 65, z: 48, time: 1761273578369L, force_loaded: 1764641985441L }
+			{ x: 64, z: 51, time: 1764641926379L, force_loaded: 1764641982291L }
+		]
+	}
+	member_data: {
+		9e410375-d0ba-43bd-a3ed-bd5eab186140: {
+			max_force_loaded_chunks: 1000
+			max_claimed_chunks: 2000
+			offline_force_loader: 0b
+		}
+	}
+	prevented_access: {
+		41c82c87-7afb-4024-bb57-13d2c99cae77: {
+			name: "[IntegratedTunnels]"
+			when: 1764816291154L
+		}
+	}
+}

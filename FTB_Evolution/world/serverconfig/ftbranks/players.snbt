@@ -1,0 +1,22 @@
+{
+	9e410375-d0ba-43bd-a3ed-bd5eab186140: {
+		name: "ThanCR04"
+		ranks: {
+			ultimine_upgrade1: "2025-10-11T05:15:11.337108700Z"
+			ultimine_upgrade2: "2025-10-11T06:17:38.708090400Z"
+			ultimine_upgrade3: "2025-10-16T04:11:27.330975700Z"
+			ultimine_upgrade4: "2025-10-16T18:47:04.556468300Z"
+			ultimine_upgrade5: "2025-10-16T23:21:59.528949300Z"
+		}
+	}
+	1c9cf720-dca3-45ec-adc4-0969edd2486c: {
+		name: "Tony_Quesada"
+		ranks: {
+			ultimine_upgrade1: "2025-10-11T19:46:11.386144800Z"
+			ultimine_upgrade2: "2025-10-11T23:26:07.483819100Z"
+			ultimine_upgrade3: "2025-10-12T05:00:03.975785400Z"
+			ultimine_upgrade4: "2025-10-12T05:32:49.954403500Z"
+			ultimine_upgrade5: "2025-10-12T05:32:51.435382Z"
+		}
+	}
+}

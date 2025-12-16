@@ -1,0 +1,48 @@
+{
+	member: {
+		name: "Member"
+		power: 1
+		condition: "always_active"
+	}
+	vip: {
+		name: "VIP"
+		power: 50
+		ftbranks.name_format: "&bVIP {name}"
+	}
+	admin: {
+		name: "Admin"
+		power: 1000
+		condition: "op"
+		ftbranks.name_format: "&2{name}"
+	}
+	ultimine_upgrade0: {
+		name: "ultimine_upgrade0"
+		power: 1
+		ftbultimine.max_blocks: 16.0d
+	}
+	ultimine_upgrade1: {
+		name: "ultimine_upgrade1"
+		power: 2
+		ftbultimine.max_blocks: 32.0d
+	}
+	ultimine_upgrade2: {
+		name: "ultimine_upgrade2"
+		power: 3
+		ftbultimine.max_blocks: 48.0d
+	}
+	ultimine_upgrade3: {
+		name: "ultimine_upgrade3"
+		power: 4
+		ftbultimine.max_blocks: 64.0d
+	}
+	ultimine_upgrade4: {
+		name: "ultimine_upgrade4"
+		power: 5
+		ftbultimine.max_blocks: 96.0d
+	}
+	ultimine_upgrade5: {
+		name: "ultimine_upgrade5"
+		power: 6
+		ftbultimine.max_blocks: 128.0d
+	}
+}
