@@ -1,0 +1,129 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 200
+	last_login_time: 1777766640946L
+	chunks: {
+		"minecraft:the_nether": [
+			{ x: 31, z: 32, time: 1775930343902L, force_loaded: 1775930344779L }
+			{ x: 32, z: 32, time: 1775930343902L, force_loaded: 1775930344779L }
+			{ x: 31, z: 31, time: 1775930343855L, force_loaded: 1775930344745L }
+			{ x: 32, z: 31, time: 1775930343902L, force_loaded: 1775930344779L }
+		]
+		"minecraft:overworld": [
+			{ x: 258, z: 255, time: 1774220978495L, force_loaded: 1774220980290L }
+			{ x: 252, z: 259, time: 1775162726322L, force_loaded: 1775162728520L }
+			{ x: 259, z: 256, time: 1775103244754L, force_loaded: 1775103245537L }
+			{ x: 254, z: 261, time: 1775236780367L, force_loaded: 1775236793102L }
+			{ x: 257, z: 258, time: 1774634388579L, force_loaded: 1774634389491L }
+			{ x: 256, z: 263, time: 1776225090486L, force_loaded: 1776225130823L }
+			{ x: 257, z: 262, time: 1776225090498L, force_loaded: 1776225130931L }
+			{ x: 256, z: 262, time: 1776225090485L, force_loaded: 1776225130822L }
+			{ x: 252, z: 257, time: 1775162726322L, force_loaded: 1775162728518L }
+			{ x: 250, z: 260, time: 1776225090498L, force_loaded: 1776225130823L }
+			{ x: 253, z: 254, time: 1775103241233L }
+			{ x: 250, z: 263, time: 1776225090498L, force_loaded: 1776225130929L }
+			{ x: 253, z: 257, time: 1775103241235L }
+			{ x: 254, z: 257, time: 1774163025734L, force_loaded: 1774163033577L }
+			{ x: 249, z: 262, time: 1776225090875L, force_loaded: 1776225130933L }
+			{ x: 249, z: 254, time: 1776225090498L, force_loaded: 1776225130930L }
+			{ x: 254, z: 259, time: 1775162726322L, force_loaded: 1775162728518L }
+			{ x: 251, z: 258, time: 1775236780366L, force_loaded: 1775236790790L }
+			{ x: 257, z: 256, time: 1774163025735L, force_loaded: 1774163033578L }
+			{ x: 255, z: 257, time: 1774163025734L, force_loaded: 1774163033577L }
+			{ x: 258, z: 261, time: 1775236780364L }
+			{ x: 251, z: 259, time: 1775236780367L, force_loaded: 1775236790790L }
+			{ x: 256, z: 254, time: 1774163025735L, force_loaded: 1774163033577L }
+			{ x: 249, z: 260, time: 1776225090875L, force_loaded: 1776225130932L }
+			{ x: 251, z: 262, time: 1776225090875L, force_loaded: 1776225130932L }
+			{ x: 256, z: 257, time: 1774163025734L, force_loaded: 1774163033576L }
+			{ x: 250, z: 258, time: 1776225090486L, force_loaded: 1776225130823L }
+			{ x: 257, z: 263, time: 1776225090498L, force_loaded: 1776225130931L }
+			{ x: 250, z: 262, time: 1776225090498L, force_loaded: 1776225130900L }
+			{ x: 258, z: 254, time: 1774220978495L, force_loaded: 1774220980289L }
+			{ x: 249, z: 263, time: 1776225090875L, force_loaded: 1776225130933L }
+			{ x: 256, z: 261, time: 1775236780366L, force_loaded: 1775236793101L }
+			{ x: 258, z: 260, time: 1775236780360L }
+			{ x: 257, z: 260, time: 1775236780364L, force_loaded: 1775236790789L }
+			{ x: 255, z: 259, time: 1775162726322L, force_loaded: 1775162728517L }
+			{ x: 257, z: 254, time: 1774163025735L, force_loaded: 1774163033577L }
+			{ x: 249, z: 255, time: 1776225090498L, force_loaded: 1776225121667L }
+			{ x: 256, z: 255, time: 1774163025735L, force_loaded: 1774163033578L }
+			{ x: 251, z: 263, time: 1776225090875L, force_loaded: 1776225130932L }
+			{ x: 253, z: 259, time: 1775162726322L, force_loaded: 1775162728519L }
+			{ x: 259, z: 257, time: 1775103244754L, force_loaded: 1775103245538L }
+			{ x: 256, z: 260, time: 1775236780364L, force_loaded: 1775236790789L }
+			{ x: 254, z: 256, time: 1774163025734L, force_loaded: 1774163033577L }
+			{ x: 254, z: 254, time: 1774163025734L, force_loaded: 1774163033573L }
+			{ x: 250, z: 254, time: 1776225090427L, force_loaded: 1776225133322L }
+			{ x: 254, z: 258, time: 1774634388579L, force_loaded: 1774634389492L }
+			{ x: 253, z: 261, time: 1775236780367L, force_loaded: 1775236793099L }
+			{ x: 253, z: 258, time: 1775103241235L, force_loaded: 1775103242387L }
+			{ x: 257, z: 255, time: 1774163025735L, force_loaded: 1774163033577L }
+			{ x: 257, z: 261, time: 1775236780366L, force_loaded: 1775236793101L }
+			{ x: 255, z: 258, time: 1774634388579L, force_loaded: 1774634389492L }
+			{ x: 256, z: 256, time: 1774163025734L, force_loaded: 1774163033575L }
+			{ x: 255, z: 255, time: 1774163025733L, force_loaded: 1774163033575L }
+			{ x: 255, z: 254, time: 1774163025735L, force_loaded: 1774163033577L }
+			{ x: 253, z: 260, time: 1775236780366L, force_loaded: 1775236790790L }
+			{ x: 249, z: 256, time: 1776225090498L, force_loaded: 1776225130931L }
+			{ x: 251, z: 255, time: 1775236780364L, force_loaded: 1775236790789L }
+			{ x: 254, z: 255, time: 1774163025734L, force_loaded: 1774163033576L }
+			{ x: 253, z: 263, time: 1776225090875L, force_loaded: 1776225130932L }
+			{ x: 251, z: 260, time: 1775236780367L, force_loaded: 1775236790791L }
+			{ x: 250, z: 256, time: 1776225090485L, force_loaded: 1776225130822L }
+			{ x: 256, z: 258, time: 1774634388579L, force_loaded: 1774634389492L }
+			{ x: 250, z: 259, time: 1776225090486L, force_loaded: 1776225130823L }
+			{ x: 252, z: 261, time: 1775236780367L, force_loaded: 1775236793101L }
+			{ x: 255, z: 256, time: 1774163025734L, force_loaded: 1774163033576L }
+			{ x: 253, z: 256, time: 1775103241235L }
+			{ x: 258, z: 258, time: 1775162738258L, force_loaded: 1775162738764L }
+			{ x: 252, z: 255, time: 1775291968229L, force_loaded: 1775291968680L }
+			{ x: 249, z: 258, time: 1776225090498L, force_loaded: 1776225130932L }
+			{ x: 252, z: 254, time: 1775162726320L, force_loaded: 1775162728516L }
+			{ x: 258, z: 259, time: 1775162738258L, force_loaded: 1775162738765L }
+			{ x: 251, z: 256, time: 1775236780366L, force_loaded: 1775236790789L }
+			{ x: 257, z: 259, time: 1775162726320L, force_loaded: 1775162728516L }
+			{ x: 252, z: 262, time: 1776225090498L, force_loaded: 1776225130823L }
+			{ x: 258, z: 257, time: 1774220978495L, force_loaded: 1774220980290L }
+			{ x: 257, z: 257, time: 1774163025734L, force_loaded: 1774634392078L }
+			{ x: 249, z: 261, time: 1776225090875L, force_loaded: 1776225130932L }
+			{ x: 259, z: 255, time: 1775103244754L, force_loaded: 1775103245536L }
+			{ x: 250, z: 255, time: 1776225116596L, force_loaded: 1776225130822L }
+			{ x: 255, z: 260, time: 1775236780366L, force_loaded: 1775236790789L }
+			{ x: 252, z: 258, time: 1775162726322L, force_loaded: 1775162728519L }
+			{ x: 255, z: 263, time: 1776225090498L, force_loaded: 1776225130932L }
+			{ x: 253, z: 262, time: 1776225090498L, force_loaded: 1776225130932L }
+			{ x: 249, z: 259, time: 1776225090498L, force_loaded: 1776225130932L }
+			{ x: 254, z: 262, time: 1776225090486L, force_loaded: 1776225130823L }
+			{ x: 249, z: 257, time: 1776225090498L, force_loaded: 1776225130932L }
+			{ x: 250, z: 261, time: 1776225090498L, force_loaded: 1776225130824L }
+			{ x: 255, z: 261, time: 1775236780366L, force_loaded: 1775236793102L }
+			{ x: 252, z: 256, time: 1775162726322L, force_loaded: 1775162728518L }
+			{ x: 256, z: 259, time: 1775162726322L, force_loaded: 1775162728517L }
+			{ x: 251, z: 254, time: 1775236780364L, force_loaded: 1775236790787L }
+			{ x: 258, z: 256, time: 1774220978495L, force_loaded: 1774220980290L }
+			{ x: 251, z: 261, time: 1775236780367L, force_loaded: 1775236790791L }
+			{ x: 251, z: 257, time: 1775236780366L, force_loaded: 1775236790789L }
+			{ x: 254, z: 260, time: 1775236780366L, force_loaded: 1775236790789L }
+			{ x: 253, z: 255, time: 1775291968223L }
+			{ x: 252, z: 263, time: 1776225090498L, force_loaded: 1776225130824L }
+			{ x: 252, z: 260, time: 1775236780367L, force_loaded: 1775236790791L }
+			{ x: 255, z: 262, time: 1776225090498L, force_loaded: 1776225130931L }
+			{ x: 250, z: 257, time: 1776225090485L, force_loaded: 1776225130823L }
+			{ x: 254, z: 263, time: 1776225090498L, force_loaded: 1776225130823L }
+		]
+		"minecraft:the_end": [
+			{ x: 5, z: 0, time: 1775930782972L, force_loaded: 1775930784713L }
+			{ x: 6, z: 0, time: 1775930782972L, force_loaded: 1775930784713L }
+			{ x: 6, z: -1, time: 1775930782972L, force_loaded: 1775930784712L }
+			{ x: 5, z: -1, time: 1775930782972L, force_loaded: 1775930784712L }
+		]
+	}
+	member_data: {
+		1c9cf720-dca3-45ec-adc4-0969edd2486c: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 200
+		}
+	}
+}
